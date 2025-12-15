@@ -1,0 +1,150 @@
+file,class,method,ATFD,ATLD,LAA,FDP,line
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\ObjectPayload.java,ysoserial.payloads.ObjectPayload$Utils,"getPayloadClass/1[java.lang.String]",2.0,0.0,0.0,2.0,26
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\ObjectPayload.java,ysoserial.payloads.ObjectPayload$Utils,"getPayloadClasses/0",4.0,0.0,0.0,4.0,18
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\ObjectPayload.java,ysoserial.payloads.ObjectPayload$Utils,"Utils/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsBeanutilsCollectionsLogging1.java,ysoserial.payloads.CommonsBeanutilsCollectionsLogging1,"getObject/1[java.lang.String]",2.0,0.0,0.0,1.0,19
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsBeanutilsCollectionsLogging1.java,ysoserial.payloads.CommonsBeanutilsCollectionsLogging1,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,41
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsBeanutilsCollectionsLogging1.java,ysoserial.payloads.CommonsBeanutilsCollectionsLogging1,"CommonsBeanutilsCollectionsLogging1/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,"call/0",0.0,1.0,1.0,0.0,15
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,"serialize/1[java.lang.Object]",0.0,0.0,-1.0,0.0,19
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,"serialize/2[java.lang.Object, java.io.OutputStream]",0.0,0.0,-1.0,0.0,25
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,"Serializer/1[java.lang.Object]",0.0,1.0,1.0,0.0,11
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\exploit\RMIRegistryExploitTest.java,ysoserial.exploit.RMIRegistryExploitTest,"createRegistry/1[int]",0.0,0.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\exploit\RMIRegistryExploitTest.java,ysoserial.exploit.RMIRegistryExploitTest,"main/1[java.lang.String[]]",1.0,0.0,0.0,1.0,12
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\exploit\RMIRegistryExploitTest.java,ysoserial.exploit.RMIRegistryExploitTest,"RMIRegistryExploitTest/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\PayloadRunner.java,ysoserial.payloads.util.PayloadRunner$1,"call/0",2.0,0.0,0.0,2.0,20
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\annotation\Dependencies.java,ysoserial.payloads.annotation.Dependencies$Utils,"getDependencies/1[java.lang.reflect.AnnotatedElement]",2.0,0.0,0.0,2.0,15
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\annotation\Dependencies.java,ysoserial.payloads.annotation.Dependencies$Utils,"Utils/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Jdk7u21.java,ysoserial.payloads.Jdk7u21,"getObject/1[java.lang.String]",8.0,0.0,0.0,4.0,58
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Jdk7u21.java,ysoserial.payloads.Jdk7u21,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,82
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Jdk7u21.java,ysoserial.payloads.Jdk7u21,"Jdk7u21/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Spring1.java,ysoserial.payloads.Spring1,"getObject/1[java.lang.String]",7.0,0.0,0.0,5.0,53
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Spring1.java,ysoserial.payloads.Spring1,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,74
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Spring1.java,ysoserial.payloads.Spring1,"Spring1/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$ExecMockSerializable,"readObject/1[java.io.ObjectInputStream]",1.0,0.0,0.0,1.0,58
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$ExecMockSerializable,"ExecMockSerializable/1[java.lang.String]",0.0,1.0,1.0,0.0,56
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections1.java,ysoserial.payloads.CommonsCollections1,"getObject/1[java.lang.String]",8.0,0.0,0.0,7.0,44
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections1.java,ysoserial.payloads.CommonsCollections1,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,75
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections1.java,ysoserial.payloads.CommonsCollections1,"CommonsCollections1/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections4.java,ysoserial.payloads.CommonsCollections4,"getObject/1[java.lang.String]",7.0,0.0,0.0,4.0,30
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections4.java,ysoserial.payloads.CommonsCollections4,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,60
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections4.java,ysoserial.payloads.CommonsCollections4,"CommonsCollections4/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets$Foo,"Foo/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\exploit\RMIRegistryExploit.java,ysoserial.exploit.RMIRegistryExploit,"exploit/3[java.rmi.registry.Registry, java.lang.Class, java.lang.String]",2.0,0.0,0.0,2.0,34
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\exploit\RMIRegistryExploit.java,ysoserial.exploit.RMIRegistryExploit,"main/1[java.lang.String[]]",3.0,0.0,0.0,3.0,22
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\exploit\RMIRegistryExploit.java,ysoserial.exploit.RMIRegistryExploit,"RMIRegistryExploit/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Reflections.java,ysoserial.payloads.util.Reflections,"getField/2[java.lang.Class, java.lang.String]",4.0,1.0,0.2,2.0,8
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Reflections.java,ysoserial.payloads.util.Reflections,"getFieldValue/2[java.lang.Object, java.lang.String]",2.0,1.0,0.33333334,2.0,22
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Reflections.java,ysoserial.payloads.util.Reflections,"getFirstCtor/1[java.lang.String]",2.0,0.0,0.0,2.0,27
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Reflections.java,ysoserial.payloads.util.Reflections,"setFieldValue/3[java.lang.Object, java.lang.String, java.lang.Object]",2.0,1.0,0.33333334,2.0,17
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Reflections.java,ysoserial.payloads.util.Reflections,"Reflections/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Groovy1.java,ysoserial.payloads.Groovy1,"getObject/1[java.lang.String]",1.0,0.0,0.0,1.0,32
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Groovy1.java,ysoserial.payloads.Groovy1,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,42
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\Groovy1.java,ysoserial.payloads.Groovy1,"Groovy1/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"deserializeWithDependencies/3[byte[], java.lang.String[], java.lang.Class[]]",10.0,0.0,0.0,5.0,91
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"payloads/0",3.0,0.0,0.0,3.0,45
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"testPayload/0",0.0,1.0,1.0,0.0,58
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"testPayload/2[java.lang.Class, java.lang.Class[]]",7.0,1.0,0.125,6.0,62
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"PayloadsTest/1[java.lang.Class]",0.0,1.0,1.0,0.0,53
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\ObjectPayload.java,ysoserial.payloads.ObjectPayload,"getObject/1[java.lang.String]",0.0,0.0,-1.0,0.0,14
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections3.java,ysoserial.payloads.CommonsCollections3,"getObject/1[java.lang.String]",4.0,0.0,0.0,4.0,31
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections3.java,ysoserial.payloads.CommonsCollections3,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,57
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections3.java,ysoserial.payloads.CommonsCollections3,"CommonsCollections3/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest$2,"call/0",0.0,0.0,-1.0,0.0,75
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createMap/2[java.lang.String, java.lang.Object]",0.0,0.0,-1.0,0.0,69
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createMemoitizedProxy/3[java.util.Map, java.lang.Class, java.lang.Class[]]",0.0,0.0,-1.0,0.0,51
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createMemoizedInvocationHandler/1[java.util.Map]",2.0,1.0,0.33333334,2.0,56
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createProxy/3[java.lang.reflect.InvocationHandler, java.lang.Class, java.lang.Class[]]",5.0,0.0,0.0,2.0,60
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createTemplatesImpl/1[java.lang.String]",9.0,0.0,0.0,6.0,75
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"Gadgets/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,(initializer 1),1.0,0.0,0.0,1.0,29
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets$StubTransletPayload,"transform/3[com.sun.org.apache.xalan.internal.xsltc.DOM, com.sun.org.apache.xml.internal.dtm.DTMAxisIterator, com.sun.org.apache.xml.internal.serializer.SerializationHandler]",0.0,0.0,-1.0,0.0,43
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets$StubTransletPayload,"transform/2[com.sun.org.apache.xalan.internal.xsltc.DOM, com.sun.org.apache.xml.internal.serializer.SerializationHandler[]]",0.0,0.0,-1.0,0.0,40
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets$StubTransletPayload,"StubTransletPayload/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload,"main/1[java.lang.String[]]",4.0,3.0,0.42857143,4.0,20
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload,"printUsage/0",3.0,0.0,0.0,3.0,48
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload,"GeneratePayload/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,"getSecurityManager/0",1.0,0.0,0.0,1.0,22
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,"install/0",1.0,0.0,0.0,1.0,12
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,"setSecurityManager/1[java.lang.SecurityManager]",1.0,0.0,0.0,1.0,17
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,"wrap/2[java.lang.SecurityManager, java.util.concurrent.Callable]",0.0,3.0,1.0,0.0,26
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,"ThreadLocalSecurityManager/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\ClassFiles.java,ysoserial.payloads.util.ClassFiles,"classAsBytes/1[java.lang.Class]",2.0,0.0,0.0,2.0,25
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\ClassFiles.java,ysoserial.payloads.util.ClassFiles,"classAsFile/1[java.lang.Class]",0.0,0.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\ClassFiles.java,ysoserial.payloads.util.ClassFiles,"classAsFile/2[java.lang.Class, boolean]",4.0,0.0,0.0,1.0,12
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\ClassFiles.java,ysoserial.payloads.util.ClassFiles,"ClassFiles/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload$ToStringComparator,"compare/2[java.lang.Object, java.lang.Object]",0.0,0.0,-1.0,0.0,61
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload$ToStringComparator,"ToStringComparator/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\exploit\RMIRegistryExploit.java,ysoserial.exploit.RMIRegistryExploit$1,"call/0",2.0,0.0,0.0,2.0,37
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"checkExec/1[java.lang.String]",0.0,1.0,1.0,0.0,33
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"checkPermission/1[java.security.Permission]",0.0,0.0,-1.0,0.0,27
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"checkPermission/2[java.security.Permission, java.lang.Object]",0.0,0.0,-1.0,0.0,30
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"getCmds/0",0.0,1.0,1.0,0.0,22
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"wrap/1[java.lang.Runnable]",0.0,0.0,-1.0,0.0,59
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"wrap/1[java.util.concurrent.Callable]",5.0,6.0,0.54545456,2.0,68
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"ExecCheckingSecurityManager/0",0.0,0.0,-1.0,0.0,10
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,"ExecCheckingSecurityManager/1[boolean]",0.0,1.0,1.0,0.0,14
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\Throwables.java,ysoserial.Throwables,"getInnermostCause/1[java.lang.Throwable]",1.0,1.0,0.5,1.0,4
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\Throwables.java,ysoserial.Throwables,"Throwables/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections2.java,ysoserial.payloads.CommonsCollections2,"getObject/1[java.lang.String]",2.0,0.0,0.0,1.0,31
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections2.java,ysoserial.payloads.CommonsCollections2,"main/1[java.lang.String[]]",0.0,1.0,1.0,0.0,53
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\CommonsCollections2.java,ysoserial.payloads.CommonsCollections2,"CommonsCollections2/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,"getCmd/0",0.0,1.0,1.0,0.0,50
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,"getMessage/0",0.0,2.0,1.0,0.0,54
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,"getThreadName/0",0.0,1.0,1.0,0.0,51
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,"ExecException/1[java.lang.String]",0.0,1.0,1.0,0.0,49
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest,"testHarnessClassLoaderFail/0",2.0,0.0,0.0,2.0,26
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest,"testHarnessExecFail/0",2.0,0.0,0.0,2.0,14
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest,"testHarnessExecPass/0",2.0,0.0,0.0,2.0,37
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest,"TestHarnessTest/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$1,"call/0",0.0,0.0,-1.0,0.0,61
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest$3,(initializer 1),5.0,0.0,0.0,3.0,98
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest$1,"call/0",1.0,0.0,0.0,1.0,67
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$ExecMockPayload,"getObject/1[java.lang.String]",0.0,0.0,-1.0,0.0,42
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$ExecMockPayload,"ExecMockPayload/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\PayloadRunner.java,ysoserial.payloads.util.PayloadRunner,"run/2[java.lang.Class, java.lang.String[]]",2.0,0.0,0.0,2.0,17
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\PayloadRunner.java,ysoserial.payloads.util.PayloadRunner,"PayloadRunner/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkAccept/2[java.lang.String, int]",0.0,1.0,1.0,0.0,127
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkAccess/1[java.lang.Thread]",0.0,1.0,1.0,0.0,44
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkAccess/1[java.lang.ThreadGroup]",0.0,1.0,1.0,0.0,49
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkAwtEventQueueAccess/0",0.0,1.0,1.0,0.0,175
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkConnect/2[java.lang.String, int]",0.0,1.0,1.0,0.0,109
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkConnect/3[java.lang.String, int, java.lang.Object]",0.0,1.0,1.0,0.0,115
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkCreateClassLoader/0",0.0,1.0,1.0,0.0,39
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkDelete/1[java.lang.String]",0.0,1.0,1.0,0.0,103
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkExec/1[java.lang.String]",0.0,1.0,1.0,0.0,61
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkExit/1[int]",0.0,1.0,1.0,0.0,55
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkLink/1[java.lang.String]",0.0,1.0,1.0,0.0,67
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkListen/1[int]",0.0,1.0,1.0,0.0,121
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkMemberAccess/2[java.lang.Class, int]",0.0,1.0,1.0,0.0,199
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkMulticast/1[java.net.InetAddress]",0.0,1.0,1.0,0.0,133
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkMulticast/2[java.net.InetAddress, byte]",0.0,1.0,1.0,0.0,139
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPackageAccess/1[java.lang.String]",0.0,1.0,1.0,0.0,181
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPackageDefinition/1[java.lang.String]",0.0,1.0,1.0,0.0,187
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPermission/1[java.security.Permission]",0.0,1.0,1.0,0.0,29
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPermission/2[java.security.Permission, java.lang.Object]",0.0,1.0,1.0,0.0,34
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPrintJobAccess/0",0.0,1.0,1.0,0.0,163
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPropertiesAccess/0",0.0,1.0,1.0,0.0,145
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkPropertyAccess/1[java.lang.String]",0.0,1.0,1.0,0.0,151
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkRead/1[java.io.FileDescriptor]",0.0,1.0,1.0,0.0,73
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkRead/1[java.lang.String]",0.0,1.0,1.0,0.0,79
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkRead/2[java.lang.String, java.lang.Object]",0.0,1.0,1.0,0.0,85
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkSecurityAccess/1[java.lang.String]",0.0,1.0,1.0,0.0,205
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkSetFactory/0",0.0,1.0,1.0,0.0,193
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkSystemClipboardAccess/0",0.0,1.0,1.0,0.0,169
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkTopLevelWindow/1[java.lang.Object]",0.0,1.0,1.0,0.0,157
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkWrite/1[java.io.FileDescriptor]",0.0,1.0,1.0,0.0,91
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"checkWrite/1[java.lang.String]",0.0,1.0,1.0,0.0,97
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"getInCheck/0",2.0,1.0,0.5,1.0,19
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"getSecurityContext/0",1.0,1.0,0.5,1.0,24
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"getSecurityManager/0",0.0,1.0,1.0,0.0,10
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"getThreadGroup/0",1.0,1.0,0.5,1.0,211
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"setSecurityManager/1[java.lang.SecurityManager]",0.0,1.0,1.0,0.0,14
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,"DelegateSecurityManager/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$NoopMockPayload,"getObject/1[java.lang.String]",0.0,0.0,-1.0,0.0,48
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$NoopMockPayload,"NoopMockPayload/0",0.0,0.0,-1.0,0.0,
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,"call/0",0.0,1.0,1.0,0.0,16
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,"deserialize/1[byte[]]",0.0,0.0,-1.0,0.0,20
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,"deserialize/1[java.io.InputStream]",0.0,0.0,-1.0,0.0,25
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,"main/1[java.lang.String[]]",2.0,0.0,0.0,2.0,30
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,"Deserializer/1[byte[]]",0.0,1.0,1.0,0.0,14

@@ -3,20 +3,20 @@ package com.example.node;
 import java.util.ArrayList;
 import java.util.List;
 
-import spoon.reflect.declaration.CtClass;
+import spoon.reflect.declaration.CtType;
 
 public class ClassMetrics extends NodeMetrics{
-    CtClass declaration;
+    CtType declaration;
     List<MethodMetrics> methodsMetrics;
 
-    public ClassMetrics(CtClass declaration){
+    public ClassMetrics(CtType declaration){
         this.declaration=declaration;
         this.methodsMetrics=new ArrayList<>();
     }
-    public CtClass getDeclaration(){
+    public CtType getDeclaration(){
         return declaration;
     }
-    public void setDeclaration(CtClass declaration){
+    public void setDeclaration(CtType declaration){
         this.declaration=declaration;
     }
     public List<MethodMetrics> getMethodsMetrics(){

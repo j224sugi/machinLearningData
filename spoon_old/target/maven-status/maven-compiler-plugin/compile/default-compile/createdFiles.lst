@@ -1,0 +1,14 @@
+com\example\calculate\BaseClassUsageRation.class
+com\example\calculate\NumProtMembersInParent.class
+com\example\node\NodeMetrics.class
+com\example\calculate\SuperClass.class
+com\example\Main.class
+com\example\garbage\AccessToData_demo.class
+com\example\node\MethodMetrics.class
+com\example\calculate\ForeignDataProvider.class
+com\example\ASTVisitor.class
+com\example\node\ClassMetrics.class
+com\example\calculate\AccessToData.class
+com\example\calculate\NumOvererideMethod.class
+com\example\Visitor.class
+com\example\calculate\IAttribute.class

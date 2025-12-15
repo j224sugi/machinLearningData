@@ -1,0 +1,11 @@
+ClassMetrics
+superClasses : Lisr<CtTypeReference> そのクラスの全ての親クラス
+superClassMethods : List<CtMethod> そのクラスの全ての親クラスが持つメソッド（オーバーライドされている場合はオーバーライド後のメソッド）
+overrideMethod : List<String> そのクラス内のメソッドにおいてオーバーライドしているもの
+
+MethodMetrics
+ListOfATFD : List<String> そのメソッド内で呼び出されている，外部クラス（親クラス含む）のメソッド・外部クラスのフィールドの宣言クラス名
+ListOfATLD : List<String>　そのメソッド内で呼び出されている，自クラスのメソッド，自クラス・親クラスのフィールド
+ListOfError : List<String>　そのメソッド内で呼び出されたメソッド・フィールドの名前解決ができなかったもの
+ListOfLocalInvocation : List<CtInvocation>　そのメソッドで呼び出された，親クラス（自クラスは含まない）のメソッド
+ListOfLocalField : List<CtFieldAccess>　そのメソッドで呼び出された，親クラス（自クラス含む）のフィールド

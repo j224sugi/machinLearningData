@@ -1,27 +1,27 @@
 package com.example.node;
 
-import spoon.reflect.declaration.CtClass;
-import spoon.reflect.declaration.CtMethod;
+import spoon.reflect.declaration.CtExecutable;
+import spoon.reflect.declaration.CtType;
 
 public class MethodMetrics extends NodeMetrics {
 
-    private CtMethod declaration;
+    private CtExecutable declaration;
     private ClassMetrics classMetrics;
 
-    public MethodMetrics(CtMethod declaration, ClassMetrics classMetrics) {
+    public MethodMetrics(CtExecutable declaration, ClassMetrics classMetrics) {
         this.declaration = declaration;
         this.classMetrics = classMetrics;
     }
 
-    public CtMethod getDeclaration() {
+    public CtExecutable getDeclaration() {
         return declaration;
     }
 
-    public void setDeclaration(CtMethod declaration) {
+    public void setDeclaration(CtExecutable declaration) {
         this.declaration = declaration;
     }
 
-    public CtClass getClassParent() {
+    public CtType getClassParent() {
         return classMetrics.getDeclaration();
     }
 

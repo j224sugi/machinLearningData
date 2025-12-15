@@ -1,8 +1,1 @@
-fastjson,1.2.78,fastjson
-guava,v31.0,guava
-java-faker,97688b38e631de7430816af909c8389c430d31f9,javafaker
-jedis,v3.6.3,jedis
-jsoup,jsoup-1.14.3,jsoup
-junit4,7167b23b3ba7dd79410f6e9db350d16cbe30617b,junit4
-libgdx,gdx-parent-1.9.13,libgdx
-zookeeper,release-3.7.0,zookeeper
+fastjson,1.2.76,1.2.75,fastjson

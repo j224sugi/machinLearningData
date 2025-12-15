@@ -1,196 +1,202 @@
-file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\LebowskiTest.java,com.github.javafaker.LebowskiTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\RockBandTest.java,com.github.javafaker.RockBandTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesGrouping.java,com.github.javafaker.service.FakeValuesGrouping,0.0,-1.0,2.0,1.0,0.33333334,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NameTest.java,com.github.javafaker.NameTest,1.0,0.0,0.0,2.0,1.0,1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesService.java,com.github.javafaker.service.FakeValuesService,0.0,-1.0,38.0,1.0,0.025641026,-1.0,13.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$2,0.0,0.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Superhero.java,com.github.javafaker.Superhero,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest,1.0,0.0,15.0,14.0,0.4827586,0.0,4.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesGroupingTest.java,com.github.javafaker.service.FakeValuesGroupingTest,0.0,-1.0,11.0,3.0,0.21428572,-1.0,3.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CryptoTest.java,com.github.javafaker.CryptoTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AvatarTest.java,com.github.javafaker.AvatarTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\SlackEmoji.java,com.github.javafaker.SlackEmoji,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\GameOfThronesTest.java,com.github.javafaker.GameOfThronesTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\EducatorTest.java,com.github.javafaker.EducatorTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CommerceTest.java,com.github.javafaker.CommerceTest,1.0,0.0,0.0,6.0,1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BookTest.java,com.github.javafaker.BookTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\IdNumberTest.java,com.github.javafaker.IdNumberTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesServiceTest.java,com.github.javafaker.service.FakeValuesServiceTest$DummyService,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Finance.java,com.github.javafaker.Finance,0.0,-1.0,5.0,1.0,0.16666667,-1.0,4.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\AquaTeenHungerForce.java,com.github.javafaker.AquaTeenHungerForce,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ProgrammingLanguageTest.java,com.github.javafaker.ProgrammingLanguageTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AviationTest.java,com.github.javafaker.AviationTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BeerTest.java,com.github.javafaker.BeerTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Number.java,com.github.javafaker.Number,0.0,-1.0,6.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AncientTest.java,com.github.javafaker.AncientTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\LordOfTheRings.java,com.github.javafaker.LordOfTheRings,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Hobbit.java,com.github.javafaker.Hobbit,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BusinessTest.java,com.github.javafaker.BusinessTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CatTest.java,com.github.javafaker.CatTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\HowIMetYourMother.java,com.github.javafaker.HowIMetYourMother,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$3$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\integration\Issue194SlashFormatRegexIT.java,com.github.javafaker.integration.Issue194SlashFormatRegexIT,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\RelationshipTest.java,com.github.javafaker.RelationshipTest,1.0,0.083333336,5.0,5.0,0.5,0.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HarryPotterTest.java,com.github.javafaker.HarryPotterTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Relationships.java,com.github.javafaker.Relationships,0.0,-1.0,8.0,1.0,0.11111111,-1.0,4.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\LeagueOfLegendsTest.java,com.github.javafaker.LeagueOfLegendsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FileTest.java,com.github.javafaker.FileTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ColorTest.java,com.github.javafaker.ColorTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Crypto.java,com.github.javafaker.Crypto,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\StarTrekTest.java,com.github.javafaker.StarTrekTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\YodaTest.java,com.github.javafaker.YodaTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\RandomService.java,com.github.javafaker.service.RandomService,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FunnyNameTest.java,com.github.javafaker.FunnyNameTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\HarryPotter.java,com.github.javafaker.HarryPotter,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Color.java,com.github.javafaker.Color,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Medical.java,com.github.javafaker.Medical,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\DateAndTime.java,com.github.javafaker.DateAndTime,0.0,-1.0,20.0,2.0,0.09090909,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Dune.java,com.github.javafaker.Dune,0.0,-1.0,4.0,5.0,0.5555556,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$1$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\RobinTest.java,com.github.javafaker.RobinTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesService.java,com.github.javafaker.service.FakeValuesService$MethodAndCoercedArgs,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\WeatherTest.java,com.github.javafaker.WeatherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Artist.java,com.github.javafaker.Artist,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\LeagueOfLegends.java,com.github.javafaker.LeagueOfLegends,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ShakespeareTest.java,com.github.javafaker.ShakespeareTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Music.java,com.github.javafaker.Music,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\integration\FakerIT.java,com.github.javafaker.integration.FakerIT,0.0,-1.0,15.0,3.0,0.16666667,-1.0,9.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\OptionsTest.java,com.github.javafaker.OptionsTest,1.0,0.0,1.0,4.0,0.8,0.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\MusicTest.java,com.github.javafaker.MusicTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AbstractFakerTest.java,com.github.javafaker.AbstractFakerTest,0.0,-1.0,7.0,0.0,0.0,-1.0,4.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AppTest.java,com.github.javafaker.AppTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\idnumbers\SwedishIdNumberTest.java,com.github.javafaker.idnumbers.SwedishIdNumberTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Job.java,com.github.javafaker.Job,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Matz.java,com.github.javafaker.Matz,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\UniversityTest.java,com.github.javafaker.UniversityTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\LordOfTheRingsTest.java,com.github.javafaker.LordOfTheRingsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\repeating\RepeatRule.java,com.github.javafaker.repeating.RepeatRule$RepeatStatement,0.0,0.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BackToTheFutureTest.java,com.github.javafaker.BackToTheFutureTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\App.java,com.github.javafaker.App,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Book.java,com.github.javafaker.Book,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsANumber.java,com.github.javafaker.matchers.IsANumber,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\InternetTest.java,com.github.javafaker.InternetTest,1.0,0.0,4.0,0.0,0.0,0.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Company.java,com.github.javafaker.Company,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\EsportsTest.java,com.github.javafaker.EsportsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ElderScrollsTest.java,com.github.javafaker.ElderScrollsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FoodTest.java,com.github.javafaker.FoodTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\integration\UkLocalDirectivesTest.java,com.github.javafaker.integration.UkLocalDirectivesTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\TwinPeaksTest.java,com.github.javafaker.TwinPeaksTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\GameOfThrones.java,com.github.javafaker.GameOfThrones,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Zelda.java,com.github.javafaker.Zelda,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Options.java,com.github.javafaker.Options,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\BackToTheFuture.java,com.github.javafaker.BackToTheFuture,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AnimalTest.java,com.github.javafaker.AnimalTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Country.java,com.github.javafaker.Country,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CompanyTest.java,com.github.javafaker.CompanyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\DemographicTest.java,com.github.javafaker.DemographicTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$2$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Animal.java,com.github.javafaker.Animal,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ChuckNorrisTest.java,com.github.javafaker.ChuckNorrisTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\DragonBallTest.java,com.github.javafaker.DragonBallTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Bool.java,com.github.javafaker.Bool,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Currency.java,com.github.javafaker.Currency,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\DragonBall.java,com.github.javafaker.DragonBall,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Address.java,com.github.javafaker.Address,0.0,-1.0,0.0,20.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Buffy.java,com.github.javafaker.Buffy,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HowIMetYourMotherTest.java,com.github.javafaker.HowIMetYourMotherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Faker.java,com.github.javafaker.Faker,0.0,-1.0,0.0,81.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Pokemon.java,com.github.javafaker.Pokemon,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Name.java,com.github.javafaker.Name,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Beer.java,com.github.javafaker.Beer,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesTest.java,com.github.javafaker.service.FakeValuesTest,0.0,-1.0,7.0,7.0,0.5,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsANumberTest.java,com.github.javafaker.matchers.IsANumberTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AddressTest.java,com.github.javafaker.AddressTest,1.0,0.0,2.0,5.0,0.71428573,1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Demographic.java,com.github.javafaker.Demographic,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\MatchesRegularExpression.java,com.github.javafaker.matchers.MatchesRegularExpression,0.0,0.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Esports.java,com.github.javafaker.Esports,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\SlackEmojiTest.java,com.github.javafaker.SlackEmojiTest,1.0,0.0,0.0,9.0,1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\TeamTest.java,com.github.javafaker.TeamTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\service\RandomServiceTest.java,com.github.javafaker.service.RandomServiceTest,1.0,0.0,4.0,0.0,0.0,0.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HobbitTest.java,com.github.javafaker.HobbitTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Code.java,com.github.javafaker.Code,0.0,-1.0,7.0,3.0,0.3,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\FunnyName.java,com.github.javafaker.FunnyName,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\HitchhikersGuideToTheGalaxy.java,com.github.javafaker.HitchhikersGuideToTheGalaxy,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Space.java,com.github.javafaker.Space,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Educator.java,com.github.javafaker.Educator,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\File.java,com.github.javafaker.File,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$1,0.0,0.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\AquaTeenHungerForceTest.java,com.github.javafaker.AquaTeenHungerForceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Business.java,com.github.javafaker.Business,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\University.java,com.github.javafaker.University,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CountryTest.java,com.github.javafaker.CountryTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Nation.java,com.github.javafaker.Nation,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\SuperheroTest.java,com.github.javafaker.SuperheroTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Ancient.java,com.github.javafaker.Ancient,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\repeating\RepeatRule.java,com.github.javafaker.repeating.RepeatRule,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HitchhikersGuideToTheGalaxyTest.java,com.github.javafaker.HitchhikersGuideToTheGalaxyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakerIDN.java,com.github.javafaker.service.FakerIDN,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Stock.java,com.github.javafaker.Stock,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CodeTest.java,com.github.javafaker.CodeTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Hacker.java,com.github.javafaker.Hacker,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\CurrencyTest.java,com.github.javafaker.CurrencyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HackerTest.java,com.github.javafaker.HackerTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ZeldaTest.java,com.github.javafaker.ZeldaTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Internet.java,com.github.javafaker.Internet,0.0,-1.0,8.0,7.0,0.46666667,-1.0,5.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\ElderScrolls.java,com.github.javafaker.ElderScrolls,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Weather.java,com.github.javafaker.Weather,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\MedicalTest.java,com.github.javafaker.MedicalTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\PhoneNumberTest.java,com.github.javafaker.PhoneNumberTest,1.0,0.0,1.0,0.0,0.0,0.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\idnumbers\SvSEIdNumber.java,com.github.javafaker.idnumbers.SvSEIdNumber,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsStringWithContents.java,com.github.javafaker.matchers.IsStringWithContents,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\PrincessBride.java,com.github.javafaker.PrincessBride,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\LoremTest.java,com.github.javafaker.LoremTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\OverwatchTest.java,com.github.javafaker.OverwatchTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FinanceTest.java,com.github.javafaker.FinanceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\TwinPeaks.java,com.github.javafaker.TwinPeaks,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValues.java,com.github.javafaker.service.FakeValues,0.0,-1.0,17.0,6.0,0.26086956,-1.0,5.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Lebowski.java,com.github.javafaker.Lebowski,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Lorem.java,com.github.javafaker.Lorem,0.0,-1.0,3.0,3.0,0.5,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\IdNumber.java,com.github.javafaker.IdNumber,0.0,-1.0,3.0,5.0,0.625,-1.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\RockBand.java,com.github.javafaker.RockBand,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Dog.java,com.github.javafaker.Dog,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\HipsterTest.java,com.github.javafaker.HipsterTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\PrincessBrideTest.java,com.github.javafaker.PrincessBrideTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Overwatch.java,com.github.javafaker.Overwatch,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FakerTest.java,com.github.javafaker.FakerTest,1.0,0.0,10.0,0.0,0.0,0.0,3.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\SpaceTest.java,com.github.javafaker.SpaceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Avatar.java,com.github.javafaker.Avatar,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Aviation.java,com.github.javafaker.Aviation,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\DuneTest.java,com.github.javafaker.DuneTest,1.0,0.0,2.0,0.0,0.0,0.0,2.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Yoda.java,com.github.javafaker.Yoda,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\WitcherTest.java,com.github.javafaker.WitcherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Friends.java,com.github.javafaker.Friends,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Food.java,com.github.javafaker.Food,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Hipster.java,com.github.javafaker.Hipster,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Team.java,com.github.javafaker.Team,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\PhoneNumber.java,com.github.javafaker.PhoneNumber,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\JobTest.java,com.github.javafaker.JobTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\integration\MostSpecificLocaleIT.java,com.github.javafaker.integration.MostSpecificLocaleIT,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$3,0.0,0.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsStringWithContentsTest.java,com.github.javafaker.matchers.IsStringWithContentsTest,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\RandomFakerTest.java,com.github.javafaker.RandomFakerTest,1.0,0.16666667,1.0,4.0,0.8,0.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\RickAndMortyTest.java,com.github.javafaker.RickAndMortyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\idnumbers\EnIdNumber.java,com.github.javafaker.idnumbers.EnIdNumber,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\DateAndTimeTest.java,com.github.javafaker.DateAndTimeTest,1.0,0.0,62.0,0.0,0.0,0.0,3.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\ChuckNorris.java,com.github.javafaker.ChuckNorris,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Shakespeare.java,com.github.javafaker.Shakespeare,0.0,-1.0,1.0,4.0,0.8,-1.0,1.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Robin.java,com.github.javafaker.Robin,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\PokemonTest.java,com.github.javafaker.PokemonTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Commerce.java,com.github.javafaker.Commerce,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\StarTrek.java,com.github.javafaker.StarTrek,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Witcher.java,com.github.javafaker.Witcher,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesServiceTest.java,com.github.javafaker.service.FakeValuesServiceTest,1.0,0.037037037,33.0,27.0,0.45,1.0,5.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\CountOfCharactersMatcher.java,com.github.javafaker.matchers.CountOfCharactersMatcher,0.0,0.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\ProgrammingLanguage.java,com.github.javafaker.ProgrammingLanguage,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BoolTest.java,com.github.javafaker.BoolTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\FriendsTest.java,com.github.javafaker.FriendsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\Cat.java,com.github.javafaker.Cat,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\RickAndMorty.java,com.github.javafaker.RickAndMorty,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\StockTest.java,com.github.javafaker.StockTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\MatzTest.java,com.github.javafaker.MatzTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\DogTest.java,com.github.javafaker.DogTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\NationTest.java,com.github.javafaker.NationTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\BuffyTest.java,com.github.javafaker.BuffyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\test\java\com\github\javafaker\ArtistTest.java,com.github.javafaker.ArtistTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\java-faker\src\main\java\com\github\javafaker\service\files\EnFile.java,com.github.javafaker.service.files.EnFile,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
+file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP,line
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HipsterTest.java,com.github.javafaker.HipsterTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\integration\Issue194SlashFormatRegexIT.java,com.github.javafaker.integration.Issue194SlashFormatRegexIT,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,11
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Address.java,com.github.javafaker.Address,0.0,-1.0,0.0,21.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Lorem.java,com.github.javafaker.Lorem,0.0,-1.0,3.0,6.0,0.6666667,-1.0,1.0,11
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\AquaTeenHungerForce.java,com.github.javafaker.AquaTeenHungerForce,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Name.java,com.github.javafaker.Name,0.0,-1.0,0.0,11.0,1.0,-1.0,0.0,5
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Zelda.java,com.github.javafaker.Zelda,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValues.java,com.github.javafaker.service.FakeValues,0.0,-1.0,17.0,11.0,0.39285713,-1.0,5.0,11
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesGrouping.java,com.github.javafaker.service.FakeValuesGrouping,0.0,-1.0,2.0,1.0,0.33333334,-1.0,1.0,7
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\integration\FakerIT.java,com.github.javafaker.integration.FakerIT,0.0,-1.0,15.0,8.0,0.3478261,-1.0,9.0,30
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\LeagueOfLegendsTest.java,com.github.javafaker.LeagueOfLegendsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\File.java,com.github.javafaker.File,0.0,-1.0,1.0,1.0,0.5,-1.0,1.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\DateAndTimeTest.java,com.github.javafaker.DateAndTimeTest,1.0,0.0,62.0,0.0,0.0,0.0,3.0,19
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Internet.java,com.github.javafaker.Internet$UserAgent,0.0,0.0,1.0,2.0,0.6666667,-1.0,1.0,324
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\idnumbers\SvSEIdNumber.java,com.github.javafaker.idnumbers.SvSEIdNumber,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,15
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\EducatorTest.java,com.github.javafaker.EducatorTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsANumberTest.java,com.github.javafaker.matchers.IsANumberTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Dog.java,com.github.javafaker.Dog,0.0,-1.0,0.0,9.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Crypto.java,com.github.javafaker.Crypto,0.0,-1.0,2.0,1.0,0.33333334,-1.0,2.0,7
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\RobinTest.java,com.github.javafaker.RobinTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Weather.java,com.github.javafaker.Weather,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,6
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ShakespeareTest.java,com.github.javafaker.ShakespeareTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Country.java,com.github.javafaker.Country,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CatTest.java,com.github.javafaker.CatTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$2,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,241
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Educator.java,com.github.javafaker.Educator,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\HowIMetYourMother.java,com.github.javafaker.HowIMetYourMother,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$1$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,210
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\WitcherTest.java,com.github.javafaker.WitcherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Color.java,com.github.javafaker.Color,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\StockTest.java,com.github.javafaker.StockTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Ancient.java,com.github.javafaker.Ancient,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\HarryPotter.java,com.github.javafaker.HarryPotter,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Shakespeare.java,com.github.javafaker.Shakespeare,0.0,-1.0,1.0,5.0,0.8333333,-1.0,1.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HowIMetYourMotherTest.java,com.github.javafaker.HowIMetYourMotherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesTest.java,com.github.javafaker.service.FakeValuesTest,0.0,-1.0,7.0,7.0,0.5,-1.0,2.0,13
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\DemographicTest.java,com.github.javafaker.DemographicTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Commerce.java,com.github.javafaker.Commerce,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AnimalTest.java,com.github.javafaker.AnimalTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$1,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,204
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Avatar.java,com.github.javafaker.Avatar,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Matz.java,com.github.javafaker.Matz,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AncientTest.java,com.github.javafaker.AncientTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsStringWithContents.java,com.github.javafaker.matchers.IsStringWithContents,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BusinessTest.java,com.github.javafaker.BusinessTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesService.java,com.github.javafaker.service.FakeValuesService$MethodAndCoercedArgs,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,578
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Relationships.java,com.github.javafaker.Relationships,0.0,-1.0,8.0,2.0,0.2,-1.0,4.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FunnyNameTest.java,com.github.javafaker.FunnyNameTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FriendsTest.java,com.github.javafaker.FriendsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\repeating\RepeatRule.java,com.github.javafaker.repeating.RepeatRule,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\repeating\RepeatRule.java,com.github.javafaker.repeating.RepeatRule$RepeatStatement,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,12
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\DateAndTime.java,com.github.javafaker.DateAndTime,0.0,-1.0,20.0,3.0,0.13043478,-1.0,2.0,17
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ArtistTest.java,com.github.javafaker.ArtistTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\EsportsTest.java,com.github.javafaker.EsportsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Cat.java,com.github.javafaker.Cat,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Yoda.java,com.github.javafaker.Yoda,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$2$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,248
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesService.java,com.github.javafaker.service.FakeValuesService,0.0,-1.0,42.0,3.0,0.06666667,-1.0,14.0,24
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\YodaTest.java,com.github.javafaker.YodaTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,12
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AviationTest.java,com.github.javafaker.AviationTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\RickAndMortyTest.java,com.github.javafaker.RickAndMortyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BeerTest.java,com.github.javafaker.BeerTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BuffyTest.java,com.github.javafaker.BuffyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Superhero.java,com.github.javafaker.Superhero,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\TeamTest.java,com.github.javafaker.TeamTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,11
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\TwinPeaksTest.java,com.github.javafaker.TwinPeaksTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Hobbit.java,com.github.javafaker.Hobbit,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CryptoTest.java,com.github.javafaker.CryptoTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\SuperheroTest.java,com.github.javafaker.SuperheroTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BookTest.java,com.github.javafaker.BookTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AquaTeenHungerForceTest.java,com.github.javafaker.AquaTeenHungerForceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NationTest.java,com.github.javafaker.NationTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Friends.java,com.github.javafaker.Friends,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CountryTest.java,com.github.javafaker.CountryTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HackerTest.java,com.github.javafaker.HackerTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ElderScrollsTest.java,com.github.javafaker.ElderScrollsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,11
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\service\RandomServiceTest.java,com.github.javafaker.service.RandomServiceTest,1.0,0.0,4.0,1.0,0.2,0.0,2.0,23
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\files\EnFile.java,com.github.javafaker.service.files.EnFile,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,7
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\IdNumberTest.java,com.github.javafaker.IdNumberTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FakerTest.java,com.github.javafaker.FakerTest,1.0,0.0,10.0,0.0,0.0,0.0,3.0,13
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Animal.java,com.github.javafaker.Animal,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Demographic.java,com.github.javafaker.Demographic,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Beer.java,com.github.javafaker.Beer,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\OptionsTest.java,com.github.javafaker.OptionsTest,1.0,0.0,1.0,4.0,0.8,0.0,1.0,13
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Hacker.java,com.github.javafaker.Hacker,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Buffy.java,com.github.javafaker.Buffy,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Internet.java,com.github.javafaker.Internet,0.0,-1.0,8.0,8.0,0.5,-1.0,5.0,14
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\StarTrekTest.java,com.github.javafaker.StarTrekTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\SlackEmojiTest.java,com.github.javafaker.SlackEmojiTest,1.0,0.0,0.0,9.0,1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\CreditCardType.java,com.github.javafaker.CreditCardType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\UniversityTest.java,com.github.javafaker.UniversityTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\ElderScrolls.java,com.github.javafaker.ElderScrolls,0.0,-1.0,0.0,9.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\RockBand.java,com.github.javafaker.RockBand,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FinanceTest.java,com.github.javafaker.FinanceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\ChuckNorris.java,com.github.javafaker.ChuckNorris,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\ProgrammingLanguage.java,com.github.javafaker.ProgrammingLanguage,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Dune.java,com.github.javafaker.Dune$Saying,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,66
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Currency.java,com.github.javafaker.Currency,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Options.java,com.github.javafaker.Options,0.0,-1.0,5.0,1.0,0.16666667,-1.0,3.0,5
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Overwatch.java,com.github.javafaker.Overwatch,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Team.java,com.github.javafaker.Team,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HitchhikersGuideToTheGalaxyTest.java,com.github.javafaker.HitchhikersGuideToTheGalaxyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\OverwatchTest.java,com.github.javafaker.OverwatchTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CodeTest.java,com.github.javafaker.CodeTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,15
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\idnumbers\EnIdNumber.java,com.github.javafaker.idnumbers.EnIdNumber,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,5
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\WeatherTest.java,com.github.javafaker.WeatherTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ChuckNorrisTest.java,com.github.javafaker.ChuckNorrisTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest,1.0,0.0,15.0,14.0,0.4827586,0.0,4.0,22
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Space.java,com.github.javafaker.Space,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HobbitTest.java,com.github.javafaker.HobbitTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\LebowskiTest.java,com.github.javafaker.LebowskiTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsStringWithContentsTest.java,com.github.javafaker.matchers.IsStringWithContentsTest,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\RandomFakerTest.java,com.github.javafaker.RandomFakerTest,1.0,0.16666667,1.0,4.0,0.8,0.0,1.0,11
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Faker.java,com.github.javafaker.Faker,0.0,-1.0,2.0,162.0,0.9878049,-1.0,1.0,15
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Medical.java,com.github.javafaker.Medical,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Music.java,com.github.javafaker.Music,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\DogTest.java,com.github.javafaker.DogTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakerIDN.java,com.github.javafaker.service.FakerIDN,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\GameOfThronesTest.java,com.github.javafaker.GameOfThronesTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$3$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,285
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\FakeValuesInterface.java,com.github.javafaker.service.FakeValuesInterface,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\LordOfTheRingsTest.java,com.github.javafaker.LordOfTheRingsTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,11
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesServiceTest.java,com.github.javafaker.service.FakeValuesServiceTest$DummyService,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,305
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Company.java,com.github.javafaker.Company,0.0,-1.0,2.0,6.0,0.75,-1.0,1.0,11
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AddressTest.java,com.github.javafaker.AddressTest,1.0,0.0,2.0,5.0,0.71428573,1.0,1.0,15
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\PhoneNumberTest.java,com.github.javafaker.PhoneNumberTest,1.0,0.0,1.0,0.0,0.0,0.0,1.0,10
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Dune.java,com.github.javafaker.Dune$Quote,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,39
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\TwinPeaks.java,com.github.javafaker.TwinPeaks,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AvatarTest.java,com.github.javafaker.AvatarTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\University.java,com.github.javafaker.University,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\InternetTest.java,com.github.javafaker.InternetTest,1.0,0.0,4.0,0.0,0.0,0.0,1.0,28
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\DragonBall.java,com.github.javafaker.DragonBall,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\PokemonTest.java,com.github.javafaker.PokemonTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\BackToTheFuture.java,com.github.javafaker.BackToTheFuture,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesGroupingTest.java,com.github.javafaker.service.FakeValuesGroupingTest,0.0,-1.0,11.0,3.0,0.21428572,-1.0,3.0,12
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\RickAndMorty.java,com.github.javafaker.RickAndMorty,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\service\FakeValuesServiceTest.java,com.github.javafaker.service.FakeValuesServiceTest,1.0,0.037037037,33.0,27.0,0.45,1.0,5.0,26
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\IsANumber.java,com.github.javafaker.matchers.IsANumber,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Bool.java,com.github.javafaker.Bool,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NameTest.java,com.github.javafaker.NameTest,1.0,0.0,0.0,2.0,1.0,1.0,0.0,14
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ColorTest.java,com.github.javafaker.ColorTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\NumberTest.java,com.github.javafaker.NumberTest$3,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,279
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\IdNumber.java,com.github.javafaker.IdNumber,0.0,-1.0,3.0,6.0,0.6666667,-1.0,2.0,6
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\MusicTest.java,com.github.javafaker.MusicTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\CountOfCharactersMatcher.java,com.github.javafaker.matchers.CountOfCharactersMatcher,0.0,0.0,0.0,6.0,1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Code.java,com.github.javafaker.Code,0.0,-1.0,7.0,4.0,0.36363637,-1.0,2.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Job.java,com.github.javafaker.Job,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\PrincessBrideTest.java,com.github.javafaker.PrincessBrideTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BoolTest.java,com.github.javafaker.BoolTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\matchers\MatchesRegularExpression.java,com.github.javafaker.matchers.MatchesRegularExpression,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\App.java,com.github.javafaker.App,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\service\RandomService.java,com.github.javafaker.service.RandomService,0.0,-1.0,1.0,3.0,0.75,-1.0,1.0,5
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\HitchhikersGuideToTheGalaxy.java,com.github.javafaker.HitchhikersGuideToTheGalaxy,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\LordOfTheRings.java,com.github.javafaker.LordOfTheRings,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CurrencyTest.java,com.github.javafaker.CurrencyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\SpaceTest.java,com.github.javafaker.SpaceTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FoodTest.java,com.github.javafaker.FoodTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\DuneTest.java,com.github.javafaker.DuneTest,1.0,0.0,2.0,0.0,0.0,0.0,2.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\BackToTheFutureTest.java,com.github.javafaker.BackToTheFutureTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AbstractFakerTest.java,com.github.javafaker.AbstractFakerTest,0.0,-1.0,7.0,0.0,0.0,-1.0,4.0,14
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Business.java,com.github.javafaker.Business,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\AppTest.java,com.github.javafaker.AppTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Pokemon.java,com.github.javafaker.Pokemon,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ZeldaTest.java,com.github.javafaker.ZeldaTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Number.java,com.github.javafaker.Number,0.0,-1.0,6.0,1.0,0.14285715,-1.0,1.0,5
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Stock.java,com.github.javafaker.Stock,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\RockBandTest.java,com.github.javafaker.RockBandTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\integration\UkLocalDirectivesTest.java,com.github.javafaker.integration.UkLocalDirectivesTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,18
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Book.java,com.github.javafaker.Book,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Esports.java,com.github.javafaker.Esports,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Lebowski.java,com.github.javafaker.Lebowski,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\PhoneNumber.java,com.github.javafaker.PhoneNumber,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Witcher.java,com.github.javafaker.Witcher,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\integration\MostSpecificLocaleIT.java,com.github.javafaker.integration.MostSpecificLocaleIT,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,18
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\PrincessBride.java,com.github.javafaker.PrincessBride,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\SlackEmoji.java,com.github.javafaker.SlackEmoji,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\DragonBallTest.java,com.github.javafaker.DragonBallTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Aviation.java,com.github.javafaker.Aviation,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,6
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Food.java,com.github.javafaker.Food,0.0,-1.0,0.0,9.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\FileTest.java,com.github.javafaker.FileTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\MatzTest.java,com.github.javafaker.MatzTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\LoremTest.java,com.github.javafaker.LoremTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,15
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Hipster.java,com.github.javafaker.Hipster,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\ProgrammingLanguageTest.java,com.github.javafaker.ProgrammingLanguageTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,9
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Robin.java,com.github.javafaker.Robin,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Nation.java,com.github.javafaker.Nation,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\JobTest.java,com.github.javafaker.JobTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\GameOfThrones.java,com.github.javafaker.GameOfThrones,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\LeagueOfLegends.java,com.github.javafaker.LeagueOfLegends,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Artist.java,com.github.javafaker.Artist,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\StarTrek.java,com.github.javafaker.StarTrek,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\RelationshipTest.java,com.github.javafaker.RelationshipTest,1.0,0.083333336,5.0,5.0,0.5,0.0,2.0,14
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CompanyTest.java,com.github.javafaker.CompanyTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Dune.java,com.github.javafaker.Dune,0.0,-1.0,4.0,6.0,0.6,-1.0,2.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\OptionsTest.java,com.github.javafaker.OptionsTest$Day,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,60
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\MedicalTest.java,com.github.javafaker.MedicalTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\FunnyName.java,com.github.javafaker.FunnyName,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\HarryPotterTest.java,com.github.javafaker.HarryPotterTest,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\CommerceTest.java,com.github.javafaker.CommerceTest,1.0,0.0,0.0,6.0,1.0,0.0,0.0,10
+C:\Users\syuuj\gitProject\java-faker\src\test\java\com\github\javafaker\idnumbers\SwedishIdNumberTest.java,com.github.javafaker.idnumbers.SwedishIdNumberTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\java-faker\src\main\java\com\github\javafaker\Finance.java,com.github.javafaker.Finance,0.0,-1.0,5.0,2.0,0.2857143,-1.0,4.0,11

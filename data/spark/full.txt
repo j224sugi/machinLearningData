@@ -1,183 +1,183 @@
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Access.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Base64.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\CustomErrorPages.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ExceptionHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ExceptionHandlerImpl.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ExceptionMapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Experimental.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Filter.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\FilterImpl.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\HaltException.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ModelAndView.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\QueryParamsMap.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Redirect.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Request.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\RequestResponseFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Response.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ResponseTransformer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ResponseTransformerRouteImpl.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Routable.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Route.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\RouteGroup.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\RouteImpl.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Service.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Session.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\Spark.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\TemplateEngine.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\TemplateViewRoute.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\TemplateViewRouteImpl.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServerFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServers.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\NotSupportedException.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\EmbeddedJettyFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\EmbeddedJettyServer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\HttpRequestWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyServer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyServerFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\SocketConnectorFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketCreatorFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerClassWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerInstanceWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketServletContextHandlerFactory.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\globalstate\ServletFlag.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\AfterAfterFilters.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\AfterFilters.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\BeforeFilters.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\Body.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\GeneralError.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\Halt.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\MatcherFilter.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\RequestWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\ResponseWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\RouteContext.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\http\matching\Routes.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\AbstractFileResolvingResource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\AbstractResource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\AbstractResourceHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\ClassPathResource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\ClassPathResourceHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\ExternalResource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\ExternalResourceHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\InputStreamResource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\Resource.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\resource\UriPath.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\route\HttpMethod.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\route\RouteEntry.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\route\Routes.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\route\ServletRoutes.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\route\SimpleRouteMatcher.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\routematch\RouteMatch.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\serialization\BytesSerializer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\serialization\DefaultSerializer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\serialization\InputStreamSerializer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\serialization\Serializer.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\serialization\SerializerChain.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\servlet\FilterTools.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\servlet\SparkApplication.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\servlet\SparkFilter.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\ssl\SslStores.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\staticfiles\DirectoryTraversal.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\staticfiles\MimeType.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\staticfiles\StaticFilesConfiguration.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\staticfiles\StaticFilesFolder.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\Assert.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\ClassUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\CollectionUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\GzipUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\IOUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\MimeParse.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\ObjectUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\ResourceUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\SparkUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\StringUtils.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\Wrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\urldecoding\TypeUtil.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\urldecoding\UrlDecode.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\urldecoding\Utf8Appendable.java
-C:\Users\sugii syuji\gitProject\spark\src\main\java\spark\utils\urldecoding\Utf8StringBuilder.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\Base64Test.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\BodyAvailabilityTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\BooksIntegrationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\CookiesIntegrationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ExceptionMapperTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\FilterImplTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\FilterTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\GenericIntegrationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\GenericSecureIntegrationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\GzipTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\InitExceptionHandlerTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\MultipleFiltersTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\MultipleServicesTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\QueryParamsMapTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\RedirectTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\RequestTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ResponseBodyTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ResponseTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ResponseWrapperDelegationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\RouteImplTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ServicePortIntegrationTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\ServiceTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\SessionTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\StaticFilesFromArchiveTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\StaticFilesMemberTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\customerrorpages\CustomErrorPagesTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\EmbeddedServersTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\EmbeddedJettyFactoryTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\JettyServerTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\SocketConnectorFactoryTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketCreatorFactoryTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketServletContextHandlerFactoryTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketTestClient.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketTestHandler.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\accept\JsonAcceptTypeExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\books\Book.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\books\Books.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\exception\BaseException.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\exception\JWGmeligMeylingException.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\exception\NotFoundException.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\exception\SubclassOfBaseException.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\filter\DummyFilter.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\filter\FilterExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\filter\FilterExampleAttributes.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\filter\FilterExampleWildcard.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\gzip\GzipClient.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\gzip\GzipExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\hello\HelloSecureWorld.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\hello\HelloWorld.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\multiple\MultipleServices.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\session\SessionExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\simple\SimpleExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\simple\SimpleSecureExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\staticresources\StaticResources.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\sugar\http.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\sugar\SugarExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\templateview\FreeMarkerExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\templateview\FreeMarkerTemplateEngine.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\transformer\DefaultTransformerExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\transformer\JsonTransformer.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\transformer\MyMessage.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\transformer\TransformerExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\websocket\EchoWebSocket.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\websocket\PingWebSocket.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\examples\websocket\WebSocketExample.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\globalstate\ServletFlagTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\resource\UriPathTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\route\HttpMethodTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\route\RouteEntryTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\route\Util.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\servlet\FilterConfigWrapper.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\servlet\MyApp.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\servlet\ServletTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\staticfiles\DisableMimeGuessingTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\staticfiles\StaticFilesTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\staticfiles\StaticFilesTestExternal.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\util\ResourceUtilsTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\util\SparkTestUtil.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\utils\CollectionUtilsTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\utils\MimeParseTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\utils\ObjectUtilsTest.java
-C:\Users\sugii syuji\gitProject\spark\src\test\java\spark\utils\SparkUtilsTest.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Access.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Base64.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\CustomErrorPages.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ExceptionHandler.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ExceptionHandlerImpl.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ExceptionMapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Experimental.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Filter.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\FilterImpl.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\HaltException.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ModelAndView.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\QueryParamsMap.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Redirect.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Request.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\RequestResponseFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Response.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ResponseTransformer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ResponseTransformerRouteImpl.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Routable.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Route.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\RouteGroup.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\RouteImpl.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Service.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Session.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\Spark.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\TemplateEngine.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\TemplateViewRoute.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\TemplateViewRouteImpl.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServerFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\EmbeddedServers.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\NotSupportedException.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\EmbeddedJettyFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\EmbeddedJettyServer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\HttpRequestWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyHandler.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyServer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\JettyServerFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\SocketConnectorFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketCreatorFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerClassWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerInstanceWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketHandlerWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\embeddedserver\jetty\websocket\WebSocketServletContextHandlerFactory.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\globalstate\ServletFlag.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\AfterAfterFilters.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\AfterFilters.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\BeforeFilters.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\Body.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\GeneralError.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\Halt.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\MatcherFilter.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\RequestWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\ResponseWrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\RouteContext.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\http\matching\Routes.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\AbstractFileResolvingResource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\AbstractResource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\AbstractResourceHandler.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\ClassPathResource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\ClassPathResourceHandler.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\ExternalResource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\ExternalResourceHandler.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\InputStreamResource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\Resource.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\resource\UriPath.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\route\HttpMethod.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\route\RouteEntry.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\route\Routes.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\route\ServletRoutes.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\route\SimpleRouteMatcher.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\routematch\RouteMatch.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\serialization\BytesSerializer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\serialization\DefaultSerializer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\serialization\InputStreamSerializer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\serialization\Serializer.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\serialization\SerializerChain.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\servlet\FilterTools.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\servlet\SparkApplication.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\servlet\SparkFilter.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\ssl\SslStores.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\staticfiles\DirectoryTraversal.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\staticfiles\MimeType.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\staticfiles\StaticFilesConfiguration.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\staticfiles\StaticFilesFolder.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\Assert.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\ClassUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\CollectionUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\GzipUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\IOUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\MimeParse.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\ObjectUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\ResourceUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\SparkUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\StringUtils.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\Wrapper.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\urldecoding\TypeUtil.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\urldecoding\UrlDecode.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\urldecoding\Utf8Appendable.java
+C:\Users\syuuj\gitProject\spark\src\main\java\spark\utils\urldecoding\Utf8StringBuilder.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\Base64Test.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\BodyAvailabilityTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\BooksIntegrationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\CookiesIntegrationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ExceptionMapperTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\FilterImplTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\FilterTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\GenericIntegrationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\GenericSecureIntegrationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\GzipTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\InitExceptionHandlerTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\MultipleFiltersTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\MultipleServicesTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\QueryParamsMapTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\RedirectTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\RequestTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ResponseBodyTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ResponseTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ResponseWrapperDelegationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\RouteImplTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ServicePortIntegrationTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\ServiceTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\SessionTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\StaticFilesFromArchiveTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\StaticFilesMemberTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\customerrorpages\CustomErrorPagesTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\EmbeddedServersTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\EmbeddedJettyFactoryTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\JettyServerTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\SocketConnectorFactoryTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketCreatorFactoryTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketServletContextHandlerFactoryTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketTestClient.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\embeddedserver\jetty\websocket\WebSocketTestHandler.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\accept\JsonAcceptTypeExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\books\Book.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\books\Books.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\exception\BaseException.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\exception\JWGmeligMeylingException.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\exception\NotFoundException.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\exception\SubclassOfBaseException.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\filter\DummyFilter.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\filter\FilterExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\filter\FilterExampleAttributes.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\filter\FilterExampleWildcard.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\gzip\GzipClient.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\gzip\GzipExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\hello\HelloSecureWorld.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\hello\HelloWorld.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\multiple\MultipleServices.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\session\SessionExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\simple\SimpleExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\simple\SimpleSecureExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\staticresources\StaticResources.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\sugar\http.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\sugar\SugarExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\templateview\FreeMarkerExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\templateview\FreeMarkerTemplateEngine.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\transformer\DefaultTransformerExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\transformer\JsonTransformer.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\transformer\MyMessage.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\transformer\TransformerExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\websocket\EchoWebSocket.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\websocket\PingWebSocket.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\examples\websocket\WebSocketExample.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\globalstate\ServletFlagTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\resource\UriPathTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\route\HttpMethodTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\route\RouteEntryTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\route\Util.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\servlet\FilterConfigWrapper.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\servlet\MyApp.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\servlet\ServletTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\staticfiles\DisableMimeGuessingTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\staticfiles\StaticFilesTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\staticfiles\StaticFilesTestExternal.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\util\ResourceUtilsTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\util\SparkTestUtil.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\utils\CollectionUtilsTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\utils\MimeParseTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\utils\ObjectUtilsTest.java
+C:\Users\syuuj\gitProject\spark\src\test\java\spark\utils\SparkUtilsTest.java
 

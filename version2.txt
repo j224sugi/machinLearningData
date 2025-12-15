@@ -1,2 +1,3 @@
 ysoserial,v0.0.5,v0.0.4
 mapstruct,1.4.2.Final,1.4.1.Final,mapstruct
+fastjson,1.2.76,1.2.75,fastjson

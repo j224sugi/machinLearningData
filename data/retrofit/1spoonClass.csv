@@ -1,259 +1,291 @@
-file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$58Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$1,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest,0.0,-1.0,16.0,7.0,0.3043478,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Endpoints.java,retrofit.Endpoints,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$40Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MultipartTypedOutputTest.java,retrofit.mime.MultipartTypedOutputTest$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\TypedFileTest.java,retrofit.mime.TypedFileTest,0.0,-1.0,1.0,5.0,0.8333333,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$56Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$17Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\client\ApacheClientTest.java,retrofit.client.ApacheClientTest,0.0,-1.0,35.0,11.0,0.23913044,-1.0,9.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Log$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$2,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$28Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$10,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Endpoints.java,retrofit.Endpoints$FixedEndpoint,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedString.java,retrofit.mime.TypedString,0.0,0.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedByteArray.java,retrofit.mime.TypedByteArray,0.0,-1.0,3.0,7.0,0.7,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Builder$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$TypedOutputEntity,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$16Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$14Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base,0.0,1.0,3.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$63Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$65Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\GsonConverter.java,retrofit.converter.GsonConverter$JsonTypedOutput,0.0,-1.0,1.0,2.0,0.6666667,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\appengine\UrlFetchClient.java,retrofit.appengine.UrlFetchClient,0.0,-1.0,19.0,2.0,0.0952381,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler,0.0,-1.0,42.0,1.0,0.023255814,-1.0,13.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$59Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$74Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$71Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$41Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$GenericHttpRequest,0.0,0.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\android\AndroidLog.java,retrofit.android.AndroidLog,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$30Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$67Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$5,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$48Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$54Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Profiler.java,retrofit.Profiler$RequestInformation,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\ResponseWrapper.java,retrofit.ResponseWrapper,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$29Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\UrlConnectionClient.java,retrofit.client.UrlConnectionClient,0.0,-1.0,26.0,1.0,0.037037037,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$2,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$37Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$13Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestBuilder.java,retrofit.RequestBuilder,0.0,-1.0,28.0,22.0,0.44,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape,0.0,-1.0,7.0,1.0,0.125,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$66Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$TestException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$6,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$7Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$QueuedSynchronousExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RequestBuilderTest.java,retrofit.RequestBuilderTest,0.0,-1.0,336.0,0.0,0.0,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MultipartTypedOutput.java,retrofit.mime.MultipartTypedOutput$MimePart,0.0,-1.0,2.0,10.0,0.8333333,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler$2,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android,0.0,1.0,4.0,0.0,0.0,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$32Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$AppEngine,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\client\DummyHttpUrlConnection.java,retrofit.client.DummyHttpUrlConnection,0.0,0.0,4.0,11.0,0.73333335,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\ConversionException.java,retrofit.converter.ConversionException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$15Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$3Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestBuilder.java,retrofit.RequestBuilder$MimeOverridingTypedOutput,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\appengine\UrlFetchClientTest.java,retrofit.appengine.UrlFetchClientTest,0.0,-1.0,38.0,11.0,0.2244898,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$43Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$AppEngine$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo$RxSupport,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$46Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\UrlConnectionClient.java,retrofit.client.UrlConnectionClient$TypedInputStream,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$33Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\android\AndroidApacheClient.java,retrofit.android.AndroidApacheClient,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$WildcardTypeImpl,0.0,-1.0,2.0,8.0,0.8,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$5,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\client\UrlConnectionClientTest.java,retrofit.client.UrlConnectionClientTest,0.0,-1.0,56.0,16.0,0.22222222,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$26Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$12Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MimeUtil.java,retrofit.mime.MimeUtil,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$24Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\FormUrlEncodingTypedOutputTest.java,retrofit.mime.FormUrlEncodingTypedOutputTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$9Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$1Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\CallbackRunnableTest.java,retrofit.CallbackRunnableTest$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$ParameterizedTypeImpl,0.0,-1.0,3.0,7.0,0.7,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$8Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$19Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$68Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\FormUrlEncodedTypedOutput.java,retrofit.mime.FormUrlEncodedTypedOutput,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$2Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$2$1,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RequestBuilderTest.java,retrofit.RequestBuilderTest$Helper,0.0,-1.0,33.0,19.0,0.3653846,-1.0,8.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$23Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$60Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedFile.java,retrofit.mime.TypedFile,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Builder,0.0,-1.0,7.0,37.0,0.84090906,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\OkClient.java,retrofit.client.OkClient,1.0,0.5,7.0,0.0,0.0,0.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptor.java,retrofit.RequestInterceptor$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$4,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$GenericArrayTypeImpl,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$31Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MimeHelper.java,retrofit.mime.MimeHelper,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport$1113,0.0,0.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$34Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$47Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$45Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$25Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$20Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\client\UrlConnectionClientTest.java,retrofit.client.UrlConnectionClientTest$1,1.0,1.0,1.0,0.0,0.0,0.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest,0.0,-1.0,11.0,51.0,0.82258064,-1.0,5.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Utils.java,retrofit.Utils,0.0,-1.0,10.0,1.0,0.09090909,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\ResponseCallback.java,retrofit.ResponseCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types,0.0,-1.0,47.0,7.0,0.12962963,-1.0,9.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$5Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$6Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$57Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$49Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$4Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$CommandWithParams,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$10Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Defaults.java,retrofit.client.Defaults,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest,0.0,-1.0,217.0,83.0,0.27666667,-1.0,23.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$62Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RetrofitError.java,retrofit.RetrofitError,0.0,0.0,6.0,7.0,0.53846157,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MultipartTypedOutputTest.java,retrofit.mime.MultipartTypedOutputTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest,0.0,-1.0,301.0,0.0,0.0,-1.0,83.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$73Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$44Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Utils.java,retrofit.Utils$SynchronousExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$MockInvalidResponseClient,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$3,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$GenericEntityHttpRequest,0.0,0.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Request.java,retrofit.client.Request,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$2,0.0,0.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Response.java,retrofit.client.Response,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$51Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MultipartTypedOutput.java,retrofit.mime.MultipartTypedOutput,0.0,-1.0,2.0,9.0,0.8181818,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$69Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform,0.0,-1.0,2.0,1.0,0.33333334,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$1,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\EndpointsTest.java,retrofit.EndpointsTest,0.0,-1.0,3.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$11Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$22Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$1$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MimeUtilTest.java,retrofit.mime.MimeUtilTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable$1,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\TestingUtils.java,retrofit.TestingUtils,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$52Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$3,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\ErrorHandler.java,retrofit.ErrorHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$64Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\GsonConverter.java,retrofit.converter.GsonConverter,0.0,-1.0,2.0,2.0,0.5,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$38Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$53Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$50Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo,0.0,-1.0,78.0,40.0,0.33898306,-1.0,36.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter,0.0,-1.0,20.0,5.0,0.2,-1.0,7.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$9,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$55Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$4,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\TypedByteArrayTest.java,retrofit.mime.TypedByteArrayTest,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\CallbackRunnableTest.java,retrofit.CallbackRunnableTest,0.0,-1.0,5.0,9.0,0.64285713,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$70Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient,0.0,-1.0,13.0,1.0,0.071428575,-1.0,6.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$61Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\ExceptionCatchingTypedInput.java,retrofit.ExceptionCatchingTypedInput,0.0,-1.0,2.0,1.0,0.33333334,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$8,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$36Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$35Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$42Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\ExceptionCatchingTypedInput.java,retrofit.ExceptionCatchingTypedInput$ExceptionCatchingInputStream,0.0,0.0,0.0,7.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Header.java,retrofit.client.Header,0.0,-1.0,2.0,12.0,0.85714287,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$OkClientInstantiator,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$7,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$39Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$27Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$21Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\main\java\retrofit\android\MainThreadExecutor.java,retrofit.android.MainThreadExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$72Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$18Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\jackson\src\test\java\retrofit\converter\JacksonConverterTest.java,retrofit.converter.JacksonConverterTest,0.0,-1.0,8.0,7.0,0.46666667,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\jackson\src\main\java\retrofit\converter\JacksonConverter.java,retrofit.converter.JacksonConverter,0.0,-1.0,2.0,1.0,0.33333334,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\jackson\src\test\java\retrofit\converter\JacksonConverterTest.java,retrofit.converter.JacksonConverterTest$MyObject,0.0,-1.0,2.0,8.0,0.8,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone$3758,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$1,0.0,0.0,8.0,0.0,0.0,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\ProtoConverterTest.java,retrofit.converter.ProtoConverterTest,0.0,-1.0,6.0,6.0,0.5,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone$Builder,0.0,0.0,12.0,20.0,0.625,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\main\java\retrofit\converter\ProtoConverter.java,retrofit.converter.ProtoConverter,0.0,-1.0,8.0,1.0,0.11111111,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone,0.0,0.0,4.0,21.0,0.84,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\simplexml\src\test\java\retrofit\converter\SimpleXMLConverterTest.java,retrofit.converter.SimpleXMLConverterTest$MyObject,0.0,-1.0,2.0,10.0,0.8333333,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\simplexml\src\main\java\retrofit\converter\SimpleXMLConverter.java,retrofit.converter.SimpleXMLConverter,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\simplexml\src\test\java\retrofit\converter\SimpleXMLConverterTest.java,retrofit.converter.SimpleXMLConverterTest,0.0,-1.0,8.0,7.0,0.46666667,-1.0,4.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person,0.0,0.0,2.0,12.0,0.85714287,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\main\java\retrofit\converter\WireConverter.java,retrofit.converter.WireConverter,0.0,-1.0,3.0,1.0,0.25,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\WireConverterTest.java,retrofit.converter.WireConverterTest,0.0,-1.0,7.0,6.0,0.46153846,-1.0,5.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$PhoneNumber,0.0,0.0,2.0,6.0,0.75,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$Builder,0.0,0.0,0.0,4.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$PhoneNumber$Builder,0.0,0.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler,0.0,-1.0,36.0,3.0,0.07692308,-1.0,13.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport$19179,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$12,0.0,0.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$6,0.0,0.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$5,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$4,0.0,-1.0,10.0,0.0,0.0,-1.0,5.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3,0.0,0.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$AsyncCallbackSubtypeExample$Foo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$11,0.0,0.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockTypedInput.java,retrofit.MockTypedInput,0.0,-1.0,1.0,4.0,0.8,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockHttpException.java,retrofit.MockHttpException,0.0,0.0,7.0,4.0,0.36363637,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockAsyncCallbackSubtypeExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter,0.0,-1.0,4.0,18.0,0.8181818,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest,0.0,-1.0,152.0,27.0,0.15083799,-1.0,26.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4,0.0,0.0,2.0,0.0,0.0,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$7,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2,0.0,0.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport$19179$19385,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockSyncExample,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$ValueChangeListener$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$10,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$8,0.0,0.0,3.0,0.0,0.0,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1,0.0,0.0,3.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$9,0.0,0.0,1.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockHttpRetrofitError.java,retrofit.MockHttpRetrofitError,0.0,0.0,0.0,2.0,1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\android\AndroidMockValuePersistence.java,retrofit.android.AndroidMockValuePersistence,0.0,-1.0,7.0,6.0,0.46153846,-1.0,2.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-samples\github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$Contributor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-samples\github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient,0.0,-1.0,4.0,1.0,0.2,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient,0.0,-1.0,4.0,1.0,0.2,-1.0,3.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$MockGitHub,0.0,-1.0,4.0,0.0,0.0,-1.0,1.0
-C:\Users\sugii syuji\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$Contributor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0
+file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP,line
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestBuilder.java,retrofit.RequestBuilder,0.0,-1.0,43.0,43.0,0.5,-1.0,8.0,37
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Profiler.java,retrofit.Profiler$RequestInformation,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0,47
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$30Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,549
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$59Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1030
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Request.java,retrofit.client.Request,0.0,-1.0,0.0,9.0,1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$22Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,403
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\TestingUtils.java,retrofit.TestingUtils,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0,12
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$MockInvalidResponseClient,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,40
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$43Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,766
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MultipartTypedOutput.java,retrofit.mime.MultipartTypedOutput$MimePart,0.0,-1.0,2.0,14.0,0.875,-1.0,1.0,29
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RequestBuilderTest.java,retrofit.RequestBuilderTest$Helper,0.0,-1.0,33.0,19.0,0.3653846,-1.0,8.0,775
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Defaults.java,retrofit.client.Defaults,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\GsonConverter.java,retrofit.converter.GsonConverter$JsonTypedOutput,0.0,-1.0,1.0,4.0,0.8,-1.0,1.0,86
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedInput.java,retrofit.mime.TypedInput,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,26
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\EndpointsTest.java,retrofit.EndpointsTest,0.0,-1.0,3.0,0.0,0.0,-1.0,1.0,8
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$6Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,154
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$19Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,351
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$5Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,142
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$40Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,715
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\appengine\UrlFetchClient.java,retrofit.appengine.UrlFetchClient,0.0,-1.0,20.0,3.0,0.13043478,-1.0,7.0,22
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ErrorHandler.java,retrofit.ErrorHandler,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport$Invoker,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,16
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$44Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,782
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\FormUrlEncodedTypedOutput.java,retrofit.mime.FormUrlEncodedTypedOutput,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$13Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,254
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$10Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,210
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedByteArray.java,retrofit.mime.TypedByteArray,0.0,-1.0,3.0,9.0,0.75,-1.0,2.0,29
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$17Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,318
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\android\MainThreadExecutor.java,retrofit.android.MainThreadExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$51Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,899
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$3,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,53
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest,0.0,-1.0,217.0,83.0,0.27666667,-1.0,23.0,53
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$1Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,89
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\ConversionException.java,retrofit.converter.ConversionException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$3,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,313
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$27Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,483
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$QueuedSynchronousExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,165
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Endpoint.java,retrofit.Endpoint,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$7,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,360
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$28Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,499
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$55Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,964
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\UrlConnectionClient.java,retrofit.client.UrlConnectionClient,0.0,-1.0,26.0,1.0,0.037037037,-1.0,6.0,29
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\client\UrlConnectionClientTest.java,retrofit.client.UrlConnectionClientTest$1,1.0,1.0,1.0,0.0,0.0,0.0,1.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$MultimapCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1320
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android,0.0,1.0,4.0,0.0,0.0,-1.0,4.0,115
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$41Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,732
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$2,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,47
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$36Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,651
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$9Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,197
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,175
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MultipartTypedOutput.java,retrofit.mime.MultipartTypedOutput,0.0,-1.0,3.0,12.0,0.8,-1.0,2.0,27
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Endpoints.java,retrofit.Endpoints$FixedEndpoint,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$4,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,200
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\UrlConnectionClient.java,retrofit.client.UrlConnectionClient$TypedInputStream,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,97
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\TypedByteArrayTest.java,retrofit.mime.TypedByteArrayTest,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,74
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$LogLevel,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,126
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$50Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,882
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptor.java,retrofit.RequestInterceptor$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,35
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$4Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,130
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$5,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,65
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ResponseWrapper.java,retrofit.ResponseWrapper,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,26
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$GenericHttpRequest,0.0,0.0,7.0,2.0,0.22222222,-1.0,3.0,107
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,168
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$7Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,166
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$57Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,994
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MultipartTypedOutputTest.java,retrofit.mime.MultipartTypedOutputTest$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,72
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\client\DummyHttpUrlConnection.java,retrofit.client.DummyHttpUrlConnection,0.0,0.0,4.0,11.0,0.73333335,-1.0,2.0,19
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Utils.java,retrofit.Utils$SynchronousExecutor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,112
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$67Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1169
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$49Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,867
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter,0.0,-1.0,20.0,15.0,0.42857143,-1.0,7.0,109
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RequestBuilderTest.java,retrofit.RequestBuilderTest,0.0,-1.0,336.0,0.0,0.0,-1.0,4.0,42
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Response.java,retrofit.client.Response,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0,30
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Callback.java,retrofit.Callback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,34
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,51
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestBuilder.java,retrofit.RequestBuilder$MimeOverridingTypedOutput,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,346
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$38Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,683
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$58Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1012
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MimeHelper.java,retrofit.mime.MimeHelper,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,6
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,49
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,60
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$70Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1223
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$15Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,289
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptor.java,retrofit.RequestInterceptor$RequestFacade,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$11Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,225
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$CommandWithParams,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,75
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$33Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,603
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$66Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1152
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$73Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1282
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\appengine\UrlFetchClientTest.java,retrofit.appengine.UrlFetchClientTest,0.0,-1.0,38.0,11.0,0.2244898,-1.0,6.0,30
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base,0.0,1.0,3.0,0.0,0.0,-1.0,2.0,69
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Log,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,114
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,41
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$65Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1136
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\CallbackRunnableTest.java,retrofit.CallbackRunnableTest$1,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$23Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,419
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$47Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,831
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo$RequestType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,79
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$69Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1207
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$2,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,89
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$GenericEntityHttpRequest,0.0,0.0,10.0,2.0,0.16666667,-1.0,4.0,125
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable,0.0,-1.0,3.0,3.0,0.5,-1.0,2.0,28
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,263
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$31Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,571
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ResponseCallback.java,retrofit.ResponseCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$24Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,435
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,106
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$63Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1101
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MultipartTypedOutputTest.java,retrofit.mime.MultipartTypedOutputTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$16Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,303
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$2,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,93
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Profiler.java,retrofit.Profiler,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$34Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,619
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$54Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,949
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$9,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,452
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$6,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,277
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$32Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,587
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$InvalidExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,86
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\OkClient.java,retrofit.client.OkClient,1.0,0.5,7.0,1.0,0.125,0.0,4.0,26
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$46Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,815
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\Converter.java,retrofit.converter.Converter,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,27
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,141
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$71Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1242
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$3Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,118
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest,0.0,-1.0,301.0,0.0,0.0,-1.0,83.0,60
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$ExampleClient,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,25
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport,0.0,-1.0,3.0,3.0,0.5,-1.0,2.0,14
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$20Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,367
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$AppEngine,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,158
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\FormUrlEncodingTypedOutputTest.java,retrofit.mime.FormUrlEncodingTypedOutputTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Builder,0.0,-1.0,7.0,37.0,0.84090906,-1.0,3.0,528
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ErrorHandler.java,retrofit.ErrorHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,50
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$64Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1119
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$29Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,524
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$53Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,934
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$62Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1083
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types,0.0,-1.0,47.0,7.0,0.12962963,-1.0,9.0,34
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\CallbackRunnableTest.java,retrofit.CallbackRunnableTest,0.0,-1.0,5.0,9.0,0.64285713,-1.0,3.0,16
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Header.java,retrofit.client.Header,0.0,-1.0,2.0,14.0,0.875,-1.0,1.0,19
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Builder$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,563
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\android\AndroidLog.java,retrofit.android.AndroidLog,0.0,-1.0,0.0,5.0,1.0,-1.0,0.0,7
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler$2,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,276
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$37Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,667
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest,0.0,-1.0,11.0,51.0,0.82258064,-1.0,5.0,31
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$5,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,238
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$ResponseCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1317
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$RestHandler,0.0,-1.0,42.0,2.0,0.045454547,-1.0,13.0,220
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\MimeUtil.java,retrofit.mime.MimeUtil,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$2Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,106
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedFile.java,retrofit.mime.TypedFile,0.0,-1.0,2.0,7.0,0.7777778,-1.0,1.0,29
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$72Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1262
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,220
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$56Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,979
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$74Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1300
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,129
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,40
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$GenericArrayTypeImpl,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,339
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo$RxSupport,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,490
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedString.java,retrofit.mime.TypedString,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape,0.0,-1.0,7.0,1.0,0.125,-1.0,2.0,10
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Endpoints.java,retrofit.Endpoints,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,8
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,40
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$61Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1065
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\converter\GsonConverter.java,retrofit.converter.GsonConverter,0.0,-1.0,2.0,4.0,0.6666667,-1.0,1.0,34
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$60Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1048
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$35Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,635
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\CallbackRunnable.java,retrofit.CallbackRunnable$1,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,43
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$48Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,848
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$TestException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,36
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$OkClientInstantiator,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,201
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$25Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,451
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient,0.0,-1.0,13.0,2.0,0.13333334,-1.0,6.0,44
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RxSupport.java,retrofit.RxSupport$1113,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,32
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$1,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,137
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$39Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,699
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$21Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,385
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptorTape.java,retrofit.RequestInterceptorTape$Command$4,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,59
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$26Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,467
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$18Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,335
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$42Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,748
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RxSupportTest.java,retrofit.RxSupportTest$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,35
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ExceptionCatchingTypedInput.java,retrofit.ExceptionCatchingTypedInput$ExceptionCatchingInputStream,0.0,0.0,0.0,8.0,1.0,-1.0,0.0,36
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\android\AndroidApacheClient.java,retrofit.android.AndroidApacheClient,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,28
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$52Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,916
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$ParameterizedTypeImpl,0.0,-1.0,4.0,11.0,0.73333335,-1.0,2.0,285
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform,0.0,-1.0,2.0,1.0,0.33333334,-1.0,2.0,37
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RetrofitError.java,retrofit.RetrofitError,0.0,0.0,6.0,12.0,0.6666667,-1.0,2.0,25
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$AppEngine$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,161
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$8Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,184
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\mime\TypedOutput.java,retrofit.mime.TypedOutput,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,26
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$68Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1188
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,81
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Utils.java,retrofit.Utils,0.0,-1.0,10.0,1.0,0.09090909,-1.0,3.0,29
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$14Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,272
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$10,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,493
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest,0.0,-1.0,16.0,7.0,0.3043478,-1.0,6.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo$ResponseType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,53
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Client.java,retrofit.client.Client$Provider,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\MimeUtilTest.java,retrofit.mime.MimeUtilTest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,9
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\client\UrlConnectionClientTest.java,retrofit.client.UrlConnectionClientTest,0.0,-1.0,56.0,16.0,0.22222222,-1.0,6.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo,0.0,-1.0,80.0,46.0,0.36507937,-1.0,36.0,51
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\ErrorHandlerTest.java,retrofit.ErrorHandlerTest$1,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,77
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestMethodInfo.java,retrofit.RestMethodInfo$ParamUsage,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,64
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Base$2$1,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,91
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Platform.java,retrofit.Platform$Android$1$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,139
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\Types.java,retrofit.Types$WildcardTypeImpl,0.0,-1.0,7.0,12.0,0.6315789,-1.0,3.0,369
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$12Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,240
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\Client.java,retrofit.client.Client,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,24
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\mime\TypedFileTest.java,retrofit.mime.TypedFileTest,0.0,-1.0,1.0,5.0,0.8333333,-1.0,1.0,11
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\client\ApacheClientTest.java,retrofit.client.ApacheClientTest,0.0,-1.0,35.0,11.0,0.23913044,-1.0,9.0,28
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestMethodInfoTest.java,retrofit.RestMethodInfoTest$45Example,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,799
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\ExceptionCatchingTypedInput.java,retrofit.ExceptionCatchingTypedInput,0.0,-1.0,2.0,3.0,0.6,-1.0,1.0,7
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\client\ApacheClient.java,retrofit.client.ApacheClient$TypedOutputEntity,0.0,0.0,2.0,1.0,0.33333334,-1.0,1.0,148
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\test\java\retrofit\RestAdapterTest.java,retrofit.RestAdapterTest$8,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,402
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RequestInterceptor.java,retrofit.RequestInterceptor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,4
+C:\Users\syuuj\gitProject\retrofit\retrofit\src\main\java\retrofit\RestAdapter.java,retrofit.RestAdapter$Log$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,119
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\jackson\src\test\java\retrofit\converter\JacksonConverterTest.java,retrofit.converter.JacksonConverterTest,0.0,-1.0,8.0,7.0,0.46666667,-1.0,3.0,12
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\jackson\src\test\java\retrofit\converter\JacksonConverterTest.java,retrofit.converter.JacksonConverterTest$MyObject,0.0,-1.0,2.0,10.0,0.8333333,-1.0,1.0,49
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\jackson\src\main\java\retrofit\converter\JacksonConverter.java,retrofit.converter.JacksonConverter,0.0,-1.0,2.0,2.0,0.5,-1.0,2.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos,0.0,-1.0,3.0,6.0,0.6666667,-1.0,2.0,6
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$1,0.0,0.0,8.0,0.0,0.0,-1.0,3.0,501
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone$3758,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,110
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$PhoneOrBuilder,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,11
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone,0.0,0.0,9.0,27.0,0.75,-1.0,7.0,32
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\ProtoConverterTest.java,retrofit.converter.ProtoConverterTest,0.0,-1.0,6.0,6.0,0.5,-1.0,4.0,18
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\main\java\retrofit\converter\ProtoConverter.java,retrofit.converter.ProtoConverter,0.0,-1.0,8.0,1.0,0.11111111,-1.0,4.0,15
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\protobuf\src\test\java\retrofit\converter\PhoneProtos.java,retrofit.converter.PhoneProtos$Phone$Builder,0.0,0.0,12.0,20.0,0.625,-1.0,3.0,280
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\simplexml\src\main\java\retrofit\converter\SimpleXMLConverter.java,retrofit.converter.SimpleXMLConverter,0.0,-1.0,0.0,3.0,1.0,-1.0,0.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\simplexml\src\test\java\retrofit\converter\SimpleXMLConverterTest.java,retrofit.converter.SimpleXMLConverterTest$MyObject,0.0,-1.0,2.0,12.0,0.85714287,-1.0,1.0,74
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\simplexml\src\test\java\retrofit\converter\SimpleXMLConverterTest.java,retrofit.converter.SimpleXMLConverterTest,0.0,-1.0,8.0,7.0,0.46666667,-1.0,4.0,20
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$PhoneNumber$Builder,0.0,0.0,2.0,4.0,0.6666667,-1.0,1.0,178
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$PhoneNumber,0.0,0.0,4.0,8.0,0.6666667,-1.0,2.0,136
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\WireConverterTest.java,retrofit.converter.WireConverterTest,0.0,-1.0,7.0,6.0,0.46153846,-1.0,5.0,17
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$Builder,0.0,0.0,4.0,8.0,0.6666667,-1.0,1.0,81
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\main\java\retrofit\converter\WireConverter.java,retrofit.converter.WireConverter,0.0,-1.0,3.0,2.0,0.4,-1.0,2.0,14
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person$PhoneType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,127
+C:\Users\syuuj\gitProject\retrofit\retrofit-converters\wire\src\test\java\retrofit\converter\Person.java,retrofit.converter.Person,0.0,0.0,6.0,16.0,0.72727275,-1.0,2.0,19
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,361
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest,0.0,-1.0,152.0,27.0,0.15083799,-1.0,26.0,34
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$AsyncCallbackSubtypeExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,43
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,253
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$12,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,590
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,414
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,547
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3,0.0,0.0,2.0,0.0,0.0,-1.0,2.0,315
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler,0.0,-1.0,36.0,5.0,0.12195122,-1.0,13.0,216
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$4,0.0,-1.0,10.0,0.0,0.0,-1.0,5.0,392
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockAsyncCallbackSubtypeExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,579
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\android\AndroidMockValuePersistence.java,retrofit.android.AndroidMockValuePersistence,0.0,-1.0,7.0,7.0,0.5,-1.0,2.0,11
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,497
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,244
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$5,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,359
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$7,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,468
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,267
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$8,0.0,0.0,3.0,0.0,0.0,-1.0,3.0,472
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport,0.0,-1.0,2.0,2.0,0.5,-1.0,1.0,469
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1,0.0,0.0,3.0,0.0,0.0,-1.0,1.0,71
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,456
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter,0.0,-1.0,4.0,19.0,0.82608694,-1.0,3.0,62
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport$19179$19385,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,483
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$SyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,35
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$ValueChangeListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,77
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,519
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockSyncExample,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,278
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$2MockAsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,304
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$9,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,529
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$11,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,563
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$3MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,383
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,341
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockHandler$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,381
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$1MockSyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,223
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$MockRxSupport$19179,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,480
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$6,0.0,0.0,2.0,0.0,0.0,-1.0,2.0,425
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockRestAdapter.java,retrofit.MockRestAdapter$ValueChangeListener$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,80
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockHttpException.java,retrofit.MockHttpException,0.0,0.0,7.0,7.0,0.5,-1.0,1.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$4,0.0,0.0,2.0,0.0,0.0,-1.0,2.0,353
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockTypedInput.java,retrofit.MockTypedInput,0.0,-1.0,1.0,6.0,0.85714287,-1.0,1.0,11
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$AsyncExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$10,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,559
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$ObservableExample,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,49
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\test\java\retrofit\MockRestAdapterTest.java,retrofit.MockRestAdapterTest$AsyncCallbackSubtypeExample$Foo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,44
+C:\Users\syuuj\gitProject\retrofit\retrofit-mock\src\main\java\retrofit\MockHttpRetrofitError.java,retrofit.MockHttpRetrofitError,0.0,0.0,1.0,3.0,0.75,-1.0,1.0,7
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$GitHub,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,31
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$Contributor,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,26
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient,0.0,-1.0,4.0,1.0,0.2,-1.0,3.0,23
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$GitHub,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,27
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$MockGitHub,0.0,-1.0,4.0,1.0,0.2,-1.0,1.0,33
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient,0.0,-1.0,4.0,1.0,0.2,-1.0,3.0,14
+C:\Users\syuuj\gitProject\retrofit\retrofit-samples\mock-github-client\src\main\java\com\example\retrofit\GitHubClient.java,com.example.retrofit.GitHubClient$Contributor,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,17
