@@ -146,6 +146,9 @@ public class Visitor extends CtScanner {
         String[] metricOfClass = {"NprotM", "BOvR", "ATFD", "ATLD", "LAA", "BUR", "FDP"};
         String[] metricOfMethod = {"ATFD", "ATLD", "LAA", "FDP"};
         for (CtType clazz : classesMetrics.keySet()) {
+            if(clazz.isAnonymous()){
+                System.out.println(clazz.getQualifiedName());
+            }
             List<MethodMetrics> initializers = new ArrayList<>();
             ClassMetrics classMetrics = classesMetrics.get(clazz);
             for (MethodMetrics methodMetrics : classMetrics.getMethodsMetrics()) {
