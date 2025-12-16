@@ -1,4 +1,4 @@
-CoreNLP,v4.3.2,v4.3.2,corenlp
+CoreNLP,v4.3.2,v4.3.1,corenlp
 dbeaver,21.0.2,21.0.1,dbeaver
 guava,v30.1.1,v30.1,guava
 analysis-ik,9c47725ea0e049d3282331896fcc53e3058ee425,904a7493eae275fe636f4fde60b4e896ca9ee0dc,elasticsearch-analysis
@@ -17,7 +17,6 @@ redisson,redisson-3.15.3,redisson-3.15.2,redisson
 retrofit,parent-1.6.0,parent-1.5.1,retrofit
 shopizer,2.17.0,2.16.0,shopizer
 spark,2.9.3,2.9.2,spark
-vert.x,4.1.2,4.1.1,vertx
 webmagic,WebMagic-0.7.3,WebMagic-0.7.2,webmagic
 xdm,7.2.11,7.2.10,xdman
 zookeeper,release-3.6.3,release-3.6.2,zookeeper

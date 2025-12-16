@@ -1,1 +1,14 @@
-fastjson,1.2.76,1.2.75,fastjson
+C:\Users\sugii syuji\gitProject\mapstruct\integrationtest\src\test\resources\simpleTest\src\test\java\org\mapstruct\itest\simple\ConversionTest.java
+C:\Users\sugii syuji\gitProject\mapstruct\integrationtest\src\test\resources\externalbeanjar\mapper\src\test\java\org\mapstruct\itest\externalbeanjar\ConversionTest.java
+C:\Users\sugii syuji\gitProject\mapstruct\integrationtest\src\test\resources\simpleTest\src\test\java\org\mapstruct\itest\simple\ConversionTest.java
+C:\Users\sugii syuji\gitProject\mapstruct\integrationtest\src\test\resources\externalbeanjar\mapper\src\test\java\org\mapstruct\itest\externalbeanjar\ConversionTest.java
+
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java11\io\vertx\core\impl\LoaderManager.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java11\io\vertx\core\DeploymentOptions.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java\io\vertx\core\DeploymentOptions.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java\io\vertx\core\impl\LoaderManager.java
+
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java11\io\vertx\core\DeploymentOptions.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java11\io\vertx\core\impl\LoaderManager.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java\io\vertx\core\impl\LoaderManager.java
+C:\Users\sugii syuji\gitProject\vert.x\src\main\java\io\vertx\core\DeploymentOptions.java
