@@ -1,211 +1,212 @@
 file,class,method,ATFD,ATLD,LAA,FDP,line
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"addWords/1[java.util.Collection]",0.0,0.0,-1.0,0.0,309
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"disableWords/1[java.util.Collection]",0.0,0.0,-1.0,0.0,323
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getDictRoot/0",0.0,0.0,-1.0,0.0,285
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getExtDictionarys/0",1.0,3.0,0.75,1.0,219
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getExtStopWordDictionarys/0",1.0,3.0,0.75,1.0,252
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getProperty/1[java.lang.String]",1.0,1.0,0.5,1.0,133
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteExtDictionarys/0",0.0,2.0,1.0,0.0,236
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteExtStopWordDictionarys/0",0.0,2.0,1.0,0.0,269
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteWords/1[java.lang.String]",0.0,1.0,1.0,0.0,436
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteWordsUnprivileged/1[java.lang.String]",16.0,0.0,0.0,8.0,446
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getSingleton/0",0.0,2.0,1.0,0.0,295
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"initial/1[org.wltea.analyzer.cfg.Configuration]",2.0,6.0,0.75,1.0,145
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"isStopWord/3[char[], int, int]",0.0,0.0,-1.0,0.0,376
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadDictFile/4[org.wltea.analyzer.dic.DictSegment, java.nio.file.Path, boolean, java.lang.String]",0.0,0.0,-1.0,0.0,197
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadExtDict/0",1.0,2.0,0.6666667,1.0,399
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadMainDict/0",1.0,4.0,0.8,1.0,383
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadPrepDict/0",1.0,2.0,0.6666667,1.0,558
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadQuantifierDict/0",1.0,4.0,0.8,1.0,538
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadRemoteExtDict/0",0.0,2.0,1.0,0.0,415
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadStopWordDict/0",2.0,8.0,0.8,1.0,494
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadSuffixDict/0",1.0,2.0,0.6666667,1.0,552
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadSurnameDict/0",1.0,2.0,0.6666667,1.0,546
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInMainDict/1[char[]]",0.0,0.0,-1.0,0.0,339
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInMainDict/3[char[], int, int]",0.0,0.0,-1.0,0.0,348
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInQuantifierDict/3[char[], int, int]",0.0,0.0,-1.0,0.0,357
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchWithHit/3[char[], int, org.wltea.analyzer.dic.Hit]",1.0,0.0,0.0,1.0,366
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"reLoadMainDict/0",0.0,7.0,1.0,0.0,564
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"walkFileTree/2[java.util.List, java.nio.file.Path]",2.0,0.0,0.0,1.0,174
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"Dictionary/1[org.wltea.analyzer.cfg.Configuration]",3.0,6.0,0.6666667,2.0,103
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"getAnalyzers/0",0.0,0.0,-1.0,0.0,32
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"getTokenizers/0",0.0,0.0,-1.0,0.0,21
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"AnalysisIkPlugin/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",16.0,2.0,0.11111111,5.0,53
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"reset/0",0.0,0.0,-1.0,0.0,121
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"CJKSegmenter/0",0.0,1.0,1.0,0.0,46
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getConfigInPluginDir/0",6.0,0.0,0.0,6.0,44
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getEnvironment/0",0.0,1.0,1.0,0.0,60
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getSettings/0",0.0,1.0,1.0,0.0,64
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isEnableLowercase/0",0.0,1.0,1.0,0.0,72
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isEnableRemoteDict/0",0.0,1.0,1.0,0.0,68
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isUseSmart/0",0.0,1.0,1.0,0.0,51
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"setUseSmart/1[boolean]",0.0,1.0,1.0,0.0,55
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"Configuration/2[org.elasticsearch.env.Environment, org.elasticsearch.common.settings.Settings]",3.0,5.0,0.625,1.0,32
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"backPath/2[org.wltea.analyzer.core.Lexeme, org.wltea.analyzer.core.LexemePath]",0.0,0.0,-1.0,0.0,145
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"forwardPath/2[org.wltea.analyzer.core.QuickSortSet$Cell, org.wltea.analyzer.core.LexemePath]",3.0,0.0,0.0,1.0,125
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"judge/2[org.wltea.analyzer.core.QuickSortSet$Cell, int]",1.0,0.0,0.0,1.0,92
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"process/2[org.wltea.analyzer.core.AnalyzeContext, boolean]",5.0,0.0,0.0,3.0,44
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"IKArbitrator/0",0.0,0.0,-1.0,0.0,35
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"createComponents/1[java.lang.String]",0.0,1.0,1.0,0.0,62
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"IKAnalyzer/0",0.0,0.0,-1.0,0.0,44
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"IKAnalyzer/1[org.wltea.analyzer.cfg.Configuration]",0.0,1.0,1.0,0.0,52
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"compareTo/1[org.wltea.analyzer.core.QuickSortSet$Cell]",0.0,0.0,-1.0,0.0,223
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getLexeme/0",0.0,1.0,1.0,0.0,235
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getNext/0",0.0,1.0,1.0,0.0,231
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getPrev/0",0.0,1.0,1.0,0.0,227
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"Cell/1[org.wltea.analyzer.core.Lexeme]",0.0,1.0,1.0,0.0,216
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"compareTo/1[org.wltea.analyzer.dic.DictSegment]",0.0,0.0,-1.0,0.0,321
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"disableSegment/1[char[]]",1.0,0.0,0.0,1.0,177
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"fillSegment/1[char[]]",1.0,0.0,0.0,1.0,169
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"fillSegment/4[char[], int, int, int]",1.0,1.0,0.5,1.0,188
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getChildrenArray/0",0.0,4.0,1.0,0.0,282
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getChildrenMap/0",0.0,4.0,1.0,0.0,295
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getNodeChar/0",0.0,1.0,1.0,0.0,65
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"hasNextNode/0",0.0,1.0,1.0,0.0,72
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"lookforSegment/2[java.lang.Character, int]",1.0,14.0,0.93333334,1.0,220
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/1[char[]]",1.0,0.0,0.0,1.0,81
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/3[char[], int, int]",0.0,0.0,-1.0,0.0,92
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/4[char[], int, int, org.wltea.analyzer.dic.Hit]",7.0,4.0,0.36363637,2.0,104
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"migrate/2[org.wltea.analyzer.dic.DictSegment[], java.util.Map]",0.0,1.0,1.0,0.0,308
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"DictSegment/1[java.lang.Character]",0.0,1.0,1.0,0.0,58
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"addLexeme/1[org.wltea.analyzer.core.Lexeme]",0.0,0.0,-1.0,0.0,225
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"addLexemePath/1[org.wltea.analyzer.core.LexemePath]",1.0,0.0,0.0,1.0,234
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"compound/1[org.wltea.analyzer.core.Lexeme]",13.0,0.0,0.0,1.0,355
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"fillBuffer/1[java.io.Reader]",0.0,11.0,1.0,0.0,115
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getBufferOffset/0",0.0,1.0,1.0,0.0,105
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCurrentChar/0",0.0,2.0,1.0,0.0,97
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCurrentCharType/0",0.0,2.0,1.0,0.0,101
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCursor/0",0.0,1.0,1.0,0.0,89
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getNextLexeme/0",6.0,2.0,0.25,2.0,319
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getOrgLexemes/0",0.0,1.0,1.0,0.0,245
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getSegmentBuff/0",0.0,1.0,1.0,0.0,93
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"initCursor/0",0.0,9.0,1.0,0.0,140
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"isBufferConsumed/0",0.0,2.0,1.0,0.0,193
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"isBufferLocked/0",0.0,0.0,-1.0,0.0,184
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"lockBuffer/1[java.lang.String]",0.0,0.0,-1.0,0.0,167
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"markBufferOffset/0",0.0,2.0,1.0,0.0,217
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"moveCursor/0",0.0,11.0,1.0,0.0,151
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"needRefillBuffer/0",0.0,7.0,1.0,0.0,207
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"outputSingleCJK/1[int]",4.0,4.0,0.5,2.0,303
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"outputToResult/0",7.0,2.0,0.22222222,3.0,255
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"reset/0",0.0,8.0,1.0,0.0,340
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"unlockBuffer/1[java.lang.String]",0.0,0.0,-1.0,0.0,175
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"AnalyzeContext/1[org.wltea.analyzer.cfg.Configuration]",0.0,9.0,1.0,0.0,79
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"identifyCharType/1[char]",10.0,5.0,0.33333334,1.0,50
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"regularize/2[char, boolean]",0.0,0.0,-1.0,0.0,89
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"CharacterUtil/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,4.0,1.0,0.0,79
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"needCountScan/1[org.wltea.analyzer.core.AnalyzeContext]",9.0,2.0,0.18181819,2.0,209
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"outputNumLexeme/1[org.wltea.analyzer.core.AnalyzeContext]",2.0,5.0,0.71428573,2.0,230
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"processCNumber/1[org.wltea.analyzer.core.AnalyzeContext]",9.0,11.0,0.55,2.0,107
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"processCount/1[org.wltea.analyzer.core.AnalyzeContext]",16.0,0.0,0.0,5.0,143
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"reset/0",0.0,2.0,1.0,0.0,98
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"CN_QuantifierSegmenter/0",0.0,3.0,1.0,0.0,70
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,(initializer 1),0.0,0.0,-1.0,0.0,47
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"addCrossLexeme/1[org.wltea.analyzer.core.Lexeme]",8.0,8.0,0.5,1.0,51
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"addNotCrossLexeme/1[org.wltea.analyzer.core.Lexeme]",8.0,6.0,0.42857143,1.0,78
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"checkCross/1[org.wltea.analyzer.core.Lexeme]",5.0,4.0,0.44444445,1.0,124
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"compareTo/1[org.wltea.analyzer.core.LexemePath]",0.0,20.0,1.0,0.0,197
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"copy/0",4.0,6.0,0.6,2.0,184
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPWeight/0",5.0,0.0,0.0,3.0,172
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathBegin/0",0.0,1.0,1.0,0.0,129
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathEnd/0",0.0,1.0,1.0,0.0,133
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathLength/0",0.0,2.0,1.0,0.0,149
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPayloadLength/0",0.0,1.0,1.0,0.0,141
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getXWeight/0",5.0,0.0,0.0,3.0,158
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"removeTail/0",3.0,5.0,0.625,1.0,105
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"toString/0",3.0,3.0,0.5,2.0,243
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"LexemePath/0",0.0,3.0,1.0,0.0,40
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,2.0,1.0,0.0,90
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"isLetterConnector/1[char]",0.0,1.0,1.0,0.0,276
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"isNumConnector/1[char]",0.0,1.0,1.0,0.0,286
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processArabicLetter/1[org.wltea.analyzer.core.AnalyzeContext]",13.0,19.0,0.59375,3.0,227
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processEnglishLetter/1[org.wltea.analyzer.core.AnalyzeContext]",10.0,19.0,0.6551724,3.0,181
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processMixLetter/1[org.wltea.analyzer.core.AnalyzeContext]",18.0,20.0,0.5263158,3.0,127
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"reset/0",0.0,6.0,1.0,0.0,111
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"LetterSegmenter/0",0.0,8.0,1.0,0.0,75
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"addLexeme/1[org.wltea.analyzer.core.Lexeme]",10.0,12.0,0.54545456,1.0,46
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"getHead/0",0.0,1.0,1.0,0.0,180
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"isEmpty/0",0.0,1.0,1.0,0.0,172
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"peekFirst/0",1.0,1.0,0.5,1.0,98
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"peekLast/0",1.0,1.0,0.5,1.0,130
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"pollFirst/0",3.0,7.0,0.7,1.0,109
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"pollLast/0",3.0,7.0,0.7,1.0,141
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"size/0",0.0,1.0,1.0,0.0,164
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"QuickSortSet/0",0.0,1.0,1.0,0.0,38
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getBegin/0",0.0,1.0,1.0,0.0,101
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getEnd/0",0.0,1.0,1.0,0.0,109
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getMatchedDictSegment/0",0.0,1.0,1.0,0.0,93
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isMatch/0",0.0,2.0,1.0,0.0,58
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isPrefix/0",0.0,2.0,1.0,0.0,71
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isUnmatch/0",0.0,2.0,1.0,0.0,83
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setBegin/1[int]",0.0,1.0,1.0,0.0,105
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setEnd/1[int]",0.0,1.0,1.0,0.0,113
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setMatch/0",0.0,3.0,1.0,0.0,64
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setMatchedDictSegment/1[org.wltea.analyzer.dic.DictSegment]",0.0,1.0,1.0,0.0,97
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setPrefix/0",0.0,3.0,1.0,0.0,77
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setUnmatch/0",0.0,2.0,1.0,0.0,89
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"Hit/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"logMessage/5[java.lang.String, org.apache.logging.log4j.Level, org.apache.logging.log4j.Marker, org.apache.logging.log4j.message.Message, java.lang.Throwable]",0.0,1.0,1.0,0.0,43
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"markersSize/0",0.0,0.0,-1.0,0.0,17
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"prefix/0",1.0,0.0,0.0,1.0,21
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"PrefixPluginLogger/3[org.apache.logging.log4j.spi.ExtendedLogger, java.lang.String, java.lang.String]",1.0,3.0,0.75,1.0,25
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep,"sleep/2[org.wltea.analyzer.help.Sleep$Type, int]",5.0,0.0,0.0,2.0,13
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep,"Sleep/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep$Type,"Type/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"end/0",3.0,2.0,0.4,2.0,123
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"incrementToken/0",10.0,3.0,0.23076923,5.0,83
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"reset/0",1.0,1.0,0.5,1.0,116
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"IKTokenizer/1[org.wltea.analyzer.cfg.Configuration]",5.0,5.0,0.5,5.0,69
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"get/0",0.0,1.0,1.0,0.0,28
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"getIkAnalyzerProvider/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,0.0,-1.0,0.0,24
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"getIkSmartAnalyzerProvider/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,0.0,-1.0,0.0,20
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"IkAnalyzerProvider/5[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings, boolean]",1.0,1.0,0.5,1.0,12
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"run/0",0.0,0.0,-1.0,0.0,41
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"runUnprivileged/0",36.0,11.0,0.2972973,9.0,58
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"Monitor/1[java.lang.String]",0.0,3.0,1.0,0.0,35
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"append/2[org.wltea.analyzer.core.Lexeme, int]",0.0,5.0,1.0,0.0,261
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"compareTo/1[org.wltea.analyzer.core.Lexeme]",0.0,8.0,1.0,0.0,117
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"equals/1[java.lang.Object]",0.0,6.0,1.0,0.0,80
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getBegin/0",0.0,1.0,1.0,0.0,144
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getBeginPosition/0",0.0,2.0,1.0,0.0,151
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getEndPosition/0",0.0,3.0,1.0,0.0,163
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLength/0",0.0,1.0,1.0,0.0,171
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeText/0",0.0,2.0,1.0,0.0,186
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeType/0",0.0,1.0,1.0,0.0,207
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeTypeString/0",0.0,10.0,1.0,0.0,215
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getOffset/0",0.0,1.0,1.0,0.0,136
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"hashCode/0",0.0,3.0,1.0,0.0,107
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setBegin/1[int]",0.0,1.0,1.0,0.0,155
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLength/1[int]",0.0,2.0,1.0,0.0,175
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLexemeText/1[java.lang.String]",0.0,4.0,1.0,0.0,193
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLexemeType/1[int]",0.0,1.0,1.0,0.0,251
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setOffset/1[int]",0.0,1.0,1.0,0.0,140
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"toString/0",0.0,4.0,1.0,0.0,275
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"Lexeme/4[int, int, int, int]",0.0,4.0,1.0,0.0,65
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"create/0",0.0,1.0,1.0,0.0,32
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"getIkSmartTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,22
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"getIkTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,18
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"setSmart/1[boolean]",1.0,0.0,0.0,1.0,26
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"IkTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,13
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"init/0",0.0,4.0,1.0,0.0,64
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"loadSegmenters/0",0.0,0.0,-1.0,0.0,77
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"next/0",1.0,5.0,0.8333333,1.0,93
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"reset/1[java.io.Reader]",0.0,2.0,1.0,0.0,140
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"IKSegmenter/2[java.io.Reader, org.wltea.analyzer.cfg.Configuration]",0.0,2.0,1.0,0.0,54
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isArabicNumber/1[char]",0.0,0.0,-1.0,0.0,17
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isCJKCharacter/1[char]",10.0,0.0,0.0,1.0,21
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isEnglishLetter/1[char]",0.0,0.0,-1.0,0.0,12
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isSpaceLetter/1[char]",0.0,0.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"regularize/1[char]",0.0,0.0,-1.0,0.0,46
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"CharacterHelper/0",0.0,0.0,-1.0,0.0,
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\ISegmenter.java,org.wltea.analyzer.core.ISegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,0.0,-1.0,0.0,38
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\ISegmenter.java,org.wltea.analyzer.core.ISegmenter,"reset/0",0.0,0.0,-1.0,0.0,44
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary$1,"visitFile/2[java.nio.file.Path, java.nio.file.attribute.BasicFileAttributes]",1.0,0.0,0.0,1.0,180
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary$1,"visitFileFailed/2[java.nio.file.Path, java.io.IOException]",1.0,0.0,0.0,1.0,185
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/1[java.lang.String]",1.0,1.0,0.5,1.0,12
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, java.lang.Class]",2.0,1.0,0.33333334,2.0,20
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, java.lang.String]",1.0,1.0,0.5,1.0,16
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, org.apache.logging.log4j.Logger]",1.0,0.0,0.0,1.0,24
-C:\Users\syuuj\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"ESPluginLoggerFactory/0",0.0,0.0,-1.0,0.0,9
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary$178,"visitFile/2[java.nio.file.Path, java.nio.file.attribute.BasicFileAttributes]",1.0,0.0,0.0,1.0,180
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary$178,"visitFileFailed/2[java.nio.file.Path, java.io.IOException]",1.0,0.0,0.0,1.0,185
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary$178,"1/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"compareTo/1[org.wltea.analyzer.dic.DictSegment]",0.0,0.0,-1.0,0.0,321
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"disableSegment/1[char[]]",1.0,0.0,0.0,1.0,177
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"fillSegment/1[char[]]",1.0,0.0,0.0,1.0,169
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"fillSegment/4[char[], int, int, int]",1.0,1.0,0.5,1.0,188
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getChildrenArray/0",0.0,4.0,1.0,0.0,282
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getChildrenMap/0",0.0,4.0,1.0,0.0,295
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"getNodeChar/0",0.0,1.0,1.0,0.0,65
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"hasNextNode/0",0.0,1.0,1.0,0.0,72
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"lookforSegment/2[java.lang.Character, int]",1.0,14.0,0.93333334,1.0,220
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/1[char[]]",1.0,0.0,0.0,1.0,81
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/3[char[], int, int]",0.0,0.0,-1.0,0.0,92
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"match/4[char[], int, int, org.wltea.analyzer.dic.Hit]",7.0,4.0,0.36363637,2.0,104
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"migrate/2[org.wltea.analyzer.dic.DictSegment[], java.util.Map]",0.0,1.0,1.0,0.0,308
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\DictSegment.java,org.wltea.analyzer.dic.DictSegment,"DictSegment/1[java.lang.Character]",0.0,1.0,1.0,0.0,58
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"end/0",3.0,2.0,0.4,2.0,123
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"incrementToken/0",10.0,3.0,0.23076923,5.0,83
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"reset/0",1.0,1.0,0.5,1.0,116
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKTokenizer.java,org.wltea.analyzer.lucene.IKTokenizer,"IKTokenizer/1[org.wltea.analyzer.cfg.Configuration]",5.0,5.0,0.5,5.0,69
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"addWords/1[java.util.Collection]",0.0,0.0,-1.0,0.0,309
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"disableWords/1[java.util.Collection]",0.0,0.0,-1.0,0.0,323
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getDictRoot/0",0.0,0.0,-1.0,0.0,285
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getExtDictionarys/0",1.0,3.0,0.75,1.0,219
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getExtStopWordDictionarys/0",1.0,3.0,0.75,1.0,252
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getProperty/1[java.lang.String]",1.0,1.0,0.5,1.0,133
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteExtDictionarys/0",0.0,2.0,1.0,0.0,236
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteExtStopWordDictionarys/0",0.0,2.0,1.0,0.0,269
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteWords/1[java.lang.String]",0.0,1.0,1.0,0.0,436
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getRemoteWordsUnprivileged/1[java.lang.String]",16.0,0.0,0.0,8.0,446
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"getSingleton/0",0.0,2.0,1.0,0.0,295
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"initial/1[org.wltea.analyzer.cfg.Configuration]",2.0,6.0,0.75,1.0,145
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"isStopWord/3[char[], int, int]",0.0,0.0,-1.0,0.0,376
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadDictFile/4[org.wltea.analyzer.dic.DictSegment, java.nio.file.Path, boolean, java.lang.String]",0.0,0.0,-1.0,0.0,197
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadExtDict/0",1.0,2.0,0.6666667,1.0,399
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadMainDict/0",1.0,4.0,0.8,1.0,383
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadPrepDict/0",1.0,2.0,0.6666667,1.0,558
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadQuantifierDict/0",1.0,4.0,0.8,1.0,538
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadRemoteExtDict/0",0.0,2.0,1.0,0.0,415
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadStopWordDict/0",2.0,8.0,0.8,1.0,494
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadSuffixDict/0",1.0,2.0,0.6666667,1.0,552
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"loadSurnameDict/0",1.0,2.0,0.6666667,1.0,546
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInMainDict/1[char[]]",0.0,0.0,-1.0,0.0,339
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInMainDict/3[char[], int, int]",0.0,0.0,-1.0,0.0,348
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchInQuantifierDict/3[char[], int, int]",0.0,0.0,-1.0,0.0,357
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"matchWithHit/3[char[], int, org.wltea.analyzer.dic.Hit]",1.0,0.0,0.0,1.0,366
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"reLoadMainDict/0",0.0,7.0,1.0,0.0,564
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"walkFileTree/2[java.util.List, java.nio.file.Path]",2.0,0.0,0.0,1.0,174
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Dictionary.java,org.wltea.analyzer.dic.Dictionary,"Dictionary/1[org.wltea.analyzer.cfg.Configuration]",3.0,6.0,0.6666667,2.0,103
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getBegin/0",0.0,1.0,1.0,0.0,101
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getEnd/0",0.0,1.0,1.0,0.0,109
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"getMatchedDictSegment/0",0.0,1.0,1.0,0.0,93
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isMatch/0",0.0,2.0,1.0,0.0,58
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isPrefix/0",0.0,2.0,1.0,0.0,71
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"isUnmatch/0",0.0,2.0,1.0,0.0,83
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setBegin/1[int]",0.0,1.0,1.0,0.0,105
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setEnd/1[int]",0.0,1.0,1.0,0.0,113
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setMatch/0",0.0,3.0,1.0,0.0,64
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setMatchedDictSegment/1[org.wltea.analyzer.dic.DictSegment]",0.0,1.0,1.0,0.0,97
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setPrefix/0",0.0,3.0,1.0,0.0,77
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"setUnmatch/0",0.0,2.0,1.0,0.0,89
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Hit.java,org.wltea.analyzer.dic.Hit,"Hit/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"get/0",0.0,1.0,1.0,0.0,28
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"getIkAnalyzerProvider/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,0.0,-1.0,0.0,24
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"getIkSmartAnalyzerProvider/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,0.0,-1.0,0.0,20
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkAnalyzerProvider.java,org.elasticsearch.index.analysis.IkAnalyzerProvider,"IkAnalyzerProvider/5[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings, boolean]",1.0,1.0,0.5,1.0,12
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"backPath/2[org.wltea.analyzer.core.Lexeme, org.wltea.analyzer.core.LexemePath]",0.0,0.0,-1.0,0.0,145
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"forwardPath/2[org.wltea.analyzer.core.QuickSortSet$Cell, org.wltea.analyzer.core.LexemePath]",3.0,0.0,0.0,1.0,125
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"judge/2[org.wltea.analyzer.core.QuickSortSet$Cell, int]",1.0,0.0,0.0,1.0,92
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"process/2[org.wltea.analyzer.core.AnalyzeContext, boolean]",5.0,0.0,0.0,3.0,44
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKArbitrator.java,org.wltea.analyzer.core.IKArbitrator,"IKArbitrator/0",0.0,0.0,-1.0,0.0,35
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/1[java.lang.String]",1.0,1.0,0.5,1.0,12
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, java.lang.Class]",2.0,1.0,0.33333334,2.0,20
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, java.lang.String]",1.0,1.0,0.5,1.0,16
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"getLogger/2[java.lang.String, org.apache.logging.log4j.Logger]",1.0,0.0,0.0,1.0,24
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\ESPluginLoggerFactory.java,org.wltea.analyzer.help.ESPluginLoggerFactory,"ESPluginLoggerFactory/0",0.0,0.0,-1.0,0.0,9
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,2.0,1.0,0.0,90
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"isLetterConnector/1[char]",0.0,1.0,1.0,0.0,276
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"isNumConnector/1[char]",0.0,1.0,1.0,0.0,286
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processArabicLetter/1[org.wltea.analyzer.core.AnalyzeContext]",13.0,19.0,0.59375,3.0,227
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processEnglishLetter/1[org.wltea.analyzer.core.AnalyzeContext]",10.0,19.0,0.6551724,3.0,181
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"processMixLetter/1[org.wltea.analyzer.core.AnalyzeContext]",18.0,20.0,0.5263158,3.0,127
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"reset/0",0.0,6.0,1.0,0.0,111
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LetterSegmenter.java,org.wltea.analyzer.core.LetterSegmenter,"LetterSegmenter/0",0.0,8.0,1.0,0.0,75
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep,"sleep/2[org.wltea.analyzer.help.Sleep$Type, int]",5.0,0.0,0.0,2.0,13
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep,"Sleep/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",16.0,2.0,0.11111111,5.0,53
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"reset/0",0.0,0.0,-1.0,0.0,121
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CJKSegmenter.java,org.wltea.analyzer.core.CJKSegmenter,"CJKSegmenter/0",0.0,1.0,1.0,0.0,46
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"init/0",0.0,4.0,1.0,0.0,64
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"loadSegmenters/0",0.0,0.0,-1.0,0.0,77
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"next/0",1.0,5.0,0.8333333,1.0,93
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"reset/1[java.io.Reader]",0.0,2.0,1.0,0.0,140
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\IKSegmenter.java,org.wltea.analyzer.core.IKSegmenter,"IKSegmenter/2[java.io.Reader, org.wltea.analyzer.cfg.Configuration]",0.0,2.0,1.0,0.0,54
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,4.0,1.0,0.0,79
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"needCountScan/1[org.wltea.analyzer.core.AnalyzeContext]",9.0,2.0,0.18181819,2.0,209
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"outputNumLexeme/1[org.wltea.analyzer.core.AnalyzeContext]",2.0,5.0,0.71428573,2.0,230
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"processCNumber/1[org.wltea.analyzer.core.AnalyzeContext]",9.0,11.0,0.55,2.0,107
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"processCount/1[org.wltea.analyzer.core.AnalyzeContext]",16.0,0.0,0.0,5.0,143
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"reset/0",0.0,2.0,1.0,0.0,98
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,"CN_QuantifierSegmenter/0",0.0,3.0,1.0,0.0,70
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CN_QuantifierSegmenter.java,org.wltea.analyzer.core.CN_QuantifierSegmenter,(initializer 47),0.0,0.0,-1.0,0.0,47
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"compareTo/1[org.wltea.analyzer.core.QuickSortSet$Cell]",0.0,0.0,-1.0,0.0,223
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getLexeme/0",0.0,1.0,1.0,0.0,235
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getNext/0",0.0,1.0,1.0,0.0,231
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"getPrev/0",0.0,1.0,1.0,0.0,227
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet$Cell,"Cell/1[org.wltea.analyzer.core.Lexeme]",0.0,1.0,1.0,0.0,216
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"identifyCharType/1[char]",10.0,5.0,0.33333334,1.0,50
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"regularize/2[char, boolean]",0.0,0.0,-1.0,0.0,89
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\CharacterUtil.java,org.wltea.analyzer.core.CharacterUtil,"CharacterUtil/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"addCrossLexeme/1[org.wltea.analyzer.core.Lexeme]",8.0,8.0,0.5,1.0,51
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"addNotCrossLexeme/1[org.wltea.analyzer.core.Lexeme]",8.0,6.0,0.42857143,1.0,78
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"checkCross/1[org.wltea.analyzer.core.Lexeme]",5.0,4.0,0.44444445,1.0,124
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"compareTo/1[org.wltea.analyzer.core.LexemePath]",0.0,20.0,1.0,0.0,197
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"copy/0",4.0,6.0,0.6,2.0,184
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPWeight/0",5.0,0.0,0.0,3.0,172
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathBegin/0",0.0,1.0,1.0,0.0,129
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathEnd/0",0.0,1.0,1.0,0.0,133
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPathLength/0",0.0,2.0,1.0,0.0,149
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getPayloadLength/0",0.0,1.0,1.0,0.0,141
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"getXWeight/0",5.0,0.0,0.0,3.0,158
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"removeTail/0",3.0,5.0,0.625,1.0,105
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"toString/0",3.0,3.0,0.5,2.0,243
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\LexemePath.java,org.wltea.analyzer.core.LexemePath,"LexemePath/0",0.0,3.0,1.0,0.0,40
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"logMessage/5[java.lang.String, org.apache.logging.log4j.Level, org.apache.logging.log4j.Marker, org.apache.logging.log4j.message.Message, java.lang.Throwable]",0.0,1.0,1.0,0.0,43
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"markersSize/0",0.0,0.0,-1.0,0.0,17
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"prefix/0",1.0,0.0,0.0,1.0,21
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\PrefixPluginLogger.java,org.wltea.analyzer.help.PrefixPluginLogger,"PrefixPluginLogger/3[org.apache.logging.log4j.spi.ExtendedLogger, java.lang.String, java.lang.String]",1.0,3.0,0.75,1.0,25
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\ISegmenter.java,org.wltea.analyzer.core.ISegmenter,"analyze/1[org.wltea.analyzer.core.AnalyzeContext]",0.0,0.0,-1.0,0.0,38
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\ISegmenter.java,org.wltea.analyzer.core.ISegmenter,"reset/0",0.0,0.0,-1.0,0.0,44
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"create/0",0.0,1.0,1.0,0.0,32
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"getIkSmartTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,22
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"getIkTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,18
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"setSmart/1[boolean]",1.0,0.0,0.0,1.0,26
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\index\analysis\IkTokenizerFactory.java,org.elasticsearch.index.analysis.IkTokenizerFactory,"IkTokenizerFactory/4[org.elasticsearch.index.IndexSettings, org.elasticsearch.env.Environment, java.lang.String, org.elasticsearch.common.settings.Settings]",0.0,1.0,1.0,0.0,13
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"addLexeme/1[org.wltea.analyzer.core.Lexeme]",10.0,12.0,0.54545456,1.0,46
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"getHead/0",0.0,1.0,1.0,0.0,180
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"isEmpty/0",0.0,1.0,1.0,0.0,172
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"peekFirst/0",1.0,1.0,0.5,1.0,98
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"peekLast/0",1.0,1.0,0.5,1.0,130
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"pollFirst/0",3.0,7.0,0.7,1.0,109
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"pollLast/0",3.0,7.0,0.7,1.0,141
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"size/0",0.0,1.0,1.0,0.0,164
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\QuickSortSet.java,org.wltea.analyzer.core.QuickSortSet,"QuickSortSet/0",0.0,1.0,1.0,0.0,38
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isArabicNumber/1[char]",0.0,0.0,-1.0,0.0,17
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isCJKCharacter/1[char]",10.0,0.0,0.0,1.0,21
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isEnglishLetter/1[char]",0.0,0.0,-1.0,0.0,12
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"isSpaceLetter/1[char]",0.0,0.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"regularize/1[char]",0.0,0.0,-1.0,0.0,46
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\CharacterHelper.java,org.wltea.analyzer.help.CharacterHelper,"CharacterHelper/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"createComponents/1[java.lang.String]",0.0,1.0,1.0,0.0,62
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"IKAnalyzer/0",0.0,0.0,-1.0,0.0,44
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\lucene\IKAnalyzer.java,org.wltea.analyzer.lucene.IKAnalyzer,"IKAnalyzer/1[org.wltea.analyzer.cfg.Configuration]",0.0,1.0,1.0,0.0,52
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"addLexeme/1[org.wltea.analyzer.core.Lexeme]",0.0,0.0,-1.0,0.0,225
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"addLexemePath/1[org.wltea.analyzer.core.LexemePath]",1.0,0.0,0.0,1.0,234
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"compound/1[org.wltea.analyzer.core.Lexeme]",13.0,0.0,0.0,1.0,355
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"fillBuffer/1[java.io.Reader]",0.0,11.0,1.0,0.0,115
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getBufferOffset/0",0.0,1.0,1.0,0.0,105
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCurrentChar/0",0.0,2.0,1.0,0.0,97
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCurrentCharType/0",0.0,2.0,1.0,0.0,101
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getCursor/0",0.0,1.0,1.0,0.0,89
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getNextLexeme/0",6.0,2.0,0.25,2.0,319
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getOrgLexemes/0",0.0,1.0,1.0,0.0,245
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"getSegmentBuff/0",0.0,1.0,1.0,0.0,93
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"initCursor/0",0.0,9.0,1.0,0.0,140
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"isBufferConsumed/0",0.0,2.0,1.0,0.0,193
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"isBufferLocked/0",0.0,0.0,-1.0,0.0,184
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"lockBuffer/1[java.lang.String]",0.0,0.0,-1.0,0.0,167
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"markBufferOffset/0",0.0,2.0,1.0,0.0,217
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"moveCursor/0",0.0,11.0,1.0,0.0,151
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"needRefillBuffer/0",0.0,7.0,1.0,0.0,207
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"outputSingleCJK/1[int]",4.0,4.0,0.5,2.0,303
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"outputToResult/0",7.0,2.0,0.22222222,3.0,255
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"reset/0",0.0,8.0,1.0,0.0,340
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"unlockBuffer/1[java.lang.String]",0.0,0.0,-1.0,0.0,175
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\AnalyzeContext.java,org.wltea.analyzer.core.AnalyzeContext,"AnalyzeContext/1[org.wltea.analyzer.cfg.Configuration]",0.0,9.0,1.0,0.0,79
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getConfigInPluginDir/0",6.0,0.0,0.0,6.0,44
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getEnvironment/0",0.0,1.0,1.0,0.0,60
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"getSettings/0",0.0,1.0,1.0,0.0,64
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isEnableLowercase/0",0.0,1.0,1.0,0.0,72
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isEnableRemoteDict/0",0.0,1.0,1.0,0.0,68
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"isUseSmart/0",0.0,1.0,1.0,0.0,51
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"setUseSmart/1[boolean]",0.0,1.0,1.0,0.0,55
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\cfg\Configuration.java,org.wltea.analyzer.cfg.Configuration,"Configuration/2[org.elasticsearch.env.Environment, org.elasticsearch.common.settings.Settings]",3.0,5.0,0.625,1.0,32
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"append/2[org.wltea.analyzer.core.Lexeme, int]",0.0,5.0,1.0,0.0,261
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"compareTo/1[org.wltea.analyzer.core.Lexeme]",0.0,8.0,1.0,0.0,117
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"equals/1[java.lang.Object]",0.0,6.0,1.0,0.0,80
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getBegin/0",0.0,1.0,1.0,0.0,144
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getBeginPosition/0",0.0,2.0,1.0,0.0,151
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getEndPosition/0",0.0,3.0,1.0,0.0,163
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLength/0",0.0,1.0,1.0,0.0,171
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeText/0",0.0,2.0,1.0,0.0,186
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeType/0",0.0,1.0,1.0,0.0,207
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getLexemeTypeString/0",0.0,10.0,1.0,0.0,215
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"getOffset/0",0.0,1.0,1.0,0.0,136
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"hashCode/0",0.0,3.0,1.0,0.0,107
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setBegin/1[int]",0.0,1.0,1.0,0.0,155
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLength/1[int]",0.0,2.0,1.0,0.0,175
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLexemeText/1[java.lang.String]",0.0,4.0,1.0,0.0,193
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setLexemeType/1[int]",0.0,1.0,1.0,0.0,251
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"setOffset/1[int]",0.0,1.0,1.0,0.0,140
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"toString/0",0.0,4.0,1.0,0.0,275
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\core\Lexeme.java,org.wltea.analyzer.core.Lexeme,"Lexeme/4[int, int, int, int]",0.0,4.0,1.0,0.0,65
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"run/0",0.0,0.0,-1.0,0.0,41
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"runUnprivileged/0",36.0,11.0,0.2972973,9.0,58
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\dic\Monitor.java,org.wltea.analyzer.dic.Monitor,"Monitor/1[java.lang.String]",0.0,3.0,1.0,0.0,35
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\wltea\analyzer\help\Sleep.java,org.wltea.analyzer.help.Sleep$Type,"Type/0",0.0,0.0,-1.0,0.0,0
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"getAnalyzers/0",0.0,0.0,-1.0,0.0,32
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"getTokenizers/0",0.0,0.0,-1.0,0.0,21
+C:\Users\sugii syuji\gitProject\analysis-ik\src\main\java\org\elasticsearch\plugin\analysis\ik\AnalysisIkPlugin.java,org.elasticsearch.plugin.analysis.ik.AnalysisIkPlugin,"AnalysisIkPlugin/0",0.0,0.0,-1.0,0.0,0

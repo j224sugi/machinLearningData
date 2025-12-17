@@ -1,195 +1,195 @@
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ClipboardMonitor.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\Config.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\CredentialManager.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadEntry.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadQueue.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadWindowListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\LinkRefreshCallback.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ListChangeListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\Main.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\MonitoringListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\QueueManager.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\QueueScheduler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMConstants.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\AbstractChannel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\Downloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\Segment.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentComparator.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDetails.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentImpl.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpChannel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\EncryptedHlsChannel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsEncryptedSouce.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylist.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylistItem.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\PlaylistParser.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpChannel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\DashMetadata.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HdsMetadata.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HlsMetadata.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HttpMetadata.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\HlsMediaEntry.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\ConversionItem.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FFmpeg.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\Format.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatGroup.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatLoader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaConversionListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormat.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormatInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormats.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaInfoExtractor.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\BrowserMonitor.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\F4mHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\FBHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\InstagramHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\M3U8Handler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\MonitoringSession.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\ParsedHookData.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\Request.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\Response.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\VimeoHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\AuthenticationFailedException.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\AutoProxyResolver.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\Channel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\FixedRangeInputStream.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\HostUnreachableException.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ICredentialManager.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveConnectionCache.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\NetworkException.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ParsedURL.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ProxyInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ProxyResolver.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\SocketFactory.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\WebRequest.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ftp\FtpClient.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\ChunkedInputStream.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HeaderCollection.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpClient.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpHeader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\JavaClientRequiredException.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\JavaHttpClient.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\WebProxy.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\XDMHttpClient.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\BrowserProxyInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyInfo.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\Chunk.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\FFmpegStream.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\PreviewStream.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\AboutPage.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BarPanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchVideoWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BrowserAddonDlg.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\CircleProgressBar.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ConversionItemRender.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\CustomButton.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DarkScrollBar.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadCompleteWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadListView.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadSorter.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadTableModel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\FFmpegExtractorWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\FormatImageLabel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatRender.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaImageSource.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupNotification.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PropertiesPage.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\QueuedItemsRenderer.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\QueueListRenderer.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SegmentPanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SidePanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleCheckboxRender.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleListRenderer.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SpeedLimiter.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadItem.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemEditor.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemRenderer.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopupItem.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileChooser.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileSelectionPanel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMTableCellRenderer.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMArrowButton.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMButtonUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLabelUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLookAndFeel.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuItemUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMProgressBarUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMScrollBarUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSliderUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSpinnerUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextAreaUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextFieldUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTheme.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMToolBarButtonUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTreeUI.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ColorResource.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\CustomButton.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\FontResource.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\StringResource.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\Base64.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\BrowserLauncher.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\DateTimeUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FFExtractCallback.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FFmpegDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FormatUtilities.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\HttpDateParser.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\LinuxUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\Logger.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\MacUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\MimeUtil.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\NetUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\ParamUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\StringUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\WinUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\XDMUtils.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailDownloader.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailListener.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YoutubeDLHandler.java
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\win32\NativeMethods.java
-C:\Users\syuuj\gitProject\xdm\app\src\test\java\xdman\AppTest.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ClipboardMonitor.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\Config.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\CredentialManager.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadEntry.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadQueue.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadWindowListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\LinkRefreshCallback.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ListChangeListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\Main.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\MonitoringListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\QueueManager.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\QueueScheduler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMConstants.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\AbstractChannel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\Downloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\Segment.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentComparator.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDetails.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentImpl.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpChannel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\EncryptedHlsChannel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsEncryptedSouce.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylist.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylistItem.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\PlaylistParser.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpChannel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\DashMetadata.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HdsMetadata.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HlsMetadata.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HttpMetadata.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\HlsMediaEntry.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\ConversionItem.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FFmpeg.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\Format.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatGroup.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatLoader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaConversionListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormat.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormatInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormats.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaInfoExtractor.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\BrowserMonitor.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\F4mHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\FBHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\InstagramHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\M3U8Handler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\MonitoringSession.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\ParsedHookData.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\Request.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\Response.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\VimeoHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\AuthenticationFailedException.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\AutoProxyResolver.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\Channel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\FixedRangeInputStream.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\HostUnreachableException.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ICredentialManager.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveConnectionCache.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\NetworkException.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ParsedURL.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ProxyInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ProxyResolver.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\SocketFactory.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\WebRequest.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ftp\FtpClient.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\ChunkedInputStream.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HeaderCollection.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpClient.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpHeader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\JavaClientRequiredException.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\JavaHttpClient.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\WebProxy.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\XDMHttpClient.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\BrowserProxyInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyInfo.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\Chunk.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\FFmpegStream.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\PreviewStream.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\AboutPage.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BarPanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchVideoWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BrowserAddonDlg.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\CircleProgressBar.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ConversionItemRender.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\CustomButton.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DarkScrollBar.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadCompleteWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadListView.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadSorter.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadTableModel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\FFmpegExtractorWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\FormatImageLabel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatRender.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaImageSource.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupNotification.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PropertiesPage.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\QueuedItemsRenderer.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\QueueListRenderer.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SegmentPanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SidePanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleCheckboxRender.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleListRenderer.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SpeedLimiter.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadItem.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemEditor.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemRenderer.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopupItem.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileChooser.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileSelectionPanel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMTableCellRenderer.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMArrowButton.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMButtonUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLabelUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLookAndFeel.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuItemUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMProgressBarUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMScrollBarUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSliderUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSpinnerUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextAreaUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextFieldUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTheme.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMToolBarButtonUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTreeUI.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ColorResource.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\CustomButton.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\FontResource.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\StringResource.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\Base64.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\BrowserLauncher.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\DateTimeUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FFExtractCallback.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FFmpegDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FormatUtilities.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\HttpDateParser.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\LinuxUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\Logger.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\MacUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\MimeUtil.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\NetUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\ParamUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\StringUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\WinUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\XDMUtils.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailDownloader.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailListener.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YoutubeDLHandler.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\win32\NativeMethods.java
+C:\Users\sugii syuji\gitProject\xdm\app\src\test\java\xdman\AppTest.java
 

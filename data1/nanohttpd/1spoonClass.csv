@@ -1,141 +1,141 @@
 file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP,line
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFileManager,0.0,-1.0,2.0,4.0,0.6666667,-1.0,2.0,428
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\ShutdownTest.java,fi.iki.elonen.integration.ShutdownTest$TestServer,8.0,1.0,0.0,0.0,-1.0,0.0,0.0,50
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,175
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD,0.0,-1.0,53.0,31.0,0.3690476,-1.0,19.0,151
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest$ChunkedInputStream,0.0,0.0,0.0,7.0,1.0,-1.0,0.0,44
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\IntegrationTestBase.java,fi.iki.elonen.integration.IntegrationTestBase,0.0,-1.0,1.0,2.0,0.6666667,-1.0,1.0,47
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$Status,0.0,0.0,0.0,6.0,1.0,-1.0,0.0,1339
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response,0.0,-1.0,11.0,43.0,0.7962963,-1.0,9.0,1327
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\PutStreamIntegrationTest.java,fi.iki.elonen.integration.PutStreamIntegrationTest$TestServer,8.0,1.0,6.0,1.0,0.14285715,0.0,4.0,52
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultServerSocketFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,476
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\CookieTest.java,fi.iki.elonen.CookieTest,0.0,-1.0,11.0,0.0,0.0,-1.0,1.0,44
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpDeleteRequestTest.java,fi.iki.elonen.HttpDeleteRequestTest,7.0,0.0,13.0,5.0,0.2777778,0.2857143,3.0,41
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\ServerSocketFactoryTest.java,fi.iki.elonen.ServerSocketFactoryTest$TestFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,90
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$ChunkedOutputStream,0.0,0.0,4.0,0.0,0.0,-1.0,2.0,1419
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\StatusTest.java,fi.iki.elonen.StatusTest,0.0,-1.0,45.0,1.0,0.02173913,-1.0,3.0,44
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\PutStreamIntegrationTest.java,fi.iki.elonen.integration.PutStreamIntegrationTest,2.0,0.5,2.0,0.0,0.0,0.0,2.0,50
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ServerRunnable,0.0,-1.0,7.0,5.0,0.41666666,-1.0,3.0,1746
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Cookie,0.0,-1.0,6.0,10.0,0.625,-1.0,4.0,214
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ResponseException,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,1722
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$TestTempFileManager,0.0,0.5,0.0,0.0,-1.0,-1.0,0.0,132
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$SecureServerSocketFactory,0.0,-1.0,6.0,4.0,0.4,-1.0,1.0,488
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\CookieIntegrationTest.java,fi.iki.elonen.integration.CookieIntegrationTest,2.0,0.25,22.0,0.0,0.0,0.0,9.0,55
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GZipIntegrationTest.java,fi.iki.elonen.integration.GZipIntegrationTest$TestServer,8.0,1.0,0.0,1.0,1.0,0.0,0.0,58
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpKeepAliveTest.java,fi.iki.elonen.HttpKeepAliveTest$1,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0,88
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpHeadRequestTest.java,fi.iki.elonen.HttpHeadRequestTest,7.0,0.05882353,86.0,17.0,0.16504854,0.2857143,5.0,45
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest$TestServer,8.0,1.0,3.0,2.0,0.4,0.0,2.0,67
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\CookieIntegrationTest.java,fi.iki.elonen.integration.CookieIntegrationTest$CookieTestServer,8.0,1.0,2.0,1.0,0.33333334,0.0,2.0,57
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1475
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultAsyncRunner,0.0,-1.0,2.0,4.0,0.6666667,-1.0,1.0,343
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFileManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,465
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ContentType,0.0,-1.0,0.0,23.0,1.0,-1.0,0.0,528
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpKeepAliveTest.java,fi.iki.elonen.HttpKeepAliveTest,7.0,0.0,3.0,5.0,0.625,0.14285715,2.0,44
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\LoadKeyStoreTest.java,fi.iki.elonen.LoadKeyStoreTest,0.0,-1.0,8.0,0.0,0.0,-1.0,3.0,47
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest$1,8.0,0.0,0.0,0.0,-1.0,0.0,0.0,88
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\ServerSocketFactoryTest.java,fi.iki.elonen.ServerSocketFactoryTest,8.0,0.0,5.0,1.0,0.16666667,0.0,3.0,47
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\CookieHandlerTest.java,fi.iki.elonen.CookieHandlerTest,7.0,0.0,18.0,8.0,0.30769232,0.14285715,8.0,55
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpParsingTest.java,fi.iki.elonen.HttpParsingTest,7.0,0.0,0.0,0.0,-1.0,0.0,0.0,40
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpPutRequestTest.java,fi.iki.elonen.HttpPutRequestTest,7.0,0.0,1.0,1.0,0.5,0.5714286,1.0,45
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\MimeTest.java,fi.iki.elonen.MimeTest,0.0,-1.0,5.0,0.0,0.0,-1.0,2.0,39
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$1,8.0,1.0,1.0,1.0,0.5,0.0,1.0,215
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$IStatus,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1329
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$IHTTPSession,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1235
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\BadRequestTest.java,fi.iki.elonen.BadRequestTest,7.0,0.0,0.0,0.0,-1.0,0.2857143,0.0,41
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest,7.0,0.0,3.0,0.0,0.0,0.2857143,3.0,42
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpGetRequestTest.java,fi.iki.elonen.HttpGetRequestTest,7.0,0.0,92.0,22.0,0.19298245,0.2857143,4.0,46
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSessionTest.java,fi.iki.elonen.HttpSessionTest,7.0,0.0,9.0,3.0,0.25,0.0,3.0,45
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpPostRequestTest.java,fi.iki.elonen.HttpPostRequestTest,7.0,0.0,27.0,71.0,0.7244898,0.42857143,3.0,48
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ClientHandler,0.0,-1.0,4.0,7.0,0.6363636,-1.0,3.0,168
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSessionHeadersTest.java,fi.iki.elonen.HttpSessionHeadersTest,7.0,0.0,4.0,1.0,0.2,0.0,3.0,46
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\ShutdownTest.java,fi.iki.elonen.integration.ShutdownTest,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,48
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFileManager,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1807
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$TestServer,8.0,0.33333334,7.0,12.0,0.6315789,0.125,1.0,73
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GZipIntegrationTest.java,fi.iki.elonen.integration.GZipIntegrationTest,2.0,0.11111111,26.0,2.0,0.071428575,0.5,6.0,56
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFileManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1817
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ServerSocketFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1825
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$CookieHandler,0.0,-1.0,5.0,2.0,0.2857143,-1.0,4.0,255
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$HTTPSession,0.0,-1.0,75.0,88.0,0.5398773,-1.0,19.0,603
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\InvalidRequestTest.java,fi.iki.elonen.InvalidRequestTest,7.0,0.0,16.0,4.0,0.2,0.14285715,1.0,40
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest,2.0,0.125,14.0,0.0,0.0,0.0,4.0,65
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$2,8.0,1.0,2.0,1.0,0.33333334,0.0,2.0,271
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\util\ServerRunner.java,fi.iki.elonen.util.ServerRunner,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,42
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFile,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1790
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Method,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1293
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSSLServerTest.java,fi.iki.elonen.HttpSSLServerTest,7.0,0.5,8.0,2.0,0.2,0.2857143,6.0,49
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest,0.0,-1.0,24.0,5.0,0.1724138,-1.0,15.0,71
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\JavaIOTempDirExistTest.java,fi.iki.elonen.JavaIOTempDirExistTest,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,48
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$AsyncRunner,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,156
-C:\Users\syuuj\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFile,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0,388
-C:\Users\syuuj\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\SSLServerSocketFactoryTest.java,fi.iki.elonen.SSLServerSocketFactoryTest,7.0,0.5,12.0,2.0,0.14285715,0.2857143,7.0,55
-C:\Users\syuuj\gitProject\nanohttpd\fileupload\src\main\java\fi\iki\elonen\NanoFileUpload.java,fi.iki.elonen.NanoFileUpload$NanoHttpdContext,0.0,-1.0,7.0,1.0,0.125,-1.0,2.0,56
-C:\Users\syuuj\gitProject\nanohttpd\fileupload\src\test\java\fi\iki\elonen\TestNanoFileUpLoad.java,fi.iki.elonen.TestNanoFileUpLoad$TestServer,0.0,0.0,22.0,16.0,0.42105263,-1.0,9.0,84
-C:\Users\syuuj\gitProject\nanohttpd\fileupload\src\main\java\fi\iki\elonen\NanoFileUpload.java,fi.iki.elonen.NanoFileUpload,0.0,0.0,4.0,0.0,0.0,-1.0,3.0,54
-C:\Users\syuuj\gitProject\nanohttpd\fileupload\src\test\java\fi\iki\elonen\TestNanoFileUpLoad.java,fi.iki.elonen.TestNanoFileUpLoad,0.0,-1.0,23.0,1.0,0.041666668,-1.0,10.0,80
-C:\Users\syuuj\gitProject\nanohttpd\markdown-plugin\src\main\java\fi\iki\elonen\MarkdownWebServerPluginInfo.java,fi.iki.elonen.MarkdownWebServerPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
-C:\Users\syuuj\gitProject\nanohttpd\markdown-plugin\src\main\java\fi\iki\elonen\MarkdownWebServerPlugin.java,fi.iki.elonen.MarkdownWebServerPlugin,0.0,-1.0,8.0,1.0,0.11111111,-1.0,5.0,53
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$BaseRoutePrioritizer,0.0,-1.0,2.0,5.0,0.71428573,-1.0,2.0,480
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultHandler,0.0,0.75,1.0,2.0,0.6666667,-1.0,1.0,120
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriRouter,0.0,-1.0,3.0,4.0,0.5714286,-1.0,2.0,565
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets,0.0,-1.0,100.0,3.0,0.029126214,-1.0,29.0,74
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,560
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$TestRouter,0.0,1.0,0.0,2.0,1.0,-1.0,0.0,580
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$Error404UriHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,250
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$3,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,562
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD,0.0,0.0,11.0,2.0,0.15384616,-1.0,5.0,63
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$StaticPageHandler,0.0,0.6666667,10.0,2.0,0.16666667,-1.0,6.0,182
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$NotImplementedHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,288
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$GeneralHandler,0.0,1.0,5.0,2.0,0.2857143,-1.0,3.0,139
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$IndexHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,270
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,84
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultRoutePrioritizer,3.0,1.0,0.0,0.0,-1.0,0.0,0.0,551
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$IRoutePrioritizer,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,469
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets,0.0,0.5,11.0,3.0,0.21428572,-1.0,7.0,55
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$UserHandler,0.0,0.6,9.0,3.0,0.25,-1.0,5.0,59
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$StreamUrl,0.0,1.0,2.0,0.0,0.0,-1.0,2.0,104
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriResponder,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,70
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultStreamHandler,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,87
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$ProvidedPriorityRoutePrioritizer,3.0,1.0,1.0,1.0,0.5,0.33333334,1.0,527
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$InsertionOrderRoutePrioritizer,3.0,1.0,0.0,0.0,-1.0,0.0,0.0,558
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$StaticPageTestHandler,1.0,1.0,1.0,0.0,0.0,1.0,1.0,123
-C:\Users\syuuj\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriResource,0.0,-1.0,16.0,21.0,0.5675676,-1.0,10.0,319
-C:\Users\syuuj\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer$ExampleManager,0.0,-1.0,3.0,4.0,0.5714286,-1.0,3.0,48
-C:\Users\syuuj\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\debug\DebugServer.java,fi.iki.elonen.debug.DebugServer,0.0,0.0,7.0,1.0,0.125,-1.0,2.0,43
-C:\Users\syuuj\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer$ExampleManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,83
-C:\Users\syuuj\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,46
-C:\Users\syuuj\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\HelloServer.java,fi.iki.elonen.HelloServer,0.0,0.0,5.0,1.0,0.16666667,-1.0,2.0,44
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,63
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServer.java,fi.iki.elonen.TestCorsHttpServer$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,67
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\DummyPluginInfo.java,fi.iki.elonen.DummyPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,36
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServer.java,fi.iki.elonen.TestCorsHttpServer,2.0,0.0,37.0,3.0,0.075,0.5,6.0,57
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,65
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$3,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,307
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\WebServerPluginInfo.java,fi.iki.elonen.WebServerPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,299
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\AbstractTestHttpServer.java,fi.iki.elonen.AbstractTestHttpServer,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,44
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\InternalRewrite.java,fi.iki.elonen.InternalRewrite,0.0,0.0,2.0,4.0,0.6666667,-1.0,2.0,44
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,155
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServerWithSingleOrigin.java,fi.iki.elonen.TestCorsHttpServerWithSingleOrigin$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,67
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer,2.0,0.0,49.0,3.0,0.057692308,0.5,5.0,55
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\WebServerPlugin.java,fi.iki.elonen.WebServerPlugin,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,44
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer,0.0,0.0,50.0,21.0,0.29577464,-1.0,13.0,57
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServerWithSingleOrigin.java,fi.iki.elonen.TestCorsHttpServerWithSingleOrigin,2.0,0.0,14.0,3.0,0.1764706,0.5,5.0,57
-C:\Users\syuuj\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\DummyPlugin.java,fi.iki.elonen.DummyPlugin,0.0,-1.0,3.0,0.0,0.0,-1.0,3.0,45
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocket,0.0,-1.0,46.0,23.0,0.33333334,-1.0,9.0,65
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\DebugWebSocketServer.java,fi.iki.elonen.samples.echo.DebugWebSocketServer$DebugWebSocket,7.0,1.0,6.0,1.0,0.14285715,0.0,3.0,65
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\EchoWebSocketsTest.java,fi.iki.elonen.samples.echo.EchoWebSocketsTest$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,75
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$OpCode,0.0,0.0,0.0,6.0,1.0,-1.0,0.0,385
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest$MockedWSD$1,7.0,1.0,0.0,0.0,-1.0,0.0,0.0,83
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\EchoWebSocketsTest.java,fi.iki.elonen.samples.echo.EchoWebSocketsTest,0.0,-1.0,14.0,1.0,0.06666667,-1.0,6.0,53
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD,0.0,0.0,18.0,15.0,0.45454547,-1.0,8.0,55
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\EchoSocketSample.java,fi.iki.elonen.samples.echo.EchoSocketSample,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,40
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest$MockedWSD,4.0,0.0,0.0,0.0,-1.0,0.0,0.0,71
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\SimpleEchoSocket.java,fi.iki.elonen.samples.echo.SimpleEchoSocket,0.0,-1.0,4.0,4.0,0.5,-1.0,4.0,53
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest,0.0,-1.0,33.0,9.0,0.21428572,-1.0,10.0,62
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocket$1,0.0,0.0,5.0,0.0,0.0,-1.0,2.0,79
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame,0.0,-1.0,30.0,89.0,0.7478992,-1.0,5.0,308
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$CloseFrame,0.0,0.0,12.0,4.0,0.25,-1.0,4.0,344
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$CloseCode,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,310
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\DebugWebSocketServer.java,fi.iki.elonen.samples.echo.DebugWebSocketServer,4.0,0.0,0.0,1.0,1.0,0.0,0.0,46
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketException,0.0,0.0,1.0,4.0,0.8,-1.0,1.0,277
-C:\Users\syuuj\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$State,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFileManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,465
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest,0.0,-1.0,24.0,5.0,0.1724138,-1.0,15.0,71
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$IStatus,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1329
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$AsyncRunner,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,156
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFileManager,0.0,-1.0,2.0,4.0,0.6666667,-1.0,2.0,428
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpGetRequestTest.java,fi.iki.elonen.HttpGetRequestTest,7.0,0.0,92.0,22.0,0.19298245,0.2857143,4.0,46
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ClientHandler,0.0,-1.0,4.0,7.0,0.6363636,-1.0,3.0,168
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest$TestServer,8.0,1.0,3.0,2.0,0.4,0.0,2.0,67
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\IntegrationTestBase.java,fi.iki.elonen.integration.IntegrationTestBase,0.0,-1.0,1.0,2.0,0.6666667,-1.0,1.0,47
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpPostRequestTest.java,fi.iki.elonen.HttpPostRequestTest,7.0,0.0,27.0,71.0,0.7244898,0.42857143,3.0,48
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$Status,0.0,0.0,0.0,6.0,1.0,-1.0,0.0,1339
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\StatusTest.java,fi.iki.elonen.StatusTest,0.0,-1.0,45.0,1.0,0.02173913,-1.0,3.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GZipIntegrationTest.java,fi.iki.elonen.integration.GZipIntegrationTest$TestServer,8.0,1.0,0.0,1.0,1.0,0.0,0.0,58
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\PutStreamIntegrationTest.java,fi.iki.elonen.integration.PutStreamIntegrationTest,2.0,0.5,2.0,0.0,0.0,0.0,2.0,50
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest$88,8.0,0.0,0.0,0.0,-1.0,0.0,0.0,88
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultServerSocketFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,476
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ServerSocketFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1825
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\CookieTest.java,fi.iki.elonen.CookieTest,0.0,-1.0,11.0,0.0,0.0,-1.0,1.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFileManager,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1807
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$271,8.0,1.0,2.0,1.0,0.33333334,0.0,2.0,271
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\LoadKeyStoreTest.java,fi.iki.elonen.LoadKeyStoreTest,0.0,-1.0,8.0,0.0,0.0,-1.0,3.0,47
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\ServerSocketFactoryTest.java,fi.iki.elonen.ServerSocketFactoryTest$TestFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,90
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\BadRequestTest.java,fi.iki.elonen.BadRequestTest,7.0,0.0,0.0,0.0,-1.0,0.2857143,0.0,41
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpPutRequestTest.java,fi.iki.elonen.HttpPutRequestTest,7.0,0.0,1.0,1.0,0.5,0.5714286,1.0,45
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSSLServerTest.java,fi.iki.elonen.HttpSSLServerTest,7.0,0.5,8.0,2.0,0.2,0.2857143,6.0,49
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$IHTTPSession,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1235
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ResponseException,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,1722
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSessionHeadersTest.java,fi.iki.elonen.HttpSessionHeadersTest,7.0,0.0,4.0,1.0,0.2,0.0,3.0,46
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpDeleteRequestTest.java,fi.iki.elonen.HttpDeleteRequestTest,7.0,0.0,13.0,5.0,0.2777778,0.2857143,3.0,41
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest$175,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,175
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFileManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1817
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response,0.0,-1.0,11.0,43.0,0.7962963,-1.0,9.0,1327
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GZipIntegrationTest.java,fi.iki.elonen.integration.GZipIntegrationTest,2.0,0.11111111,26.0,2.0,0.071428575,0.5,6.0,56
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\util\ServerRunner.java,fi.iki.elonen.util.ServerRunner,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,42
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$1475,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1475
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\ServerSocketFactoryTest.java,fi.iki.elonen.ServerSocketFactoryTest,8.0,0.0,5.0,1.0,0.16666667,0.0,3.0,47
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultAsyncRunner,0.0,-1.0,2.0,4.0,0.6666667,-1.0,1.0,343
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$TempFile,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,1790
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Cookie,0.0,-1.0,6.0,10.0,0.625,-1.0,4.0,214
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest$ChunkedInputStream,0.0,0.0,0.0,7.0,1.0,-1.0,0.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\InvalidRequestTest.java,fi.iki.elonen.InvalidRequestTest,7.0,0.0,16.0,4.0,0.2,0.14285715,1.0,40
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$215,8.0,1.0,1.0,1.0,0.5,0.0,1.0,215
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\MimeTest.java,fi.iki.elonen.MimeTest,0.0,-1.0,5.0,0.0,0.0,-1.0,2.0,39
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Method,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1293
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpKeepAliveTest.java,fi.iki.elonen.HttpKeepAliveTest,7.0,0.0,3.0,5.0,0.625,0.14285715,2.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpChunkedResponseTest.java,fi.iki.elonen.HttpChunkedResponseTest,7.0,0.0,3.0,0.0,0.0,0.2857143,3.0,42
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpSessionTest.java,fi.iki.elonen.HttpSessionTest,7.0,0.0,9.0,3.0,0.25,0.0,3.0,45
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpParsingTest.java,fi.iki.elonen.HttpParsingTest,7.0,0.0,0.0,0.0,-1.0,0.0,0.0,40
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\CookieIntegrationTest.java,fi.iki.elonen.integration.CookieIntegrationTest$CookieTestServer,8.0,1.0,2.0,1.0,0.33333334,0.0,2.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$HTTPSession,0.0,-1.0,75.0,88.0,0.5398773,-1.0,19.0,603
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\CookieHandlerTest.java,fi.iki.elonen.CookieHandlerTest,7.0,0.0,18.0,8.0,0.30769232,0.14285715,8.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpKeepAliveTest.java,fi.iki.elonen.HttpKeepAliveTest$88,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0,88
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$TestTempFileManager,0.0,0.5,0.0,0.0,-1.0,-1.0,0.0,132
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\CookieIntegrationTest.java,fi.iki.elonen.integration.CookieIntegrationTest,2.0,0.25,22.0,0.0,0.0,0.0,9.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\PutStreamIntegrationTest.java,fi.iki.elonen.integration.PutStreamIntegrationTest$TestServer,8.0,1.0,6.0,1.0,0.14285715,0.0,4.0,52
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\ShutdownTest.java,fi.iki.elonen.integration.ShutdownTest$TestServer,8.0,1.0,0.0,0.0,-1.0,0.0,0.0,50
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$SecureServerSocketFactory,0.0,-1.0,6.0,4.0,0.4,-1.0,1.0,488
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpHeadRequestTest.java,fi.iki.elonen.HttpHeadRequestTest,7.0,0.05882353,86.0,17.0,0.16504854,0.2857143,5.0,45
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$Response$ChunkedOutputStream,0.0,0.0,4.0,0.0,0.0,-1.0,2.0,1419
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$DefaultTempFile,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0,388
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\GetAndPostIntegrationTest.java,fi.iki.elonen.integration.GetAndPostIntegrationTest,2.0,0.125,14.0,0.0,0.0,0.0,4.0,65
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\HttpServerTest.java,fi.iki.elonen.HttpServerTest$TestServer,8.0,0.33333334,7.0,12.0,0.6315789,0.125,1.0,73
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ServerRunnable,0.0,-1.0,7.0,5.0,0.41666666,-1.0,3.0,1746
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\integration\ShutdownTest.java,fi.iki.elonen.integration.ShutdownTest,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,48
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD,0.0,-1.0,53.0,31.0,0.3690476,-1.0,19.0,151
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\JavaIOTempDirExistTest.java,fi.iki.elonen.JavaIOTempDirExistTest,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,48
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$ContentType,0.0,-1.0,0.0,23.0,1.0,-1.0,0.0,528
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\main\java\fi\iki\elonen\NanoHTTPD.java,fi.iki.elonen.NanoHTTPD$CookieHandler,0.0,-1.0,5.0,2.0,0.2857143,-1.0,4.0,255
+C:\Users\sugii syuji\gitProject\nanohttpd\core\src\test\java\fi\iki\elonen\SSLServerSocketFactoryTest.java,fi.iki.elonen.SSLServerSocketFactoryTest,7.0,0.5,12.0,2.0,0.14285715,0.2857143,7.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\fileupload\src\main\java\fi\iki\elonen\NanoFileUpload.java,fi.iki.elonen.NanoFileUpload,0.0,0.0,4.0,0.0,0.0,-1.0,3.0,54
+C:\Users\sugii syuji\gitProject\nanohttpd\fileupload\src\main\java\fi\iki\elonen\NanoFileUpload.java,fi.iki.elonen.NanoFileUpload$NanoHttpdContext,0.0,-1.0,7.0,1.0,0.125,-1.0,2.0,56
+C:\Users\sugii syuji\gitProject\nanohttpd\fileupload\src\test\java\fi\iki\elonen\TestNanoFileUpLoad.java,fi.iki.elonen.TestNanoFileUpLoad,0.0,-1.0,23.0,1.0,0.041666668,-1.0,10.0,80
+C:\Users\sugii syuji\gitProject\nanohttpd\fileupload\src\test\java\fi\iki\elonen\TestNanoFileUpLoad.java,fi.iki.elonen.TestNanoFileUpLoad$TestServer,0.0,0.0,22.0,16.0,0.42105263,-1.0,9.0,84
+C:\Users\sugii syuji\gitProject\nanohttpd\markdown-plugin\src\main\java\fi\iki\elonen\MarkdownWebServerPluginInfo.java,fi.iki.elonen.MarkdownWebServerPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
+C:\Users\sugii syuji\gitProject\nanohttpd\markdown-plugin\src\main\java\fi\iki\elonen\MarkdownWebServerPlugin.java,fi.iki.elonen.MarkdownWebServerPlugin,0.0,-1.0,8.0,1.0,0.11111111,-1.0,5.0,53
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$UserHandler,0.0,0.6,9.0,3.0,0.25,-1.0,5.0,59
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$BaseRoutePrioritizer,0.0,-1.0,2.0,5.0,0.71428573,-1.0,2.0,480
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$StaticPageHandler,0.0,0.6666667,10.0,2.0,0.16666667,-1.0,6.0,182
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultRoutePrioritizer,3.0,1.0,0.0,0.0,-1.0,0.0,0.0,551
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$562,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,562
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultHandler,0.0,0.75,1.0,2.0,0.6666667,-1.0,1.0,120
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$IndexHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,270
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$ProvidedPriorityRoutePrioritizer,3.0,1.0,1.0,1.0,0.5,0.33333334,1.0,527
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$StreamUrl,0.0,1.0,2.0,0.0,0.0,-1.0,2.0,104
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$TestRouter,0.0,1.0,0.0,2.0,1.0,-1.0,0.0,580
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$NotImplementedHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,288
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$560,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,560
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets$84,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,84
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets$StaticPageTestHandler,1.0,1.0,1.0,0.0,0.0,1.0,1.0,123
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$IRoutePrioritizer,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,469
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\AppNanolets.java,fi.iki.elonen.router.AppNanolets,0.0,0.5,11.0,3.0,0.21428572,-1.0,7.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$Error404UriHandler,0.0,1.0,1.0,0.0,0.0,-1.0,1.0,250
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriResource,0.0,-1.0,16.0,21.0,0.5675676,-1.0,10.0,319
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriRouter,0.0,-1.0,3.0,4.0,0.5714286,-1.0,2.0,565
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\test\java\fi\iki\elonen\router\TestNanolets.java,fi.iki.elonen.router.TestNanolets,0.0,-1.0,100.0,3.0,0.029126214,-1.0,29.0,74
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$DefaultStreamHandler,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,87
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$InsertionOrderRoutePrioritizer,3.0,1.0,0.0,0.0,-1.0,0.0,0.0,558
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD,0.0,0.0,11.0,2.0,0.15384616,-1.0,5.0,63
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$UriResponder,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,70
+C:\Users\sugii syuji\gitProject\nanohttpd\nanolets\src\main\java\fi\iki\elonen\router\RouterNanoHTTPD.java,fi.iki.elonen.router.RouterNanoHTTPD$GeneralHandler,0.0,1.0,5.0,2.0,0.2857143,-1.0,3.0,139
+C:\Users\sugii syuji\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\HelloServer.java,fi.iki.elonen.HelloServer,0.0,0.0,5.0,1.0,0.16666667,-1.0,2.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer,0.0,0.0,2.0,0.0,0.0,-1.0,1.0,46
+C:\Users\sugii syuji\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer$ExampleManager,0.0,-1.0,3.0,4.0,0.5714286,-1.0,3.0,48
+C:\Users\sugii syuji\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\TempFilesServer.java,fi.iki.elonen.TempFilesServer$ExampleManagerFactory,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,83
+C:\Users\sugii syuji\gitProject\nanohttpd\samples\src\main\java\fi\iki\elonen\debug\DebugServer.java,fi.iki.elonen.debug.DebugServer,0.0,0.0,7.0,1.0,0.125,-1.0,2.0,43
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer,0.0,0.0,50.0,21.0,0.29577464,-1.0,13.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\AbstractTestHttpServer.java,fi.iki.elonen.AbstractTestHttpServer,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer$65,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,65
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\DummyPlugin.java,fi.iki.elonen.DummyPlugin,0.0,-1.0,3.0,0.0,0.0,-1.0,3.0,45
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer$155,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,155
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\WebServerPlugin.java,fi.iki.elonen.WebServerPlugin,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$299,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,299
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestHttpServer.java,fi.iki.elonen.TestHttpServer,2.0,0.0,49.0,3.0,0.057692308,0.5,5.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$307,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,307
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServer.java,fi.iki.elonen.TestCorsHttpServer$67,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,67
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\InternalRewrite.java,fi.iki.elonen.InternalRewrite,0.0,0.0,2.0,4.0,0.6666667,-1.0,2.0,44
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\SimpleWebServer.java,fi.iki.elonen.SimpleWebServer$63,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,63
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServer.java,fi.iki.elonen.TestCorsHttpServer,2.0,0.0,37.0,3.0,0.075,0.5,6.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServerWithSingleOrigin.java,fi.iki.elonen.TestCorsHttpServerWithSingleOrigin,2.0,0.0,14.0,3.0,0.1764706,0.5,5.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\TestCorsHttpServerWithSingleOrigin.java,fi.iki.elonen.TestCorsHttpServerWithSingleOrigin$67,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,67
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\test\java\fi\iki\elonen\DummyPluginInfo.java,fi.iki.elonen.DummyPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,36
+C:\Users\sugii syuji\gitProject\nanohttpd\webserver\src\main\java\fi\iki\elonen\WebServerPluginInfo.java,fi.iki.elonen.WebServerPluginInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,39
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest$MockedWSD$83,7.0,1.0,0.0,0.0,-1.0,0.0,0.0,83
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\DebugWebSocketServer.java,fi.iki.elonen.samples.echo.DebugWebSocketServer,4.0,0.0,0.0,1.0,1.0,0.0,0.0,46
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketException,0.0,0.0,1.0,4.0,0.8,-1.0,1.0,277
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest,0.0,-1.0,33.0,9.0,0.21428572,-1.0,10.0,62
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\EchoWebSocketsTest.java,fi.iki.elonen.samples.echo.EchoWebSocketsTest,0.0,-1.0,14.0,1.0,0.06666667,-1.0,6.0,53
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD,0.0,0.0,18.0,15.0,0.45454547,-1.0,8.0,55
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$CloseCode,0.0,0.0,0.0,3.0,1.0,-1.0,0.0,310
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$OpCode,0.0,0.0,0.0,6.0,1.0,-1.0,0.0,385
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\DebugWebSocketServer.java,fi.iki.elonen.samples.echo.DebugWebSocketServer$DebugWebSocket,7.0,1.0,6.0,1.0,0.14285715,0.0,3.0,65
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\SimpleEchoSocket.java,fi.iki.elonen.samples.echo.SimpleEchoSocket,0.0,-1.0,4.0,4.0,0.5,-1.0,4.0,53
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame$CloseFrame,0.0,0.0,12.0,4.0,0.25,-1.0,4.0,344
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocket$79,0.0,0.0,5.0,0.0,0.0,-1.0,2.0,79
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\WebSocketResponseHandlerTest.java,fi.iki.elonen.WebSocketResponseHandlerTest$MockedWSD,4.0,0.0,0.0,0.0,-1.0,0.0,0.0,71
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\test\java\fi\iki\elonen\samples\echo\EchoWebSocketsTest.java,fi.iki.elonen.samples.echo.EchoWebSocketsTest$75,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,75
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocketFrame,0.0,-1.0,30.0,89.0,0.7478992,-1.0,5.0,308
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$State,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,57
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\NanoWSD.java,fi.iki.elonen.NanoWSD$WebSocket,0.0,-1.0,46.0,23.0,0.33333334,-1.0,9.0,65
+C:\Users\sugii syuji\gitProject\nanohttpd\websocket\src\main\java\fi\iki\elonen\samples\echo\EchoSocketSample.java,fi.iki.elonen.samples.echo.EchoSocketSample,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,40

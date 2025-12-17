@@ -1,126 +1,126 @@
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\Connection.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\HttpStatusException.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\Jsoup.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\SerializationException.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\UncheckedIOException.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\UnsupportedMimeTypeException.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\examples\HtmlToPlainText.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\examples\ListLinks.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\examples\Wikipedia.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\ChangeNotifyingArrayList.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\CookieUtil.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\DataUtil.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\HttpConnection.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\Validate.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\helper\W3CDom.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\ConstrainableInputStream.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\FieldsAreNonnullByDefault.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\NonnullByDefault.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\Normalizer.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\ReturnsAreNonnullByDefault.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\internal\StringUtil.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Attribute.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Attributes.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\CDataNode.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Comment.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\DataNode.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Document.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\DocumentType.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Element.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Entities.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\EntitiesData.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\FormElement.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\LeafNode.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\Node.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\NodeUtils.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\PseudoTextElement.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\TextNode.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\nodes\XmlDeclaration.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\CharacterReader.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\HtmlTreeBuilder.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\HtmlTreeBuilderState.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseError.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseErrorList.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\Parser.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseSettings.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\Tag.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\Token.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\Tokeniser.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\TokeniserState.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\TokenQueue.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\TreeBuilder.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\parser\XmlTreeBuilder.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\safety\Cleaner.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\safety\Safelist.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\safety\Whitelist.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\Collector.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\CombiningEvaluator.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\Elements.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\Evaluator.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\NodeFilter.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\NodeTraversor.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\NodeVisitor.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\QueryParser.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\Selector.java
-C:\Users\syuuj\gitProject\jsoup\src\main\java\org\jsoup\select\StructuralEvaluator.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\MultiLocaleExtension.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\TextUtil.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\helper\DataUtilTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\helper\HttpConnectionTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\helper\ValidateTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\helper\W3CDomTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\Benchmark.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\ConnectIT.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\ConnectTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\FuzzFixesTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\ParseTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\SafelistExtensionTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\SessionIT.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\SessionTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\TestServer.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\UrlConnectTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\BaseServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\CookieServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\Deflateservlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\EchoServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\FileServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\HelloServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\InterruptedServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\RedirectServlet.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\SlowRider.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\internal\ConstrainableInputStreamTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\internal\StringUtilTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\AttributesTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\AttributeTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\BuildEntities.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\CommentTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\DocumentTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\DocumentTypeTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\ElementIT.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\ElementTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\EntitiesTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\FormElementTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\LeafNodeTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\NodeTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\nodes\TextNodeTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\AttributeParseTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\CharacterReaderTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlParserTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlTreeBuilderStateTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlTreeBuilderTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserIT.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserSettingsTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\TagTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\TokeniserStateTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\TokeniserTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\TokenQueueTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\parser\XmlTreeBuilderTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\safety\CleanerTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\safety\CompatibilityTests.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\select\CssTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\select\ElementsTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\select\QueryParserTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\select\SelectorTest.java
-C:\Users\syuuj\gitProject\jsoup\src\test\java\org\jsoup\select\TraversorTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\Connection.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\HttpStatusException.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\Jsoup.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\SerializationException.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\UncheckedIOException.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\UnsupportedMimeTypeException.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\examples\HtmlToPlainText.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\examples\ListLinks.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\examples\Wikipedia.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\ChangeNotifyingArrayList.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\CookieUtil.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\DataUtil.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\HttpConnection.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\Validate.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\helper\W3CDom.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\ConstrainableInputStream.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\FieldsAreNonnullByDefault.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\NonnullByDefault.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\Normalizer.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\ReturnsAreNonnullByDefault.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\internal\StringUtil.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Attribute.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Attributes.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\CDataNode.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Comment.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\DataNode.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Document.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\DocumentType.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Element.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Entities.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\EntitiesData.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\FormElement.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\LeafNode.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\Node.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\NodeUtils.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\PseudoTextElement.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\TextNode.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\nodes\XmlDeclaration.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\CharacterReader.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\HtmlTreeBuilder.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\HtmlTreeBuilderState.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseError.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseErrorList.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\Parser.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\ParseSettings.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\Tag.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\Token.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\Tokeniser.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\TokeniserState.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\TokenQueue.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\TreeBuilder.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\parser\XmlTreeBuilder.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\safety\Cleaner.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\safety\Safelist.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\safety\Whitelist.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\Collector.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\CombiningEvaluator.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\Elements.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\Evaluator.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\NodeFilter.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\NodeTraversor.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\NodeVisitor.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\QueryParser.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\Selector.java
+C:\Users\sugii syuji\gitProject\jsoup\src\main\java\org\jsoup\select\StructuralEvaluator.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\MultiLocaleExtension.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\TextUtil.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\helper\DataUtilTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\helper\HttpConnectionTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\helper\ValidateTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\helper\W3CDomTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\Benchmark.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\ConnectIT.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\ConnectTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\FuzzFixesTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\ParseTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\SafelistExtensionTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\SessionIT.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\SessionTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\TestServer.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\UrlConnectTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\BaseServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\CookieServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\Deflateservlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\EchoServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\FileServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\HelloServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\InterruptedServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\RedirectServlet.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\integration\servlets\SlowRider.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\internal\ConstrainableInputStreamTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\internal\StringUtilTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\AttributesTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\AttributeTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\BuildEntities.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\CommentTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\DocumentTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\DocumentTypeTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\ElementIT.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\ElementTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\EntitiesTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\FormElementTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\LeafNodeTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\NodeTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\nodes\TextNodeTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\AttributeParseTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\CharacterReaderTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlParserTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlTreeBuilderStateTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\HtmlTreeBuilderTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserIT.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserSettingsTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\ParserTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\TagTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\TokeniserStateTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\TokeniserTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\TokenQueueTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\parser\XmlTreeBuilderTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\safety\CleanerTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\safety\CompatibilityTests.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\select\CssTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\select\ElementsTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\select\QueryParserTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\select\SelectorTest.java
+C:\Users\sugii syuji\gitProject\jsoup\src\test\java\org\jsoup\select\TraversorTest.java
 

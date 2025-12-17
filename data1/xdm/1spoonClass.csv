@@ -1,306 +1,306 @@
 file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP,line
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd,0.0,0.0,233.0,21.0,0.08267716,-1.0,36.0,49
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$5,0.0,0.0,12.0,0.0,0.0,-1.0,1.0,243
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\CustomButton.java,xdman.ui.components.CustomButton,0.0,0.0,6.0,17.0,0.73913044,-1.0,3.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$7,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,644
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\ParsedHookData.java,xdman.monitoring.ParsedHookData,0.0,-1.0,12.0,32.0,0.72727275,-1.0,6.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleCheckboxRender.java,xdman.ui.components.SimpleCheckboxRender,0.0,0.0,22.0,0.0,0.0,-1.0,8.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$1,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,106
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,74
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java,xdman.downloaders.dash.DashDownloader$1,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,622
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SpeedLimiter.java,xdman.ui.components.SpeedLimiter,0.0,-1.0,10.0,0.0,0.0,-1.0,5.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileChooser.java,xdman.ui.components.XDMFileChooser,0.0,-1.0,4.0,3.0,0.42857143,-1.0,1.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$2$1,0.0,-1.0,8.0,0.0,0.0,-1.0,5.0,481
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame,0.0,0.0,131.0,48.0,0.26815644,-1.0,18.0,47
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$MsgBoxFocusTraversalPolicy,0.0,0.0,4.0,1.0,0.2,-1.0,1.0,288
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\QueuedItemsRenderer.java,xdman.ui.components.QueuedItemsRenderer,0.0,0.0,20.0,0.0,0.0,-1.0,8.0,18
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\MonitoringListener.java,xdman.MonitoringListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\QueueManager.java,xdman.QueueManager,0.0,-1.0,48.0,9.0,0.15789473,-1.0,7.0,21
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$1,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0,107
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\MonitoringSession.java,xdman.monitoring.MonitoringSession,0.0,-1.0,200.0,26.0,0.11504425,-1.0,24.0,35
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentListener.java,xdman.downloaders.SegmentListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyInfo.java,xdman.network.http.proxy.ProxyInfo,0.0,-1.0,0.0,23.0,1.0,-1.0,0.0,4
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext$2,0.0,0.0,12.0,0.0,0.0,-1.0,3.0,132
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext,0.0,-1.0,18.0,8.0,0.30769232,-1.0,6.0,20
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,285
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadListView.java,xdman.ui.components.DownloadListView,0.0,-1.0,15.0,6.0,0.2857143,-1.0,7.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveConnectionCache.java,xdman.network.KeepAliveConnectionCache,0.0,-1.0,15.0,15.0,0.5,-1.0,2.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlMediaFormat,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,517
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$5,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,481
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,107
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$6,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,501
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd$1,0.0,-1.0,5.0,0.0,0.0,-1.0,5.0,146
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,296
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$2,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,116
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\BrowserProxyInfo.java,xdman.network.http.proxy.BrowserProxyInfo,0.0,-1.0,3.0,36.0,0.9230769,-1.0,1.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\SocketFactory.java,xdman.network.SocketFactory,0.0,-1.0,13.0,0.0,0.0,-1.0,4.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$3,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,357
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$6,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,380
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$3,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,194
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$10,0.0,0.0,4.0,0.0,0.0,-1.0,4.0,200
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\NetworkException.java,xdman.network.NetworkException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\CustomButton.java,xdman.ui.res.CustomButton,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller,0.0,0.0,81.0,15.0,0.15625,-1.0,22.0,40
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest,0.0,-1.0,119.0,112.0,0.4848485,-1.0,16.0,22
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormatInfo.java,xdman.mediaconversion.MediaFormatInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\FFmpegStream.java,xdman.preview.FFmpegStream,0.0,0.0,8.0,13.0,0.61904764,-1.0,5.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylistItem.java,xdman.downloaders.hls.HlsPlaylistItem,0.0,-1.0,0.0,24.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMProgressBarUI.java,xdman.ui.laf.XDMProgressBarUI,0.0,0.0,34.0,0.0,0.0,-1.0,9.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$7,0.0,0.0,12.0,0.0,0.0,-1.0,4.0,1064
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd$2,0.0,-1.0,47.0,0.0,0.0,-1.0,4.0,292
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\Base64.java,xdman.util.Base64,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLabelUI.java,xdman.ui.laf.XDMLabelUI,0.0,0.0,6.0,0.0,0.0,-1.0,2.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java,xdman.ui.components.MediaConversionWnd$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,228
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\Chunk.java,xdman.preview.Chunk,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$6,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,756
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,214
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$8,0.0,0.0,4.0,0.0,0.0,-1.0,4.0,177
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java,xdman.downloaders.hls.HlsDownloader,34.0,0.28,116.0,141.0,0.5486381,0.9117647,18.0,36
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentComparator.java,xdman.downloaders.SegmentComparator,0.0,-1.0,4.0,0.0,0.0,-1.0,1.0,4
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$3,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,112
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java,xdman.ui.components.PopupAdapter$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,36
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java,xdman.downloaders.metadata.manifests.M3U8Manifest$M3U8MediaInfo,0.0,-1.0,1.0,10.0,0.90909094,-1.0,1.0,157
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java,xdman.ui.components.VideoPopup,0.0,0.0,216.0,41.0,0.15953307,-1.0,33.0,46
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YoutubeDLHandler.java,xdman.videoparser.YoutubeDLHandler,0.0,-1.0,18.0,18.0,0.5,-1.0,6.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\DashMetadata.java,xdman.downloaders.metadata.DashMetadata,3.0,0.2,5.0,18.0,0.7826087,0.0,2.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler,0.0,-1.0,68.0,9.0,0.116883114,-1.0,15.0,29
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\FFmpegExtractorWnd.java,xdman.ui.components.FFmpegExtractorWnd,0.0,0.0,109.0,24.0,0.18045112,-1.0,20.0,28
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage,4.0,0.16666667,181.0,21.0,0.103960395,0.25,21.0,36
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSliderUI.java,xdman.ui.laf.XDMSliderUI,0.0,0.0,21.0,0.0,0.0,-1.0,5.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$4,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,528
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$3,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,390
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpChannel.java,xdman.downloaders.ftp.FtpChannel,8.0,0.5714286,29.0,23.0,0.44230768,0.375,5.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$7,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1283
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$5,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,749
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\WebProxy.java,xdman.network.http.WebProxy,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SidePanel.java,xdman.ui.components.SidePanel,0.0,0.0,10.0,2.0,0.16666667,-1.0,4.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailDownloader.java,xdman.videoparser.ThumbnailDownloader,0.0,-1.0,8.0,17.0,0.68,-1.0,5.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\InstagramHandler.java,xdman.monitoring.InstagramHandler,0.0,-1.0,9.0,2.0,0.18181819,-1.0,4.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java,xdman.ui.laf.XDMComboBoxUI,0.0,0.0,13.0,1.0,0.071428575,-1.0,9.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java,xdman.downloaders.metadata.manifests.M3U8Manifest,0.0,-1.0,8.0,12.0,0.6,-1.0,3.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\StringUtils.java,xdman.util.StringUtils,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HdsMetadata.java,xdman.downloaders.metadata.HdsMetadata,3.0,0.5,5.0,4.0,0.44444445,0.0,2.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ClipboardMonitor.java,xdman.ClipboardMonitor,0.0,-1.0,8.0,9.0,0.5294118,-1.0,5.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\HlsMediaEntry.java,xdman.downloaders.metadata.manifests.HlsMediaEntry,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLookAndFeel.java,xdman.ui.laf.XDMLookAndFeel,0.0,0.0,16.0,0.0,0.0,-1.0,5.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\AuthenticationFailedException.java,xdman.network.AuthenticationFailedException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileSelectionPanel.java,xdman.ui.components.XDMFileSelectionPanel,0.0,0.0,72.0,18.0,0.2,-1.0,15.0,27
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$7,0.0,0.0,8.0,0.0,0.0,-1.0,4.0,165
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\XDMUtils.java,xdman.util.XDMUtils,0.0,-1.0,58.0,45.0,0.4368932,-1.0,21.0,26
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlVideo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,439
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\VimeoHandler.java,xdman.monitoring.VimeoHandler,0.0,-1.0,8.0,0.0,0.0,-1.0,5.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentImpl.java,xdman.downloaders.SegmentImpl,0.0,-1.0,8.0,91.0,0.9191919,-1.0,4.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\JavaHttpClient.java,xdman.network.http.JavaHttpClient,5.0,0.8333333,18.0,12.0,0.4,0.8,9.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\PreviewStream.java,xdman.preview.PreviewStream,0.0,0.0,15.0,34.0,0.6938776,-1.0,5.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\ConversionItem.java,xdman.mediaconversion.ConversionItem,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java,xdman.ui.components.DownloadWindow,0.0,0.0,273.0,52.0,0.16,-1.0,32.0,41
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PropertiesPage.java,xdman.ui.components.PropertiesPage,4.0,0.0,172.0,19.0,0.09947644,0.0,12.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatLoader.java,xdman.mediaconversion.FormatLoader,0.0,-1.0,23.0,0.0,0.0,-1.0,4.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java,xdman.ui.components.UpdateNotifyPanel,0.0,0.0,41.0,6.0,0.12765957,-1.0,10.0,22
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HeaderCollection.java,xdman.network.http.HeaderCollection,0.0,-1.0,13.0,1.0,0.071428575,-1.0,2.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java,xdman.preview.ChunkLoader,0.0,-1.0,25.0,0.0,0.0,-1.0,5.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow,7.0,0.0,613.0,118.0,0.16142271,1.0,60.0,78
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$6,0.0,-1.0,3.0,0.0,0.0,-1.0,3.0,588
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\WebRequest.java,xdman.network.WebRequest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\F4mHandler.java,xdman.monitoring.F4mHandler,0.0,-1.0,15.0,0.0,0.0,-1.0,8.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDetails.java,xdman.downloaders.SegmentDetails,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\PlaylistParser.java,xdman.downloaders.hls.PlaylistParser,0.0,-1.0,9.0,14.0,0.6086956,-1.0,3.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemRenderer.java,xdman.ui.components.VideoItemRenderer,0.0,-1.0,72.0,21.0,0.22580644,-1.0,12.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java,xdman.ui.components.MediaConversionWnd,0.0,0.0,118.0,30.0,0.2027027,-1.0,22.0,32
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextAreaUI.java,xdman.ui.laf.XDMTextAreaUI,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\FontResource.java,xdman.ui.res.FontResource,0.0,-1.0,21.0,21.0,0.5,-1.0,2.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\AutoProxyResolver.java,xdman.network.AutoProxyResolver,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,58
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SegmentPanel.java,xdman.ui.components.SegmentPanel,0.0,0.0,15.0,5.0,0.25,-1.0,7.0,33
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,164
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$GripMouseAdapter,0.0,0.0,19.0,0.0,0.0,-1.0,3.0,390
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java,xdman.ui.components.LayeredPanel,0.0,0.0,6.0,2.0,0.25,-1.0,4.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$2,0.0,0.0,12.0,0.0,0.0,-1.0,7.0,467
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuUI.java,xdman.ui.laf.XDMMenuUI,0.0,0.0,17.0,4.0,0.1904762,-1.0,6.0,19
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\MacUtils.java,xdman.util.MacUtils,0.0,-1.0,15.0,3.0,0.16666667,-1.0,5.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadSorter.java,xdman.ui.components.DownloadSorter,0.0,-1.0,16.0,0.0,0.0,-1.0,3.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\FixedRangeInputStream.java,xdman.network.FixedRangeInputStream,0.0,0.0,0.0,14.0,1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel$1,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,28
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$1,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,295
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$DpiUtils,0.0,-1.0,16.0,1.0,0.05882353,-1.0,6.0,530
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ColorResource.java,xdman.ui.res.ColorResource,0.0,-1.0,0.0,14.0,1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BrowserAddonDlg.java,xdman.ui.components.BrowserAddonDlg,0.0,0.0,85.0,4.0,0.04494382,-1.0,20.0,26
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\DateTimeUtils.java,xdman.util.DateTimeUtils,0.0,-1.0,51.0,1.0,0.01923077,-1.0,1.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchVideoWnd.java,xdman.ui.components.BatchVideoWnd,0.0,0.0,235.0,20.0,0.078431375,-1.0,30.0,42
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\FBHandler.java,xdman.monitoring.FBHandler,0.0,-1.0,32.0,0.0,0.0,-1.0,5.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd,0.0,0.0,378.0,44.0,0.1042654,-1.0,43.0,64
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DarkScrollBar.java,xdman.ui.components.DarkScrollBar,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java,xdman.ui.components.VideoDownloadWindow$1,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,76
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$Segment,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,646
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$1,0.0,-1.0,3.0,1.0,0.25,-1.0,3.0,127
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadEntry.java,xdman.DownloadEntry,0.0,-1.0,2.0,31.0,0.93939394,-1.0,1.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java,xdman.ui.components.BatchPatternDialog$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,326
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java,xdman.downloaders.SegmentDownloader$1,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,592
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$3,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,214
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$Fragment,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,667
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadQueue.java,xdman.DownloadQueue,0.0,-1.0,33.0,53.0,0.61627907,-1.0,5.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$4,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,120
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\QueueScheduler.java,xdman.QueueScheduler,0.0,-1.0,30.0,6.0,0.16666667,-1.0,7.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatRender.java,xdman.ui.components.MediaFormatRender,0.0,-1.0,27.0,6.0,0.18181819,-1.0,7.0,18
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$2,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,129
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$2$2,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,517
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,80
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentInfo.java,xdman.downloaders.SegmentInfo,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\FormatImageLabel.java,xdman.ui.components.FormatImageLabel,0.0,0.0,9.0,6.0,0.4,-1.0,5.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java,xdman.downloaders.hls.HlsDownloader$1,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,571
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage,0.0,0.0,1734.0,238.0,0.12068965,-1.0,50.0,72
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java,xdman.ui.components.LayeredPanel$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,25
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.PasswordItem,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,2524
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSpinnerUI.java,xdman.ui.laf.XDMSpinnerUI,0.0,0.0,20.0,0.0,0.0,-1.0,6.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$F4MMedia,0.0,-1.0,0.0,12.0,1.0,-1.0,0.0,748
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$BoxInfo,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,706
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$6,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,964
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$BufferPointer,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,727
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsEncryptedSouce.java,xdman.downloaders.hls.HlsEncryptedSouce,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\LinuxUtils.java,xdman.util.LinuxUtils,0.0,-1.0,18.0,4.0,0.18181819,-1.0,6.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$5,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,137
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchItem,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,371
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatGroup.java,xdman.mediaconversion.FormatGroup,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\WinUtils.java,xdman.util.WinUtils,0.0,-1.0,12.0,0.0,0.0,-1.0,4.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ParsedURL.java,xdman.network.ParsedURL,0.0,-1.0,6.0,15.0,0.71428573,-1.0,1.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$9,0.0,-1.0,8.0,0.0,0.0,-1.0,4.0,1673
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$2,0.0,-1.0,28.0,0.0,0.0,-1.0,8.0,304
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMButtonUI.java,xdman.ui.laf.XDMButtonUI,0.0,0.0,42.0,3.0,0.06666667,-1.0,8.0,18
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\ParamUtils.java,xdman.util.ParamUtils,0.0,-1.0,7.0,0.0,0.0,-1.0,4.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse,0.0,-1.0,172.0,33.0,0.1609756,-1.0,9.0,20
-C:\Users\syuuj\gitProject\xdm\app\src\test\java\xdman\AppTest.java,xdman.AppTest,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ConversionItemRender.java,xdman.ui.components.ConversionItemRender,0.0,-1.0,80.0,14.0,0.14893617,-1.0,10.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopupItem.java,xdman.ui.components.VideoPopupItem,0.0,-1.0,0.0,12.0,1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,64
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpDownloader.java,xdman.downloaders.http.HttpDownloader,35.0,1.0,17.0,15.0,0.46875,0.08571429,8.0,14
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$3,0.0,-1.0,15.0,0.0,0.0,-1.0,6.0,163
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$VideoWrapper,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,636
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java,xdman.ui.components.VideoItemWrapper,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,75
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveInfo.java,xdman.network.KeepAliveInfo,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$9,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,661
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMToolBarButtonUI.java,xdman.ui.laf.XDMToolBarButtonUI,0.0,0.0,7.0,2.0,0.22222222,-1.0,4.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailListener.java,xdman.videoparser.ThumbnailListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker,0.0,-1.0,14.0,4.0,0.22222222,-1.0,7.0,14
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\NativeMessagingHostInstaller.java,xdman.util.NativeMessagingHostInstaller,0.0,-1.0,42.0,8.0,0.16,-1.0,8.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\Segment.java,xdman.downloaders.Segment,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\Request.java,xdman.monitoring.Request,0.0,-1.0,3.0,13.0,0.8125,-1.0,3.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$4,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,222
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java,xdman.ui.laf.XDMComboBoxUI$1,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,45
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$2,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,184
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$8,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1301
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java,xdman.ui.components.VideoDownloadWindow,0.0,0.0,180.0,33.0,0.15492958,-1.0,31.0,44
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FFmpegDownloader.java,xdman.util.FFmpegDownloader,0.0,-1.0,35.0,21.0,0.375,-1.0,10.0,20
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\BrowserMonitor.java,xdman.monitoring.BrowserMonitor,0.0,-1.0,51.0,7.0,0.12068965,-1.0,10.0,24
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker$1,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,58
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java,xdman.monitoring.DASH_INFO,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,160
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\CredentialManager.java,xdman.CredentialManager,0.0,-1.0,21.0,5.0,0.1923077,-1.0,5.0,21
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox,0.0,0.0,144.0,58.0,0.28712872,-1.0,20.0,36
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadListener.java,xdman.DownloadListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$2,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,178
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BarPanel.java,xdman.ui.components.BarPanel,0.0,0.0,10.0,2.0,0.16666667,-1.0,4.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,58
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$4,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,553
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\ChunkedInputStream.java,xdman.network.http.ChunkedInputStream,0.0,0.0,1.0,55.0,0.98214287,-1.0,1.0,48
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\Config.java,xdman.Config,0.0,-1.0,15.0,308.0,0.95356035,-1.0,4.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaConversionListener.java,xdman.mediaconversion.MediaConversionListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\JavaClientRequiredException.java,xdman.network.http.JavaClientRequiredException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaInfoExtractor.java,xdman.mediaconversion.MediaInfoExtractor,0.0,-1.0,19.0,8.0,0.2962963,-1.0,5.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\AbstractChannel.java,xdman.downloaders.AbstractChannel,0.0,-1.0,24.0,31.0,0.56363636,-1.0,3.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java,xdman.ui.components.VideoPopup$1,0.0,0.0,7.0,0.0,0.0,-1.0,3.0,193
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java,xdman.downloaders.SegmentDownloader,34.0,0.14285715,97.0,140.0,0.5907173,0.9411765,12.0,28
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ProxyResolver.java,xdman.network.ProxyResolver,0.0,-1.0,13.0,0.0,0.0,-1.0,2.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleListRenderer.java,xdman.ui.components.SimpleListRenderer,0.0,0.0,16.0,0.0,0.0,-1.0,6.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource,0.0,-1.0,15.0,0.0,0.0,-1.0,4.0,22
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp,0.0,-1.0,375.0,63.0,0.14383562,-1.0,35.0,64
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpDownloader.java,xdman.downloaders.ftp.FtpDownloader,35.0,1.0,2.0,2.0,0.5,0.0,2.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpChannel.java,xdman.downloaders.http.HttpChannel,8.0,0.4,44.0,61.0,0.5809524,0.375,7.0,26
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\win32\NativeMethods.java,xdman.win32.NativeMethods,0.0,-1.0,3.0,3.0,0.5,-1.0,2.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpHeader.java,xdman.network.http.HttpHeader,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd,0.0,0.0,276.0,48.0,0.14814815,-1.0,28.0,38
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java,xdman.ui.components.NewDownloadWindow,0.0,0.0,194.0,27.0,0.122171946,-1.0,31.0,44
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\StringResource.java,xdman.ui.res.StringResource,0.0,-1.0,5.0,4.0,0.44444445,-1.0,3.0,12
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\LinkRefreshCallback.java,xdman.LinkRefreshCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HttpMetadata.java,xdman.downloaders.metadata.HttpMetadata,0.0,-1.0,31.0,32.0,0.50793654,-1.0,7.0,11
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java,xdman.ui.components.BatchPatternDialog,0.0,0.0,280.0,48.0,0.14634146,-1.0,26.0,48
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java,xdman.ui.components.UpdateNotifyPanel$1,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,47
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$1,0.0,-1.0,8.0,0.0,0.0,-1.0,1.0,260
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\Response.java,xdman.monitoring.Response,0.0,-1.0,5.0,17.0,0.77272725,-1.0,2.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\XDMHttpClient.java,xdman.network.http.XDMHttpClient,5.0,0.625,27.0,22.0,0.4489796,0.6,8.0,14
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\BrowserLauncher.java,xdman.util.BrowserLauncher,0.0,-1.0,20.0,0.0,0.0,-1.0,4.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTheme.java,xdman.ui.laf.XDMTheme,0.0,0.0,57.0,13.0,0.18571429,-1.0,4.0,15
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadItem.java,xdman.ui.components.VideoDownloadItem,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$5,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,372
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java,xdman.preview.ChunkComparator,0.0,-1.0,4.0,0.0,0.0,-1.0,1.0,186
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java,xdman.ui.components.NewDownloadWindow$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,83
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$3,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,428
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\HostUnreachableException.java,xdman.network.HostUnreachableException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$1,0.0,-1.0,16.0,0.0,0.0,-1.0,8.0,55
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$3,0.0,0.0,4.0,0.0,0.0,-1.0,2.0,150
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuItemUI.java,xdman.ui.laf.XDMMenuItemUI,0.0,0.0,26.0,4.0,0.13333334,-1.0,8.0,22
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$5,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,607
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ftp\FtpClient.java,xdman.network.ftp.FtpClient,0.0,-1.0,19.0,52.0,0.73239434,-1.0,4.0,14
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\Downloader.java,xdman.downloaders.Downloader,0.0,-1.0,26.0,32.0,0.55172414,-1.0,10.0,19
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ICredentialManager.java,xdman.network.ICredentialManager,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$3,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,485
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,222
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyHandler.java,xdman.network.http.proxy.ProxyHandler,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaImageSource.java,xdman.ui.components.MediaImageSource,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\Format.java,xdman.mediaconversion.Format,0.0,-1.0,1.0,96.0,0.9896907,-1.0,1.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd$2,0.0,0.0,5.0,0.0,0.0,-1.0,4.0,345
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$4,0.0,0.0,8.0,0.0,0.0,-1.0,3.0,252
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$5,0.0,0.0,7.0,0.0,0.0,-1.0,4.0,262
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource$2,0.0,-1.0,6.0,0.0,0.0,-1.0,2.0,72
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\NativeMessagingHostInstaller.java,xdman.util.NativeMessagingHostInstaller$BrowserType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,142
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\M3U8Handler.java,xdman.monitoring.M3U8Handler,0.0,-1.0,26.0,0.0,0.0,-1.0,8.0,14
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel$2,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,38
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$4,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,363
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java,xdman.monitoring.YtUtil,0.0,-1.0,13.0,5.0,0.2777778,-1.0,3.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java,xdman.ui.components.VideoTableModel,0.0,0.0,6.0,1.0,0.14285715,-1.0,2.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMScrollBarUI.java,xdman.ui.laf.XDMScrollBarUI,0.0,0.0,60.0,23.0,0.27710843,-1.0,10.0,22
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java,xdman.downloaders.hds.HdsDownloader,34.0,0.29166666,94.0,146.0,0.60833335,0.9117647,15.0,36
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$2,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,206
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\Logger.java,xdman.util.Logger,0.0,-1.0,4.0,3.0,0.42857143,-1.0,2.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FFmpeg.java,xdman.mediaconversion.FFmpeg,0.0,-1.0,34.0,33.0,0.49253732,-1.0,8.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java,xdman.downloaders.hds.HdsDownloader$1,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,486
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemEditor.java,xdman.ui.components.VideoItemEditor,0.0,0.0,78.0,23.0,0.22772278,-1.0,13.0,26
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\HttpDateParser.java,xdman.util.HttpDateParser,0.0,-1.0,3.0,2.0,0.4,-1.0,3.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormat.java,xdman.mediaconversion.MediaFormat,0.0,-1.0,1.0,31.0,0.96875,-1.0,1.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\EncryptedHlsChannel.java,xdman.downloaders.hls.EncryptedHlsChannel,17.0,0.33333334,31.0,56.0,0.6436782,0.7647059,9.0,29
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java,xdman.ui.components.PopupAdapter,0.0,0.0,15.0,6.0,0.2857143,-1.0,4.0,19
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\QueueListRenderer.java,xdman.ui.components.QueueListRenderer,0.0,0.0,16.0,0.0,0.0,-1.0,7.0,17
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\MimeUtil.java,xdman.util.MimeUtil,0.0,-1.0,1.0,2.0,0.6666667,-1.0,1.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$4,0.0,-1.0,14.0,0.0,0.0,-1.0,7.0,426
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadTableModel.java,xdman.ui.components.DownloadTableModel,0.0,0.0,18.0,8.0,0.30769232,-1.0,5.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java,xdman.ui.components.DownloadWindow$1,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,71
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd$1,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,249
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java,xdman.downloaders.dash.DashDownloader,34.0,0.26923078,120.0,157.0,0.566787,0.9117647,14.0,37
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMArrowButton.java,xdman.ui.laf.XDMArrowButton,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,7
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextFieldUI.java,xdman.ui.laf.XDMTextFieldUI,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ListChangeListener.java,xdman.ListChangeListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$2,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,441
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\ProxyInfo.java,xdman.network.ProxyInfo,0.0,-1.0,0.0,25.0,1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page,0.0,0.0,57.0,38.0,0.4,-1.0,14.0,24
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$8,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,634
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupNotification.java,xdman.ui.components.PopupNotification,0.0,0.0,6.0,0.0,0.0,-1.0,2.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\DownloadWindowListener.java,xdman.DownloadWindowListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\network\http\HttpClient.java,xdman.network.http.HttpClient,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$4,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,165
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\AboutPage.java,xdman.ui.components.AboutPage,4.0,0.0,39.0,0.0,0.0,0.0,12.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$7,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,513
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$1,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,45
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadCompleteWnd.java,xdman.ui.components.DownloadCompleteWnd,0.0,0.0,155.0,6.0,0.03726708,-1.0,20.0,29
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMTableCellRenderer.java,xdman.ui.components.XDMTableCellRenderer,0.0,-1.0,100.0,13.0,0.11504425,-1.0,13.0,16
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylist.java,xdman.downloaders.hls.HlsPlaylist,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FormatUtilities.java,xdman.util.FormatUtilities,0.0,-1.0,33.0,6.0,0.15384616,-1.0,5.0,9
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\XDMConstants.java,xdman.XDMConstants,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HlsMetadata.java,xdman.downloaders.metadata.HlsMetadata,3.0,1.0,5.0,0.0,0.0,0.0,2.0,6
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\CircleProgressBar.java,xdman.ui.components.CircleProgressBar,0.0,0.0,26.0,17.0,0.39534885,-1.0,11.0,19
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$9,0.0,0.0,8.0,0.0,0.0,-1.0,4.0,188
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$2,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,325
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlFormat,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,534
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\NetUtils.java,xdman.util.NetUtils,0.0,-1.0,9.0,3.0,0.25,-1.0,4.0,8
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormats.java,xdman.mediaconversion.MediaFormats,0.0,-1.0,14.0,17.0,0.5483871,-1.0,3.0,13
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\util\FFExtractCallback.java,xdman.util.FFExtractCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd,0.0,0.0,251.0,146.0,0.36775818,-1.0,43.0,57
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\Main.java,xdman.Main,0.0,-1.0,10.0,0.0,0.0,-1.0,1.0,5
-C:\Users\syuuj\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel,0.0,0.0,7.0,6.0,0.46153846,-1.0,3.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$357,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,357
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$588,0.0,-1.0,3.0,0.0,0.0,-1.0,3.0,588
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\SocketFactory.java,xdman.network.SocketFactory,0.0,-1.0,13.0,0.0,0.0,-1.0,4.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadEntry.java,xdman.DownloadEntry,0.0,-1.0,2.0,31.0,0.93939394,-1.0,1.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext$132,0.0,0.0,12.0,0.0,0.0,-1.0,3.0,132
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaImageSource.java,xdman.ui.components.MediaImageSource,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java,xdman.ui.components.UpdateNotifyPanel,0.0,0.0,41.0,6.0,0.12765957,-1.0,10.0,22
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\StringResource.java,xdman.ui.res.StringResource,0.0,-1.0,5.0,4.0,0.44444445,-1.0,3.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PropertiesPage.java,xdman.ui.components.PropertiesPage,4.0,0.0,172.0,19.0,0.09947644,0.0,12.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\QueueManager.java,xdman.QueueManager,0.0,-1.0,48.0,9.0,0.15789473,-1.0,7.0,21
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SpeedLimiter.java,xdman.ui.components.SpeedLimiter,0.0,-1.0,10.0,0.0,0.0,-1.0,5.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadItem.java,xdman.ui.components.VideoDownloadItem,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\BrowserProxyInfo.java,xdman.network.http.proxy.BrowserProxyInfo,0.0,-1.0,3.0,36.0,0.9230769,-1.0,1.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$325,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,325
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java,xdman.ui.components.VideoPopup,0.0,0.0,216.0,41.0,0.15953307,-1.0,33.0,46
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\XDMUtils.java,xdman.util.XDMUtils,0.0,-1.0,58.0,45.0,0.4368932,-1.0,21.0,26
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatRender.java,xdman.ui.components.MediaFormatRender,0.0,-1.0,27.0,6.0,0.18181819,-1.0,7.0,18
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FFmpeg.java,xdman.mediaconversion.FFmpeg,0.0,-1.0,34.0,33.0,0.49253732,-1.0,8.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemRenderer.java,xdman.ui.components.VideoItemRenderer,0.0,-1.0,72.0,21.0,0.22580644,-1.0,12.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource$64,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,64
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java,xdman.ui.components.PopupAdapter$36,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,36
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd$146,0.0,-1.0,5.0,0.0,0.0,-1.0,5.0,146
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleCheckboxRender.java,xdman.ui.components.SimpleCheckboxRender,0.0,0.0,22.0,0.0,0.0,-1.0,8.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpChannel.java,xdman.downloaders.http.HttpChannel,8.0,0.4,44.0,61.0,0.5809524,0.375,7.0,26
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$467,0.0,0.0,12.0,0.0,0.0,-1.0,7.0,467
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\UpdateNotifyPanel.java,xdman.ui.components.UpdateNotifyPanel$47,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,47
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox,0.0,0.0,144.0,58.0,0.28712872,-1.0,20.0,36
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\QueuedItemsRenderer.java,xdman.ui.components.QueuedItemsRenderer,0.0,0.0,20.0,0.0,0.0,-1.0,8.0,18
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller,0.0,0.0,81.0,15.0,0.15625,-1.0,22.0,40
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java,xdman.monitoring.YtUtil,0.0,-1.0,13.0,5.0,0.2777778,-1.0,3.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$150,0.0,0.0,4.0,0.0,0.0,-1.0,2.0,150
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame,0.0,0.0,131.0,48.0,0.26815644,-1.0,18.0,47
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BrowserAddonDlg.java,xdman.ui.components.BrowserAddonDlg,0.0,0.0,85.0,4.0,0.04494382,-1.0,20.0,26
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ProxyInfo.java,xdman.network.ProxyInfo,0.0,-1.0,0.0,25.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\WebRequest.java,xdman.network.WebRequest,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMArrowButton.java,xdman.ui.laf.XDMArrowButton,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ftp\FtpClient.java,xdman.network.ftp.FtpClient,0.0,-1.0,19.0,52.0,0.73239434,-1.0,4.0,14
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java,xdman.ui.components.LayeredPanel,0.0,0.0,6.0,2.0,0.25,-1.0,4.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\F4mHandler.java,xdman.monitoring.F4mHandler,0.0,-1.0,15.0,0.0,0.0,-1.0,8.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel$38,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,38
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$165,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,165
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd,0.0,0.0,233.0,21.0,0.08267716,-1.0,36.0,49
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$222,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,222
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel,0.0,0.0,7.0,6.0,0.46153846,-1.0,3.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$390,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,390
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$501,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,501
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$BufferPointer,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,727
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupAdapter.java,xdman.ui.components.PopupAdapter,0.0,0.0,15.0,6.0,0.2857143,-1.0,4.0,19
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java,xdman.downloaders.metadata.manifests.M3U8Manifest,0.0,-1.0,8.0,12.0,0.6,-1.0,3.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$188,0.0,0.0,8.0,0.0,0.0,-1.0,4.0,188
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadWindowListener.java,xdman.DownloadWindowListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ClipboardMonitor.java,xdman.ClipboardMonitor,0.0,-1.0,8.0,9.0,0.5294118,-1.0,5.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$1301,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1301
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\Segment.java,xdman.downloaders.Segment,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ParsedURL.java,xdman.network.ParsedURL,0.0,-1.0,6.0,15.0,0.71428573,-1.0,1.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$756,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,756
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\MacUtils.java,xdman.util.MacUtils,0.0,-1.0,15.0,3.0,0.16666667,-1.0,5.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$177,0.0,0.0,4.0,0.0,0.0,-1.0,4.0,177
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\JavaClientRequiredException.java,xdman.network.http.JavaClientRequiredException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$634,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,634
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java,xdman.downloaders.hls.HlsDownloader$571,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,571
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\FBHandler.java,xdman.monitoring.FBHandler,0.0,-1.0,32.0,0.0,0.0,-1.0,5.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java,xdman.downloaders.dash.DashDownloader$622,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,622
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller$222,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,222
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\YtUtil.java,xdman.monitoring.DASH_INFO,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,160
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$1283,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,1283
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\ParsedHookData.java,xdman.monitoring.ParsedHookData,0.0,-1.0,12.0,32.0,0.72727275,-1.0,6.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$243,0.0,0.0,12.0,0.0,0.0,-1.0,1.0,243
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsDownloader.java,xdman.downloaders.hls.HlsDownloader,34.0,0.28,116.0,141.0,0.5486381,0.9117647,18.0,36
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextFieldUI.java,xdman.ui.laf.XDMTextFieldUI,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$VideoWrapper,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,636
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\Config.java,xdman.Config,0.0,-1.0,15.0,308.0,0.95356035,-1.0,4.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\CircleProgressBar.java,xdman.ui.components.CircleProgressBar,0.0,0.0,26.0,17.0,0.39534885,-1.0,11.0,19
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$441,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,441
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$485,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,485
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\QueueListRenderer.java,xdman.ui.components.QueueListRenderer,0.0,0.0,16.0,0.0,0.0,-1.0,7.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$428,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,428
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ProxyResolver.java,xdman.network.ProxyResolver,0.0,-1.0,13.0,0.0,0.0,-1.0,2.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$304,0.0,-1.0,28.0,0.0,0.0,-1.0,8.0,304
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopupItem.java,xdman.ui.components.VideoPopupItem,0.0,-1.0,0.0,12.0,1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java,xdman.ui.laf.XDMComboBoxUI,0.0,0.0,13.0,1.0,0.071428575,-1.0,9.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$112,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,112
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\NativeMessagingHostInstaller.java,xdman.util.NativeMessagingHostInstaller$BrowserType,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,142
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse,0.0,-1.0,172.0,33.0,0.1609756,-1.0,9.0,20
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HeaderCollection.java,xdman.network.http.HeaderCollection,0.0,-1.0,13.0,1.0,0.071428575,-1.0,2.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\WebProxy.java,xdman.network.http.WebProxy,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd,0.0,0.0,378.0,44.0,0.1042654,-1.0,43.0,64
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\CustomButton.java,xdman.ui.res.CustomButton,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\LinuxUtils.java,xdman.util.LinuxUtils,0.0,-1.0,18.0,4.0,0.18181819,-1.0,6.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HlsMetadata.java,xdman.downloaders.metadata.HlsMetadata,3.0,1.0,5.0,0.0,0.0,0.0,2.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java,xdman.ui.components.BatchPatternDialog$326,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,326
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$553,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,553
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$661,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,661
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HttpMetadata.java,xdman.downloaders.metadata.HttpMetadata,0.0,-1.0,31.0,32.0,0.50793654,-1.0,7.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page,0.0,0.0,57.0,38.0,0.4,-1.0,14.0,24
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTheme.java,xdman.ui.laf.XDMTheme,0.0,0.0,57.0,13.0,0.18571429,-1.0,4.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$107,0.0,-1.0,4.0,0.0,0.0,-1.0,3.0,107
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$Fragment,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,667
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SegmentPanel.java,xdman.ui.components.SegmentPanel,0.0,0.0,15.0,5.0,0.25,-1.0,7.0,33
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp,0.0,-1.0,375.0,63.0,0.14383562,-1.0,35.0,64
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$127,0.0,-1.0,3.0,1.0,0.25,-1.0,3.0,127
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMProgressBarUI.java,xdman.ui.laf.XDMProgressBarUI,0.0,0.0,34.0,0.0,0.0,-1.0,9.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java,xdman.ui.components.NewDownloadWindow,0.0,0.0,194.0,27.0,0.122171946,-1.0,31.0,44
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\ICredentialManager.java,xdman.network.ICredentialManager,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$644,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,644
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ColorResource.java,xdman.ui.res.ColorResource,0.0,-1.0,0.0,14.0,1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$285,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,285
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchPatternDialog.java,xdman.ui.components.BatchPatternDialog,0.0,0.0,280.0,48.0,0.14634146,-1.0,26.0,48
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$372,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,372
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadSorter.java,xdman.ui.components.DownloadSorter,0.0,-1.0,16.0,0.0,0.0,-1.0,3.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\Chunk.java,xdman.preview.Chunk,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMComboBoxUI.java,xdman.ui.laf.XDMComboBoxUI$45,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,45
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaInfoExtractor.java,xdman.mediaconversion.MediaInfoExtractor,0.0,-1.0,19.0,8.0,0.2962963,-1.0,5.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\BrowserMonitor.java,xdman.monitoring.BrowserMonitor,0.0,-1.0,51.0,7.0,0.12068965,-1.0,10.0,24
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java,xdman.downloaders.hds.HdsDownloader,34.0,0.29166666,94.0,146.0,0.60833335,0.9117647,15.0,36
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormats.java,xdman.mediaconversion.MediaFormats,0.0,-1.0,14.0,17.0,0.5483871,-1.0,3.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\AuthenticationFailedException.java,xdman.network.AuthenticationFailedException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveConnectionCache.java,xdman.network.KeepAliveConnectionCache,0.0,-1.0,15.0,15.0,0.5,-1.0,2.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SimpleListRenderer.java,xdman.ui.components.SimpleListRenderer,0.0,0.0,16.0,0.0,0.0,-1.0,6.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMToolBarButtonUI.java,xdman.ui.laf.XDMToolBarButtonUI,0.0,0.0,7.0,2.0,0.22222222,-1.0,4.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailDownloader.java,xdman.videoparser.ThumbnailDownloader,0.0,-1.0,8.0,17.0,0.68,-1.0,5.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ComponentInstaller.java,xdman.ui.components.ComponentInstaller$214,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,214
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\win32\NativeMethods.java,xdman.win32.NativeMethods,0.0,-1.0,3.0,3.0,0.5,-1.0,2.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$380,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,380
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\QueueScheduler.java,xdman.QueueScheduler,0.0,-1.0,30.0,6.0,0.16666667,-1.0,7.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$513,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,513
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\Request.java,xdman.monitoring.Request,0.0,-1.0,3.0,13.0,0.8125,-1.0,3.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SidePanel.java,xdman.ui.components.SidePanel,0.0,0.0,10.0,2.0,0.16666667,-1.0,4.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoPopup.java,xdman.ui.components.VideoPopup$193,0.0,0.0,7.0,0.0,0.0,-1.0,3.0,193
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\MimeUtil.java,xdman.util.MimeUtil,0.0,-1.0,1.0,2.0,0.6666667,-1.0,1.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java,xdman.ui.components.MediaConversionWnd,0.0,0.0,118.0,30.0,0.2027027,-1.0,22.0,32
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\LinkRefreshCallback.java,xdman.LinkRefreshCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\MonitoringListener.java,xdman.MonitoringListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\PlaylistParser.java,xdman.downloaders.hls.PlaylistParser,0.0,-1.0,9.0,14.0,0.6086956,-1.0,3.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$GripMouseAdapter,0.0,0.0,19.0,0.0,0.0,-1.0,3.0,390
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\WinUtils.java,xdman.util.WinUtils,0.0,-1.0,12.0,0.0,0.0,-1.0,4.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$129,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,129
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\NetworkException.java,xdman.network.NetworkException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\EncryptedHlsChannel.java,xdman.downloaders.hls.EncryptedHlsChannel,17.0,0.33333334,31.0,56.0,0.6436782,0.7647059,9.0,29
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileSelectionPanel.java,xdman.ui.components.XDMFileSelectionPanel,0.0,0.0,72.0,18.0,0.2,-1.0,15.0,27
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker,0.0,-1.0,14.0,4.0,0.22222222,-1.0,7.0,14
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java,xdman.ui.components.VideoDownloadWindow,0.0,0.0,180.0,33.0,0.15492958,-1.0,31.0,44
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.PasswordItem,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,2524
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\Response.java,xdman.monitoring.Response,0.0,-1.0,5.0,17.0,0.77272725,-1.0,2.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FFmpegDownloader.java,xdman.util.FFmpegDownloader,0.0,-1.0,35.0,21.0,0.375,-1.0,10.0,20
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$363,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,363
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$137,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,137
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadListView.java,xdman.ui.components.DownloadListView,0.0,-1.0,15.0,6.0,0.2857143,-1.0,7.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\Format.java,xdman.mediaconversion.Format,0.0,-1.0,1.0,96.0,0.9896907,-1.0,1.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\http\HttpDownloader.java,xdman.downloaders.http.HttpDownloader,35.0,1.0,17.0,15.0,0.46875,0.08571429,8.0,14
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\NetUtils.java,xdman.util.NetUtils,0.0,-1.0,9.0,3.0,0.25,-1.0,4.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\HdsMetadata.java,xdman.downloaders.metadata.HdsMetadata,3.0,0.5,5.0,4.0,0.44444445,0.0,2.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\AbstractChannel.java,xdman.downloaders.AbstractChannel,0.0,-1.0,24.0,31.0,0.56363636,-1.0,3.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\M3U8Manifest.java,xdman.downloaders.metadata.manifests.M3U8Manifest$M3U8MediaInfo,0.0,-1.0,1.0,10.0,0.90909094,-1.0,1.0,157
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaConversionListener.java,xdman.mediaconversion.MediaConversionListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$163,0.0,-1.0,15.0,0.0,0.0,-1.0,6.0,163
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\CredentialManager.java,xdman.CredentialManager,0.0,-1.0,21.0,5.0,0.1923077,-1.0,5.0,21
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFileChooser.java,xdman.ui.components.XDMFileChooser,0.0,-1.0,4.0,3.0,0.42857143,-1.0,1.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDetails.java,xdman.downloaders.SegmentDetails,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuUI.java,xdman.ui.laf.XDMMenuUI,0.0,0.0,17.0,4.0,0.1904762,-1.0,6.0,19
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$80,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,80
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadListener.java,xdman.DownloadListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\JavaHttpClient.java,xdman.network.http.JavaHttpClient,5.0,0.8333333,18.0,12.0,0.4,0.8,9.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd$249,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,249
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$58,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,58
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$178,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,178
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$120,0.0,0.0,5.0,0.0,0.0,-1.0,3.0,120
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyInfo.java,xdman.network.http.proxy.ProxyInfo,0.0,-1.0,0.0,23.0,1.0,-1.0,0.0,4
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMScrollBarUI.java,xdman.ui.laf.XDMScrollBarUI,0.0,0.0,60.0,23.0,0.27710843,-1.0,10.0,22
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\BrowserLauncher.java,xdman.util.BrowserLauncher,0.0,-1.0,20.0,0.0,0.0,-1.0,4.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\PopupNotification.java,xdman.ui.components.PopupNotification,0.0,0.0,6.0,0.0,0.0,-1.0,2.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$200,0.0,0.0,4.0,0.0,0.0,-1.0,4.0,200
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\proxy\ProxyHandler.java,xdman.network.http.proxy.ProxyHandler,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpChannel.java,xdman.downloaders.ftp.FtpChannel,8.0,0.5714286,29.0,23.0,0.44230768,0.375,5.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java,xdman.preview.ChunkComparator,0.0,-1.0,4.0,0.0,0.0,-1.0,1.0,186
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\ThumbnailListener.java,xdman.videoparser.ThumbnailListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\HttpDateParser.java,xdman.util.HttpDateParser,0.0,-1.0,3.0,2.0,0.4,-1.0,3.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow,7.0,0.0,613.0,118.0,0.16142271,1.0,60.0,78
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylistItem.java,xdman.downloaders.hls.HlsPlaylistItem,0.0,-1.0,0.0,24.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchItem,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,371
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java,xdman.ui.components.DownloadWindow$71,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,71
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\Page.java,xdman.ui.components.Page$45,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,45
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BarPanel.java,xdman.ui.components.BarPanel,0.0,0.0,10.0,2.0,0.16666667,-1.0,4.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatLoader.java,xdman.mediaconversion.FormatLoader,0.0,-1.0,23.0,0.0,0.0,-1.0,4.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage,4.0,0.16666667,181.0,21.0,0.103960395,0.25,21.0,36
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$55,0.0,-1.0,16.0,0.0,0.0,-1.0,8.0,55
+C:\Users\sugii syuji\gitProject\xdm\app\src\test\java\xdman\AppTest.java,xdman.AppTest,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$1064,0.0,0.0,12.0,0.0,0.0,-1.0,4.0,1064
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsEncryptedSouce.java,xdman.downloaders.hls.HlsEncryptedSouce,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource$72,0.0,-1.0,6.0,0.0,0.0,-1.0,2.0,72
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlFormat,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,534
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadCompleteWnd.java,xdman.ui.components.DownloadCompleteWnd,0.0,0.0,155.0,6.0,0.03726708,-1.0,20.0,29
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker$58,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,58
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd,0.0,0.0,251.0,146.0,0.36775818,-1.0,43.0,57
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoItemEditor.java,xdman.ui.components.VideoItemEditor,0.0,0.0,78.0,23.0,0.22772278,-1.0,13.0,26
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentComparator.java,xdman.downloaders.SegmentComparator,0.0,-1.0,4.0,0.0,0.0,-1.0,1.0,4
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMTableCellRenderer.java,xdman.ui.components.XDMTableCellRenderer,0.0,-1.0,100.0,13.0,0.11504425,-1.0,13.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadTableModel.java,xdman.ui.components.DownloadTableModel,0.0,0.0,18.0,8.0,0.30769232,-1.0,5.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\HlsMediaEntry.java,xdman.downloaders.metadata.manifests.HlsMediaEntry,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java,xdman.ui.components.VideoItemWrapper,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,75
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$481,0.0,-1.0,5.0,0.0,0.0,-1.0,3.0,481
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\InstagramHandler.java,xdman.monitoring.InstagramHandler,0.0,-1.0,9.0,2.0,0.18181819,-1.0,4.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\FFmpegStream.java,xdman.preview.FFmpegStream,0.0,0.0,8.0,13.0,0.61904764,-1.0,5.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormatInfo.java,xdman.mediaconversion.MediaFormatInfo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hds\HdsDownloader.java,xdman.downloaders.hds.HdsDownloader$486,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,486
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$206,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,206
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMMenuItemUI.java,xdman.ui.laf.XDMMenuItemUI,0.0,0.0,26.0,4.0,0.13333334,-1.0,8.0,22
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\AutoProxyResolver.java,xdman.network.AutoProxyResolver,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TitlePanel.java,xdman.ui.components.TitlePanel$28,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,28
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentListener.java,xdman.downloaders.SegmentListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage,0.0,0.0,1734.0,238.0,0.12068965,-1.0,50.0,72
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DownloadWindow.java,xdman.ui.components.DownloadWindow,0.0,0.0,273.0,52.0,0.16,-1.0,32.0,41
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd,0.0,0.0,276.0,48.0,0.14814815,-1.0,28.0,38
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoDownloadWindow.java,xdman.ui.components.VideoDownloadWindow$76,0.0,0.0,1.0,0.0,0.0,-1.0,1.0,76
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FFExtractCallback.java,xdman.util.FFExtractCallback,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlMediaFormat,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,517
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpHeader.java,xdman.network.http.HttpHeader,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\DarkScrollBar.java,xdman.ui.components.DarkScrollBar,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentInfo.java,xdman.downloaders.SegmentInfo,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext$58,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,58
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\FormatImageLabel.java,xdman.ui.components.FormatImageLabel,0.0,0.0,9.0,6.0,0.4,-1.0,5.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$Segment,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,646
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$214,0.0,0.0,6.0,0.0,0.0,-1.0,3.0,214
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpContext.java,xdman.network.http.HttpContext,0.0,-1.0,18.0,8.0,0.30769232,-1.0,6.0,20
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\KeepAliveInfo.java,xdman.network.KeepAliveInfo,0.0,-1.0,0.0,8.0,1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchDownloadWnd.java,xdman.ui.components.BatchDownloadWnd$345,0.0,0.0,5.0,0.0,0.0,-1.0,4.0,345
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$964,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,964
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\ImageResource.java,xdman.ui.res.ImageResource,0.0,-1.0,15.0,0.0,0.0,-1.0,4.0,22
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSpinnerUI.java,xdman.ui.laf.XDMSpinnerUI,0.0,0.0,20.0,0.0,0.0,-1.0,6.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\ConversionItemRender.java,xdman.ui.components.ConversionItemRender,0.0,-1.0,80.0,14.0,0.14893617,-1.0,10.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\PreviewStream.java,xdman.preview.PreviewStream,0.0,0.0,15.0,34.0,0.6938776,-1.0,5.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$184,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,184
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$528,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,528
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaFormatWnd.java,xdman.ui.components.MediaFormatWnd$292,0.0,-1.0,47.0,0.0,0.0,-1.0,4.0,292
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\MediaFormat.java,xdman.mediaconversion.MediaFormat,0.0,-1.0,1.0,31.0,0.96875,-1.0,1.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\RefreshUrlPage.java,xdman.ui.components.RefreshUrlPage$106,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,106
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$295,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,295
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMButtonUI.java,xdman.ui.laf.XDMButtonUI,0.0,0.0,42.0,3.0,0.06666667,-1.0,8.0,18
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMTextAreaUI.java,xdman.ui.laf.XDMTextAreaUI,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$467$481,0.0,-1.0,8.0,0.0,0.0,-1.0,5.0,481
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\StringUtils.java,xdman.util.StringUtils,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\hls\HlsPlaylist.java,xdman.downloaders.hls.HlsPlaylist,0.0,-1.0,0.0,10.0,1.0,-1.0,0.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\XDMHttpClient.java,xdman.network.http.XDMHttpClient,5.0,0.625,27.0,22.0,0.4489796,0.6,8.0,14
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\FFmpegExtractorWnd.java,xdman.ui.components.FFmpegExtractorWnd,0.0,0.0,109.0,24.0,0.18045112,-1.0,20.0,28
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest,0.0,-1.0,119.0,112.0,0.4848485,-1.0,16.0,22
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$YdlVideo,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,439
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\dash\DashDownloader.java,xdman.downloaders.dash.DashDownloader,34.0,0.26923078,120.0,157.0,0.566787,0.9117647,14.0,37
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\M3U8Handler.java,xdman.monitoring.M3U8Handler,0.0,-1.0,26.0,0.0,0.0,-1.0,8.0,14
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$165,0.0,0.0,8.0,0.0,0.0,-1.0,4.0,165
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\ftp\FtpDownloader.java,xdman.downloaders.ftp.FtpDownloader,35.0,1.0,2.0,2.0,0.5,0.0,2.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\VimeoHandler.java,xdman.monitoring.VimeoHandler,0.0,-1.0,8.0,0.0,0.0,-1.0,5.0,15
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java,xdman.downloaders.SegmentDownloader,34.0,0.14285715,97.0,140.0,0.5907173,0.9411765,12.0,28
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\DashMetadata.java,xdman.downloaders.metadata.DashMetadata,3.0,0.2,5.0,18.0,0.7826087,0.0,2.0,7
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentDownloader.java,xdman.downloaders.SegmentDownloader$592,0.0,-1.0,7.0,0.0,0.0,-1.0,3.0,592
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\BatchVideoWnd.java,xdman.ui.components.BatchVideoWnd,0.0,0.0,235.0,20.0,0.078431375,-1.0,30.0,42
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ListChangeListener.java,xdman.ListChangeListener,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\DownloadQueue.java,xdman.DownloadQueue,0.0,-1.0,33.0,53.0,0.61627907,-1.0,5.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler,0.0,-1.0,68.0,9.0,0.116883114,-1.0,15.0,29
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\Main.java,xdman.Main,0.0,-1.0,10.0,0.0,0.0,-1.0,1.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\preview\ChunkLoader.java,xdman.preview.ChunkLoader,0.0,-1.0,25.0,0.0,0.0,-1.0,5.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\SegmentImpl.java,xdman.downloaders.SegmentImpl,0.0,-1.0,8.0,91.0,0.9191919,-1.0,4.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoTableModel.java,xdman.ui.components.VideoTableModel,0.0,0.0,6.0,1.0,0.14285715,-1.0,2.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMSliderUI.java,xdman.ui.laf.XDMSliderUI,0.0,0.0,21.0,0.0,0.0,-1.0,5.0,13
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaDownloaderWnd.java,xdman.ui.components.MediaDownloaderWnd$467$517,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,517
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\TrayHandler.java,xdman.ui.components.TrayHandler$116,0.0,-1.0,2.0,0.0,0.0,-1.0,1.0,116
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\Base64.java,xdman.util.Base64,0.0,-1.0,1.0,0.0,0.0,-1.0,1.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\FormatUtilities.java,xdman.util.FormatUtilities,0.0,-1.0,33.0,6.0,0.15384616,-1.0,5.0,9
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\HostUnreachableException.java,xdman.network.HostUnreachableException,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$262,0.0,0.0,7.0,0.0,0.0,-1.0,4.0,262
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$164,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,164
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\SettingsPage.java,xdman.ui.components.SettingsPage$1673,0.0,-1.0,8.0,0.0,0.0,-1.0,4.0,1673
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\monitoring\MonitoringSession.java,xdman.monitoring.MonitoringSession,0.0,-1.0,200.0,26.0,0.11504425,-1.0,24.0,35
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MediaConversionWnd.java,xdman.ui.components.MediaConversionWnd$228,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,228
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\CustomButton.java,xdman.ui.components.CustomButton,0.0,0.0,6.0,17.0,0.73913044,-1.0,3.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YoutubeDLHandler.java,xdman.videoparser.YoutubeDLHandler,0.0,-1.0,18.0,18.0,0.5,-1.0,6.0,17
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MainWindow.java,xdman.ui.components.MainWindow$749,0.0,-1.0,2.0,0.0,0.0,-1.0,2.0,749
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\Downloader.java,xdman.downloaders.Downloader,0.0,-1.0,26.0,32.0,0.55172414,-1.0,10.0,19
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$252,0.0,0.0,8.0,0.0,0.0,-1.0,3.0,252
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\Logger.java,xdman.util.Logger,0.0,-1.0,4.0,3.0,0.42857143,-1.0,2.0,5
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\ParamUtils.java,xdman.util.ParamUtils,0.0,-1.0,7.0,0.0,0.0,-1.0,4.0,12
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\UpdateChecker.java,xdman.util.UpdateChecker$74,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,74
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLookAndFeel.java,xdman.ui.laf.XDMLookAndFeel,0.0,0.0,16.0,0.0,0.0,-1.0,5.0,10
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$107,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,107
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$BoxInfo,0.0,-1.0,0.0,4.0,1.0,-1.0,0.0,706
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\HttpClient.java,xdman.network.http.HttpClient,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\FormatGroup.java,xdman.mediaconversion.FormatGroup,0.0,-1.0,0.0,7.0,1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$F4MMedia,0.0,-1.0,0.0,12.0,1.0,-1.0,0.0,748
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\FixedRangeInputStream.java,xdman.network.FixedRangeInputStream,0.0,0.0,0.0,14.0,1.0,-1.0,0.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\downloaders\metadata\manifests\F4MManifest.java,xdman.downloaders.metadata.manifests.F4MManifest$296,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,296
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\AboutPage.java,xdman.ui.components.AboutPage,4.0,0.0,39.0,0.0,0.0,0.0,12.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\LayeredPanel.java,xdman.ui.components.LayeredPanel$25,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,25
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\mediaconversion\ConversionItem.java,xdman.mediaconversion.ConversionItem,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\XDMFrame.java,xdman.ui.components.XDMFrame$DpiUtils,0.0,-1.0,16.0,1.0,0.05882353,-1.0,6.0,530
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\laf\XDMLabelUI.java,xdman.ui.laf.XDMLabelUI,0.0,0.0,6.0,0.0,0.0,-1.0,2.0,11
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\NativeMessagingHostInstaller.java,xdman.util.NativeMessagingHostInstaller,0.0,-1.0,42.0,8.0,0.16,-1.0,8.0,16
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$MsgBoxFocusTraversalPolicy,0.0,0.0,4.0,1.0,0.2,-1.0,1.0,288
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\VideoConversionWnd.java,xdman.ui.components.VideoConversionWnd$607,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,607
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\network\http\ChunkedInputStream.java,xdman.network.http.ChunkedInputStream,0.0,0.0,1.0,55.0,0.98214287,-1.0,1.0,48
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMApp.java,xdman.XDMApp$426,0.0,-1.0,14.0,0.0,0.0,-1.0,7.0,426
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\XDMConstants.java,xdman.XDMConstants,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,3
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\res\FontResource.java,xdman.ui.res.FontResource,0.0,-1.0,21.0,21.0,0.5,-1.0,2.0,8
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\util\DateTimeUtils.java,xdman.util.DateTimeUtils,0.0,-1.0,51.0,1.0,0.01923077,-1.0,1.0,6
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\videoparser\YdlResponse.java,xdman.videoparser.YdlResponse$260,0.0,-1.0,8.0,0.0,0.0,-1.0,1.0,260
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\NewDownloadWindow.java,xdman.ui.components.NewDownloadWindow$83,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,83
+C:\Users\sugii syuji\gitProject\xdm\app\src\main\java\xdman\ui\components\MessageBox.java,xdman.ui.components.MessageBox$194,0.0,-1.0,3.0,0.0,0.0,-1.0,2.0,194

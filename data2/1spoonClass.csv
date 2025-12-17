@@ -1,0 +1,7 @@
+file,class,NprotM,BOvR,ATFD,ATLD,LAA,BUR,FDP,line
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree$ContainsValueFunction,0.0,-1.0,0.0,2.0,1.0,-1.0,0.0,698
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree$ContainsIntervalFunction,0.0,-1.0,2.0,5.0,0.71428573,-1.0,1.0,712
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree$TreeNodeIterator,0.0,0.0,5.0,17.0,0.77272725,-1.0,1.0,126
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree$PartialScoredList,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,811
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree,0.0,0.0,273.0,26.0,0.08695652,-1.0,10.0,15
+C:\Users\sugii syuji\gitProject\CoreNLP\src\edu\stanford\nlp\util\IntervalTree.java,edu.stanford.nlp.util.IntervalTree$TreeNode,0.0,-1.0,0.0,6.0,1.0,-1.0,0.0,23
