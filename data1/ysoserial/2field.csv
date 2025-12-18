@@ -1,0 +1,25 @@
+file,class,method,variable,usage
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,getSecurityManager/0,securityManager,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\DelegateSecurityManager.java,ysoserial.secmgr.DelegateSecurityManager,setSecurityManager/1[java.lang.SecurityManager],securityManager,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,call/0,bytes,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Deserializer.java,ysoserial.Deserializer,Deserializer/1[byte[]],bytes,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,call/0,object,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\Serializer.java,ysoserial.Serializer,Serializer/1[java.lang.Object],object,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,getThreadName/0,threadName,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,getCmd/0,cmd,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager$ExecException,ExecException/1[java.lang.String],cmd,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,getSecurityManager/0,threadDelegates,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ThreadLocalSecurityManager.java,ysoserial.secmgr.ThreadLocalSecurityManager,setSecurityManager/1[java.lang.SecurityManager],threadDelegates,1
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,testPayload/0,payloadClass,1
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,PayloadsTest/1[java.lang.Class<? extends ysoserial.payloads.ObjectPayload<?>>],payloadClass,3
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"testPayload/2[java.lang.Class<? extends ysoserial.payloads.ObjectPayload<?>>,java.lang.Class[]]",payloadClass,2
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\PayloadsTest.java,ysoserial.payloads.PayloadsTest,"testPayload/2[java.lang.Class<? extends ysoserial.payloads.ObjectPayload<?>>,java.lang.Class[]]",ASSERT_MESSAGE,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\payloads\util\Gadgets.java,ysoserial.payloads.util.Gadgets,"createMemoizedInvocationHandler/1[java.util.Map<java.lang.String,java.lang.Object>]",ANN_INV_HANDLER_CLASS,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload,main/1[java.lang.String[]],USAGE_CODE,2
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\GeneratePayload.java,ysoserial.GeneratePayload,main/1[java.lang.String[]],INTERNAL_ERROR_CODE,1
+C:\Users\syuuj\gitProject\ysoserial\src\test\java\ysoserial\payloads\TestHarnessTest.java,ysoserial.payloads.TestHarnessTest$ExecMockSerializable,ExecMockSerializable/1[java.lang.String],cmd,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,wrap/1[java.util.concurrent.Callable<T>],throwException,2
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,ExecCheckingSecurityManager/1[boolean],throwException,3
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,getCmds/0,cmds,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,checkExec/1[java.lang.String],cmds,1
+C:\Users\syuuj\gitProject\ysoserial\src\main\java\ysoserial\secmgr\ExecCheckingSecurityManager.java,ysoserial.secmgr.ExecCheckingSecurityManager,checkExec/1[java.lang.String],throwException,1

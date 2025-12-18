@@ -20,3 +20,7 @@ spark,2.9.3,2.9.2,spark
 webmagic,WebMagic-0.7.3,WebMagic-0.7.2,webmagic
 xdm,7.2.11,7.2.10,xdman
 zookeeper,release-3.6.3,release-3.6.2,zookeeper
+ysoserial,v0.0.5,v0.0.4
+mapstruct,1.4.2.Final,1.4.1.Final,mapstruct
+vert.x,4.1.2,4.1.1,vertx
+fastjson,1.2.76,1.2.75,fastjson

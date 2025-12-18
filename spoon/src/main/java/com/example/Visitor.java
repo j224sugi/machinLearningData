@@ -232,14 +232,15 @@ public class Visitor extends CtScanner {
                 return "$Anonymous$" + getStartLine(clazz);
             }
             return getClassName(parent) + "$" + getStartLine(clazz);
-        } else if(clazz.isTopLevel()){
+        } else if (clazz.isTopLevel()) {
             return clazz.getQualifiedName();
-        }else{
-            CtType parent=clazz.getParent(CtType.class);
-            if(parent==null||parent==clazz){
+        } else {
+            CtType parent = clazz.getParent(CtType.class);
+            if (parent == null || parent == clazz) {
                 return "$innerClass$";
             }
             return getClassName(parent)+"$"+clazz.getSimpleName();
+            
         }
     }
 
@@ -265,4 +266,3 @@ public class Visitor extends CtScanner {
     }
 
 }
-
