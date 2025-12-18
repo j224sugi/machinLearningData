@@ -1,2 +1,0 @@
-ysoserial,v0.0.5,v0.0.4,temp
-fastjson,1.2.76,1.2.75,fastjson
